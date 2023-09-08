@@ -291,7 +291,31 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
-- 2.1.1. Análisis CElicitation & Analysis
+- 2.1.1. Análisis competitivo.
+- 
+- 2.1.2. Estrategias y tácticas frente a competidores.
+**Liderazgo en costos:**
+
+-   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
+-   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
+-   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
+
+**Estrategia de diferenciación:**
+
+-   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
+-   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a diferentes tipos de cultivos.
+-   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
+
+**Estrategia de enfoque:**
+
+-   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
+-   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
+
+**Táctica de expansión:**
+
+-   Evitar saturar la aplicación con anuncios excesivos.
+-   Enfocarse en obtener valoraciones positivas de los usuarios.
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.
 
 
 
@@ -304,8 +328,8 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 (https://i.ibb.co/JtcC9wV/Diagram-3.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MTU5OTE0LDE1MzA1MDU2MjEsMTY2ND
-YwMzI3OCwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYz
+eyJoaXN0b3J5IjpbMTk2OTkxMjk5OCw2MDYxNTk5MTQsMTUzMD
+UwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYz
 Niw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
 YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
 NSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMT
