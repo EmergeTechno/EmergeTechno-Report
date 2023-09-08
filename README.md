@@ -470,11 +470,12 @@ https://i.ibb.co/gg80g0B/person2.jpg
 
  - 2.3.2 User Task Matrix.
  - 2.3.3 Empathy Mapping
+ 
  - 2.3.4 As-is Scenario Mapping.
    - Segmento 1: Agricultores
    ![Diagrama-en-blanco.jpg (1045×754) (ibb.co)](https://i.ibb.co/g9BVCtN/Diagrama-en-blanco.jpg)
    - Segmento 2: Especialistas
-
+![Diagrama-en-blanco-1.jpg (1105×783) (ibb.co)](https://i.ibb.co/cyf5kNP/Diagrama-en-blanco-1.jpg)
 # Capítulo III: Requirements Specification
 
 ### 3.1 To-Be Scenario Mapping
@@ -559,13 +560,21 @@ https://i.ibb.co/gg80g0B/person2.jpg
 # Capítulo IV: Strategic-Level Software Design
 
 ### 4.1. Strategic-Level Attribute-Driven Design.
+
 ### 4.1.1 Design Purpose.
+
 ### 4.1.2 Attribute.-Driven Design Inputs.
+
 #### 4.1.2.1.  	Primary Functionality(Primary User Stories).
+
 #### 4.1.2.2.  	Quality attribute Scenarios.
+
 #### 4.1.2.3.  	Constrains.
+
 ### 4.1.3.  	Architectural D
+
 ### 4.1.4.  	Architectural Design Decisions
+
 ### 4.1.5.  	Quality Attribute Scenario Refinements.
 
 
@@ -591,48 +600,14 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 
-- 2.1.2. Estrategias y tácticas frente a competidores.
-
-**Liderazgo en costos:**
-
--   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
--   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
--   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
-
-**Estrategia de diferenciación:**
-
--   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
--   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a diferentes tipos de cultivos.
--   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
-
-**Estrategia de enfoque:**
-
--   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
--   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
-
-**Táctica de expansión:**
-
--   Evitar saturar la aplicación con anuncios excesivos.
--   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Cis
-
-
-
-
-
-## Capítulo IV: Strategic-Level Software Design
-### 4.1. Strategic-Level Attribute
-
-
-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzc5NjkyMCwxMTg4ODQ3NzY5LDE5OD
-Q0ODg4MjQsLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIx
-MDUsLTE5OTM0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLD
-EyMTEwNDI3MzgsLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMDg3
-MjgzMDA3LDQzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMz
-IsNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwODM3MDk0NywzNTQx
-Mzk1MTFdfQ==
+eyJoaXN0b3J5IjpbMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExOD
+g4NDc3NjksMTk4NDQ4ODgyNCwtMTg2Njg2NjIyOSwxNzMxNTY5
+NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgxOTQ1LD
+E1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0
+NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MT
+YsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMDA4
+MzcwOTQ3XX0=
 -->
