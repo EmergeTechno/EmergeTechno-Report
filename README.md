@@ -561,7 +561,18 @@ https://i.ibb.co/gg80g0B/person2.jpg
 #### 4.1.2.3.  	Constrains.
 ### 4.1.3.  	Architectural Drivers Backlog.
 ### 4.1.4.  	Architectural Design Decisions
-### 4.1.5.  	Architectural Design Decisions
+### 4.1.5.  	Quality Attribute Scenario Refinements.
+
+
+### 4.2. Strategic-Level Domain-Driven Design.
+
+
+### 4.3. Software Architecture.
+Presentamos nuestro modelo de arquitectura de software para cubrir las necesidades de  la aplicación móvil.
+### 4.3. Software Architecture.
+
+
+
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -601,11 +612,11 @@ https://i.ibb.co/gg80g0B/person2.jpg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjkwNTM4NywtMTk5MzQwNjU0OSwxNj
-kzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5
-NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LD
-E1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgz
-OTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC
-00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2
-MzQwMl19
+eyJoaXN0b3J5IjpbLTE3OTYxMzA5NzYsLTE5OTM0MDY1NDksMT
+Y5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5
+OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNy
+wxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4
+Mzk0MTMsMjAwODM3MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMS
+wtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3
+NjM0MDJdfQ==
 -->
