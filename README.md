@@ -193,12 +193,15 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 - 1.2.1 Antecedentes y Problemática: Las 5 “W” y 2 “H”
 |Pregunta | Descripción|
 |------|------|
-|as|as|
+|as|as||Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
+
+### 1.2. Startup Profile
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDIwMTU0NiwtMTEwNTU0Njg1NiwxOT
-E5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4
-OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLT
-YxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0
-MTUxOSwtMzI1NDk2Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5Ny
-wzOTAzMTYwNTEsODI1ODU5NjYyXX0=
+eyJoaXN0b3J5IjpbMTg1MzgwNTc2MCwyMTIwMjAxNTQ2LC0xMT
+A1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5
+ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMj
+AwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3
+NzU3MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NS
+wtMjIzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
 -->
