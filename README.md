@@ -179,10 +179,10 @@ En consonancia con su misión, CropMaster se centra en asistir a las personas en
  
 - 1.1.2 Perfiles de integrantes del equipo
 
-
+|Nombre | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTEyODk1NSwtMTg1MzYyNzA0NSwxNj
+eyJoaXN0b3J5IjpbLTkxMTkzMzY1OCwtMTg1MzYyNzA0NSwxNj
 E5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2Nzg0
 MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgxMzk5NCwyMD
 YxMzc3NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0
