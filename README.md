@@ -321,7 +321,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 **Analisis SWOT**
 
-| Startup | AgriPure | Agri | Farmlogs | Strider |
+| Startup | CropMaster | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Fortalezas | - Tiene un costo en el mercado mucho más accesible que el de sus competidores - Producto único diferenciador - Interfaz amigable y ágil | - Domina el mercado chileno de apps enfocados a la agricultura. - Cuenta con alto nivel de investigación y desarrollo | - Cuenta con grandes logros y avances en la tecnología hacia la agricultura. - Tiene un costo en el mercado de software accesible | - Domina el mercado estadounidense de apps enfocados a la agricultura. - Tiene un costo en el mercado de software accesible |
 | Debilidades | - Poco tiempo en el mercado - Poco tiempo en el desarrollo, mantenimiento y mejora de tecnologías en la agricultura | Su uso se centraliza generalmente en usuarios chilenos | - Poco desarrollo en sus modelos de marketing - Su uso se centraliza en usuarios estadounidenses y noruegos | - Pocas actualizaciones en la interfaz de usuario - Poca expansión hacia otros países |
@@ -585,11 +585,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODA0MDg1OCwxNjkzNzgxOTQ1LDE1Nj
-gxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3
-MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMT
-Y5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMDA4Mzcw
-OTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgwMDQsLT
-UwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4
-MDddfQ==
+eyJoaXN0b3J5IjpbLTIwMTUxNzgwNDUsMTY5Mzc4MTk0NSwxNT
+Y4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5OTU5OTksMTk5NDUy
+NzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNywxNTI2NTY3ODE2LD
+E2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwODM3
+MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMSwtNDI2MjM4MDA0LC
+01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1MzAx
+ODA3XX0=
 -->
