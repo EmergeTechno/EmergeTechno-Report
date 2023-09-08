@@ -608,7 +608,10 @@ En nuestra aplicación, contamos con una serie de historias de usuario que son e
 ![kkk.png (690×696) (ibb.co)](https://i.ibb.co/kX0Y88L/kkk.png)
 ### 4.1.5.  	Quality Attribute Scenario Refinements.
 
+![Q1.png (567×472) (ibb.co)](https://i.ibb.co/Px2vZwc/Q1.png)
 
+![Q2.png (567×585) (ibb.co)](https://i.ibb.co/gd4KgkG/Q2.png)
+![Q3.png (567×472) (ibb.co)](https://i.ibb.co/8xWnG0Y/Q3.png)
 ### 4.2. Strategic-Level Domain-Driven Design.
 
 
@@ -634,11 +637,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMT
-Y5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksMTk4NDQ4ODgy
-NCwtMTg2Njg2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMT
-k5MzQwNjU0OSwxNjkzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0
-MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMD
-csNDMxNjk1NzA3LDE1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAx
-MDEyODddfQ==
+eyJoaXN0b3J5IjpbLTE4MjczMTg1NzksNzYwODU4OTgyLDEyOD
+Q2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3
+NjksMTk4NDQ4ODgyNCwtMTg2Njg2NjIyOSwxNzMxNTY5NTMyLD
+kzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgxOTQ1LDE1Njgx
+NDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3Mj
+Q3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMTY5
+MjkyNjEzMl19
 -->
