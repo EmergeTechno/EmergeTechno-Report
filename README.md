@@ -6,26 +6,24 @@ Nombre del curso: Arquitecturas De Software Emergentes
 
 Sección: WS82
 
-Nombre del profesor: 
+Nombre del profesor: Royer Edelwer Rojas Malasquez
 
 "Informe de Trabajo Final"
 
 Nombre del startup: EmergeTechno
 
-Nombre del producto: AgriPure
+Nombre del producto: CropMaster
 
 Relación de integrantes:
 
--   Diego Talledo Sanchez (U202017388)
+-   Enrique Daniel Postigo Tuesta(U201720027)
 -   Bruno Moisés Palomino Santa Cruz (U201914974)
--   Andres Christian Reynoso (U202010196)
--   Frank Yamil Alva Cordova (U202020026)
--   Franchesco Alexis Soto Morales (U201821078)
 
-Mes y año: Agosto 2023
+
+Mes y año: Septiembre 2023
 
 Ciclo: 2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Mzk4MDQ4LDM5MDMxNjA1MSw4MjU4NT
-k2NjJdfQ==
+eyJoaXN0b3J5IjpbLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1OD
+U5NjYyXX0=
 -->
