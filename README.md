@@ -26,13 +26,15 @@ Mes y año: Septiembre 2023
 Ciclo: 2023-2
 
 ## Registro de Versiones del Informe
-| Versión | Fecha | Autor 
-| ---------- | ---------- | 
-| Elem 1, 1 | Elem 1, 2 |
- | Elem 1, 2 | Elem 2, 2 |
+| Versión | Fecha | Autor | Descripción de la Modificación| 
+| ---------- | ---------- | ----------| ----| 
+| 1.0| Elem 1, 2 |
+ | 1.1| Elem 2, 2 |
+  | 1.1| Elem 2, 2 |
+   | 1.1| Elem 2, 2 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTcwMjc1OCwxNzg4OTY0Mzk1LC0yMj
+eyJoaXN0b3J5IjpbLTkxNDMwNTcxOCwxNzg4OTY0Mzk1LC0yMj
 M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
