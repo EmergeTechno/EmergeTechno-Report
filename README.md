@@ -163,8 +163,8 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 
 | Criterio especfico |Acciones realizadas | Conclusiones |
 |  ----------  |  ----------  |  ----------  | 
-| Comunica oralmente con efectividad a diferentes rangos de audiencia| Enrique Postigo(TB1):| Fila1|
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1: | Fila2|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia| Enrique Postigo(TB1):Después de avanzar en la entrega de la TB1, se estableció una comunicación efectiva a través de reuniones grupales y presentaciones, lo que facilitó la compartición e intercambio de ideas entre los diferentes compañeros.| Fila1|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Enrique Postigo(TB1): | Fila2|
 
 
 # Capítulo I: Introducción
@@ -639,11 +639,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4Mz
-Q3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5OTA3Niwx
-MjA3Nzk2OTIwLDExODg4NDc3NjksLTE4NjY4NjYyMjksMTczMT
-U2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMTY5Mzc4MTk0
-NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5OTU5OTksMT
-k5NDUyNzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNywxNTI2NTY3
-ODE2XX0=
+eyJoaXN0b3J5IjpbLTU0MTQzNTk2Miw3ODYxNzA5MTcsMTczMj
+U2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywx
+NzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Nj
+g2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0
+OSwxNjkzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMT
+QwODk5NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1
+NzA3XX0=
 -->
