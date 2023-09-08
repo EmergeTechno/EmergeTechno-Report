@@ -459,7 +459,7 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 ### 2.3. Needfinding
  - User Personas
- -
+ - User Task Matrix.
  -
 
 # Capítulo III: Requirements Specification
@@ -591,11 +591,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDgxNjA4OSwxNjkzNzgxOTQ1LDE1Nj
-gxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3
-MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMT
-Y5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMDA4Mzcw
-OTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgwMDQsLT
-UwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4
-MDddfQ==
+eyJoaXN0b3J5IjpbNzQwODQwNzA0LDE2OTM3ODE5NDUsMTU2OD
+E0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1OTk5LDE5OTQ1Mjcy
+NDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2NzgxNiwxNj
+kyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMDgzNzA5
+NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAwNCwtNT
+A0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAyLDUzNTMwMTgw
+N119
 -->
