@@ -597,6 +597,11 @@ En nuestra aplicación, contamos con una serie de historias de usuario que son e
 
 ### 4.1.3.  	Architectural Drivers Backlog
 
+|Driver ID| Título de Driver | Descripción | Importancia para Stakeholders(High, Medium, Low)|Impacto en Architecture Technical Complexity (High, Medium, Low)|
+|--|--|--|--|--|
+|Q1|Disponibilidad (Availability)|Nivel de operatividad y compromiso del sistema para cumplir con la tarea o propósito del usuario.|High|High|
+|Q2|Capacidad de modificación (Modifiability)|Capacidad de iniciar con un punto de partida en el desarrollo y modificarlo según las preferencias del cliente.|High|Medium|
+|Q3|Seguridad (Security)|Garantizar que el proyecto esté libre de peligros o riesgos mediante la implementación de las medidas de mitigación previamente establecidas para cada riesgo identificado.|Medium|High|
 
 ### 4.1.4.  	Architectural Design Decisions
 
@@ -628,11 +633,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMD
-c3OTY5MjAsMTE4ODg0Nzc2OSwxOTg0NDg4ODI0LC0xODY2ODY2
-MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2NTQ5LD
-E2OTM3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4
-OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MD
-csMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIx
-ODM5NDEzXX0=
+eyJoaXN0b3J5IjpbMTEwNzU3NjM5MSwxMjg0Njk5NTAzLDE3MT
+E2OTkwNzYsMTIwNzc5NjkyMCwxMTg4ODQ3NzY5LDE5ODQ0ODg4
+MjQsLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLT
+E5OTM0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEw
+NDI3MzgsLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMD
+A3LDQzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIw
+MTAxMjg3XX0=
 -->
