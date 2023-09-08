@@ -462,6 +462,37 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 ### 4.1.3.  	Architectural Drivers Backlog.
 ### 4.1.4.  	Architectural Drivers Backlog.
 
+- 2.1.2. Estrategias y tácticas frente a competidores.
+
+**Liderazgo en costos:**
+
+-   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
+-   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
+-   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
+
+**Estrategia de diferenciación:**
+
+-   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
+-   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a diferentes tipos de cultivos.
+-   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
+
+**Estrategia de enfoque:**
+
+-   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
+-   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
+
+**Táctica de expansión:**
+
+-   Evitar saturar la aplicación con anuncios excesivos.
+-   Enfocarse en obtener valoraciones positivas de los usuarios.
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Cis
+
+
+
+
+
+## Capítulo IV: Strategic-Level Software Design
+### 4.1. Strategic-Level Attribute
 
 
 
@@ -469,11 +500,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOT
-k0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4
-MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMD
-A4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgw
-MDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1Mz
-UzMDE4MDcsLTE3MzgzNDc0MzcsLTIxNjA3Mzg4NSw5NDc5OTk3
-NjRdfQ==
+eyJoaXN0b3J5IjpbMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xND
+A4OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3
+MDcsMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNj
+IxODM5NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2
+MjEsLTQyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsOD
+ExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQzNywtMjE2MDcz
+ODg1XX0=
 -->
