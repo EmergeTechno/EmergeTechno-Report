@@ -172,20 +172,25 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 - 1.1.1 Descripción del Startup
 
 En la sociedad actual, uno de los pilares esenciales que adquiere una importancia de gran magnitud es el sector agrícola. Específicamente en el contexto peruano, los agricultores desempeñan un rol crucial al impulsar la economía del país. Sin embargo, se enfrentan con frecuencia a obstáculos significativos, careciendo de las oportunidades y herramientas tecnológicas necesarias para maximizar sus ganancias y optimizar la producción.
+
 En respuesta a estas carencias que afectan a miles de agricultores, surge una solución innovadora bajo el nombre de "ropMaster". Esta iniciativa tiene como objetivo abordar las brechas existentes y brindar un apoyo sólido a la comunidad agrícola.
-CropMaster se presenta como una solución revolucionaria que se concreta mediante una aplicación móvil. Esta aplicación no solo actúa como una asistencia en línea para los agricultores, sino que también ofrece una amplia gama de alternativas, guías y consejos destinados a elevar los estándares de la agricultura y, por ende, a aumentar la eficiencia y las ganancias de los agricultores.
+
+CropMasterse presenta como una solución revolucionaria que se concreta mediante una aplicación móvil. Esta aplicación no solo actúa como una asistencia en línea para los agricultores, sino que también ofrece una amplia gama de alternativas, guías y consejos destinados a elevar los estándares de la agricultura y, por ende, a aumentar la eficiencia y las ganancias de los agricultores.
+
 Un aspecto destacado de ropMaster es su capacidad para conectar a los agricultores con el mundo exterior, superando las limitaciones geográficas y facilitando un acceso sencillo a información pertinente y servicios de alta calidad. A través de su presencia en una Aplicación Móvil, re pone al alcance de los agricultores una plataforma rica en contenido y herramientas que respaldan el desarrollo y el éxito de cada usuario.
+
 En consonancia con su misión, ropMaster se centra en asistir a las personas en sus esfuerzos por llevar a cabo una siembra eficaz, ya sea a gran escala o incluso en entornos domésticos. Esto se logra mediante una plataforma segura que ofrece recomendaciones y guías personalizadas de acuerdo a las necesidades individuales de cada agricultor.
-Mirando hacia el futuro, ropMaster persigue una visión ambiciosa: convertirse en una empresa líder que desempeñe un papel fundamental en la reducción de la prevalencia de alimentos transgénicos. Esta visión se materializa al proporcionar una plataforma confiable y accesible que permite a cualquier persona involucrarse en la creación y el cultivo de su propio alimento. Al mismo tiempo, ropMaster busca contribuir a la mejora de los cultivos a gran escala, fomentando la producción de alimentos de mayor calidad y valor nutricional. 
  
 - 1.1.2 Perfiles de integrantes del equipo
 
 |Nombre |Descripción | Foto |
 |----|---|---|
-|Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (157×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
+|Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU1NDY4NTYsLTUwODYwNzg2OCwxOT
+eyJoaXN0b3J5IjpbMTgxMjE2NzU5NiwtMTEwNTU0Njg1NiwxOT
 E5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4
 OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLT
 YxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0
