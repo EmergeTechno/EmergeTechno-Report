@@ -426,35 +426,6 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 
 
-## Capítulo IV: Strategic-Level Software Design
-### 4.1. Strategic-Level Attribute-Driven Design.
-### 4.1.1 Design Purpose.
-### 4.1.2 Attribute
-- 2.1.2. Estrategias y tácticas frente a competidores.
-
-**Liderazgo en costos:**
-
--   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
--   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
--   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
-
-**Estrategia de diferenciación:**
-
--   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
--   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a diferentes tipos de cultivos.
--   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
-
-**Estrategia de enfoque:**
-
--   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
--   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
-
-**Táctica de expansión:**
-
--   Evitar saturar la aplicación con anuncios excesivos.
--   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Cis
-
 
 
 
@@ -476,11 +447,11 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDUyNzI0NywyMDg3MjgzMDA3LDQzMT
-Y5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAxMjg3
-LDE2MjE4Mzk0MTMsMjAwODM3MDk0NywzNTQxMzk1MTEsMTUzMD
-UwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYz
-Niw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
-YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
-NV19
+eyJoaXN0b3J5IjpbLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMD
+g3MjgzMDA3LDQzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYx
+MzIsNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwODM3MDk0NywzNT
+QxMzk1MTEsMTUzMDUwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTEx
+OTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNz
+M4MzQ3NDM3LC0yMTYwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEw
+NTRdfQ==
 -->
