@@ -581,7 +581,7 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 ![Container 3](https://i.ibb.co/MCGPPW9/arqui3.jpg)
 
 #### 4.3.3 Software Architecture Deployment Diagrams.
-Diagrama de clases dentro del web services API Aplication 
+Diagrama de clases dentro del web services API Aplicationl 
 ![Container 3](https://i.ibb.co/t4fz9XK/arqui4.jpg)
 
 rivers Backlog.
@@ -625,11 +625,11 @@ rivers Backlog.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzQzMjUwNywxNzMxNTY5NTMyLDkzNj
-E1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgxOTQ1LDE1NjgxNDg0
-NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3MjQ3LD
-IwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMTY5Mjky
-NjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMDA4MzcwOTQ3LD
-M1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgwMDQsLTUwNDA1
-MTE5OV19
+eyJoaXN0b3J5IjpbLTE4NjY4NjYyMjksLTc0NzQzMjUwNywxNz
+MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
+OTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OS
+wxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1
+Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMy
+wyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYy
+MzgwMDRdfQ==
 -->
