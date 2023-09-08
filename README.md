@@ -437,8 +437,20 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EVsD1LlRbgZAkM8D64ggtrwBVzRKyYDOqHM9_AjzZqdPww?e=JBlIll&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
 
 ***Segmento 2: Specialist***
+Entrevista #1: 
 
+![Entrevista 2](https://media.discordapp.net/attachments/877599577073647676/1149365323670229022/e89aa1c7-8c8a-43a2-93ea-6eaeaa6e02bd.png?width=2138&height=700)
+- Nombre: Erick Joaquin 
+- Edad: 21 años 
+-  Residencia: Lima
+- Duración: 5:16
+- Tecnologías: Windows, Android. 
+- Resumen: Erick es un egresado de la carrera de ingenieria agronomica. Esta comenzando hacer practicas por lo que adquirio conceptos sobre es asesoramiento de los cultivos, Explica que recomienda la elección adecuada de cultivos, mejora del suelo y prácticas sostenibles. Ademas de los desafios que presentan los agricultores identifico algunos como el clima y la gestión del agua. Tambien meciona que las tendencias actuales, como la agricultura de precisión, son prometedoras. Por ultimo, Actualmente no tiene recursos para invertir en dispositivos IoT, pero estaria dispuesto a explorar opciones de financiamiento y colaboración.
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914974_upc_edu_pe/EVkAz7lh0g1IgLz4n2cgjoEB59n9RaSF-3ZVcqTBfRMVMg?e=wI5nBJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
+- 2.2.3. Análisis de entrevistas.
+
+En resumen, las entrevistas muestran que los agricultores entrevistados valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
 
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute-Driven Design.
@@ -457,7 +469,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NTA1NTk4LC0xNDA4OTk1OTk5LDE5OT
+eyJoaXN0b3J5IjpbNzU1MjMzMjI2LC0xNDA4OTk1OTk5LDE5OT
 Q1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2Nzgx
 NiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMD
 gzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAw
