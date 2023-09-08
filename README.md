@@ -28,13 +28,13 @@ Ciclo: 2023-2
 ## Registro de Versiones del Informe
 | Versión | Fecha | Autor | Descripción de la Modificación| 
 | ---------- | ---------- | ----------| ----| 
-| 1.0| Elem 1, 2 |
- | 1.1| Elem 2, 2 |
-  | 1.1| Elem 2, 2 |
-   | 1.1| Elem 2, 2 |
+| 1.0| 31/08/2023 |
+| 1.1| 03/09/2023 |
+| 1.2| 05/09/2023|
+| 1.3| 07/09/2023|
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDMwNTcxOCwxNzg4OTY0Mzk1LC0yMj
+eyJoaXN0b3J5IjpbMTA0NTYxNzI2MiwxNzg4OTY0Mzk1LC0yMj
 M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
