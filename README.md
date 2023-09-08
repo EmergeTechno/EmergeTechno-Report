@@ -447,6 +447,15 @@ Entrevista #1:
 - Tecnologías: Windows, Android. 
 - Resumen: Erick es un egresado de la carrera de ingenieria agronomica. Esta comenzando hacer practicas por lo que adquirio conceptos sobre es asesoramiento de los cultivos, Explica que recomienda la elección adecuada de cultivos, mejora del suelo y prácticas sostenibles. Ademas de los desafios que presentan los agricultores identifico algunos como el clima y la gestión del agua. Tambien meciona que las tendencias actuales, como la agricultura de precisión, son prometedoras. Por ultimo, Actualmente no tiene recursos para invertir en dispositivos IoT, pero estaria dispuesto a explorar opciones de financiamiento y colaboración.
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914974_upc_edu_pe/EVkAz7lh0g1IgLz4n2cgjoEB59n9RaSF-3ZVcqTBfRMVMg?e=wI5nBJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+Entrevista #2: 
+![Captura-de-pantalla-2023-09-08-020326.png (1012×305) (ibb.co)](https://i.ibb.co/cDMHQM4/Captura-de-pantalla-2023-09-08-020326.png)
+- Nombre: Luis Prado
+- Edad: 28 años 
+-  Residencia: Lima
+- Duración: 4:00
+- Tecnologías: Windows, Android. 
+- Resumen: Entrevistamos a un experto en asesoramiento agrícola con experiencia en diversas áreas. El experto se enfoca en evaluar las necesidades de los agricultores y proporcionar recomendaciones específicas para mejorar la producción. Los desafíos actuales incluyen la falta de acceso a información actualizada y la adaptación a las tendencias agrícolas. El experto aconseja formación previa para nuevos proyectos. No está familiarizado con dispositivos IoT, y su interés en una aplicación móvil para asesorar depende de su eficacia y beneficios.
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201720027_upc_edu_pe/EchUMnhyOTdJohEd0jXEsZUB8_y6hFEgEwryAjkw6zWurQ?e=02ejMr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 - 2.2.3. Análisis de entrevistas.
 
@@ -500,11 +509,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xND
-A4OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3
-MDcsMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNj
-IxODM5NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2
-MjEsLTQyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsOD
-ExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQzNywtMjE2MDcz
-ODg1XX0=
+eyJoaXN0b3J5IjpbODA1NjM3MjQ0LDE1NjgxNDg0NDIsMTIxMT
+A0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMw
+MDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMTY5MjkyNjEzMiw1Mj
+AxMDEyODcsMTYyMTgzOTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUx
+MSwxNTMwNTA1NjIxLC00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNj
+QyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4MDcsLTE3MzgzNDc0
+MzddfQ==
 -->
