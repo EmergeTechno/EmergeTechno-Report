@@ -450,7 +450,7 @@ Entrevista #1:
 
 - 2.2.3. Análisis de entrevistas.
 
-En resumen, las entrevistas muestran que los agricultores entrevistados valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
+En resumen, las entrevistas indican que los agricultores valoran sus conocimientos agrícolas, pero están buscando soluciones tecnológicas para optimizar sus procesos y abordar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les proporcione información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse actualizados en las prácticas agrícolas.
 
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute-Driven Design.
@@ -469,11 +469,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MjMzMjI2LC0xNDA4OTk1OTk5LDE5OT
-Q1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2Nzgx
-NiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMD
-gzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAw
-NCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAyLDUzNT
-MwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1LDk0Nzk5OTc2
-NF19
+eyJoaXN0b3J5IjpbMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOT
+k0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4
+MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMD
+A4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgw
+MDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1Mz
+UzMDE4MDcsLTE3MzgzNDc0MzcsLTIxNjA3Mzg4NSw5NDc5OTk3
+NjRdfQ==
 -->
