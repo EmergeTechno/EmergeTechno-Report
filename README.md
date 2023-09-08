@@ -309,18 +309,40 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 
 
 
-
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
-- 2.1.1 Análisis Competitivo
+- 2.1.1. Análisis Ccompetitivo
+.
+- - 2.1.2. Estrategias y tácticas frente a competidores.
+- **Liderazgo en costos:**
 
+-   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
+-   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
+-   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
+
+**Estrategia de diferenciación:**
+
+-   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
+-   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a diferentes tipos de cultivos.
+-   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
+
+**Estrategia de enfoque:**
+
+-   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
+-   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
+
+**Táctica de expansión:**
+
+-   Evitar saturar la aplicación con anuncios excesivos.
+-   Enfocarse en obtener valoraciones positivas de los usuarios.
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTQyMzA5LDEzOTA5OTQyMzUsODExNz
-YzNDAyLDUzNTMwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1
-LDk0Nzk5OTc2NCwxMDQ5MTYxMDU0LDE0MzgzMTMxMDUsLTQ3MD
-kzNDIwOSwxOTk4NjQxOTQ3LDE4NTM4MDU3NjAsLTExMDU1NDY4
-NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNjE5Nzk4NzQ3LD
-k0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2Nzg0MSwyMDA0NDE1
-MjU3XX0=
+eyJoaXN0b3J5IjpbLTE4Mjc0MDQ4NTgsMTQxNTQyMzA5LDEzOT
+A5OTQyMzUsODExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQz
+NywtMjE2MDczODg1LDk0Nzk5OTc2NCwxMDQ5MTYxMDU0LDE0Mz
+gzMTMxMDUsLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NTM4MDU3
+NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NS
+wxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2
+Nzg0MV19
 -->
