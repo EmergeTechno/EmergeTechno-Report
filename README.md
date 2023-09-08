@@ -459,6 +459,9 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 ### 2.3. Needfinding
  - 2.3.1 User Personas
+
+
+
  - 2.3.2 User Task Matrix.
  - 2.3.3 Empathy Mapping
  - 2.3.4 As-is Scenario Mapping.
@@ -592,11 +595,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM0MDY1NDksLTU4NDYxOTExOSwxNj
-kzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5
-NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LD
-E1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgz
-OTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC
-00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2
-MzQwMl19
+eyJoaXN0b3J5IjpbMTYzMDYyODE3LC0xOTkzNDA2NTQ5LDE2OT
+M3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1
+OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMT
+UyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5
+NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLT
+QyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYz
+NDAyXX0=
 -->
