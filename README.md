@@ -28,13 +28,13 @@ Ciclo: 2023-2
 ## Registro de Versiones del Informe
 | Versión | Fecha | Autor | Descripción de la Modificación| 
 | ---------- | ---------- | ----------| ----| 
-| 1.0| 31/08/2023 |
-| 1.1| 03/09/2023 |
-| 1.2| 05/09/2023|
-| 1.3| 07/09/2023|
+| 1.0| 31/08/2023 |Enrique Postigo| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
+| 1.1| 03/09/2023 |Enrique Postigo|
+| 1.2| 05/09/2023|Enrique Postigo|
+| 1.3| 07/09/2023|Enrique Postigo|
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTYxNzI2MiwxNzg4OTY0Mzk1LC0yMj
-M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
+eyJoaXN0b3J5IjpbMTIwODc2MDMyLDE3ODg5NjQzOTUsLTIyMz
+U0NDU5NywzOTAzMTYwNTEsODI1ODU5NjYyXX0=
 -->
