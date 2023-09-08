@@ -169,14 +169,15 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 | Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1: | Fila2|
 
 
+# Capítulo I: Introducción
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NDY3ODQxLDgyODM5NDg3NywyMDA0ND
-E1MjU3LC02MTI3MzY4MDgsMTMxNzgxMzk5NCwyMDYxMzc3NTcy
-LDE5NzQyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0Mzk1LC0yMj
-M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
+eyJoaXN0b3J5IjpbLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMjAwND
+QxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3
+MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NSwtMj
+IzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
 -->
