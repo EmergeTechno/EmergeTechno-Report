@@ -324,7 +324,9 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 **Estrategia de diferenciación:**
 
 -   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
--   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a diferentes tipos de cultivos.
+-   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a difer
+
+## Capítulo II: Requirementes tipos de cultivos.
 -   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
 
 **Estrategia de enfoque:**
@@ -336,10 +338,10 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 
 -   Evitar saturar la aplicación con anuncios excesivos.
 -   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Elicitation & Analysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc0MDQ4NTgsMTQxNTQyMzA5LDEzOT
-A5OTQyMzUsODExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQz
+eyJoaXN0b3J5IjpbMTY0Mjg0MjYzNiwtMTgyNzQwNDg1OCwxND
+E1NDIzMDksODExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQz
 NywtMjE2MDczODg1LDk0Nzk5OTc2NCwxMDQ5MTYxMDU0LDE0Mz
 gzMTMxMDUsLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NTM4MDU3
 NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NS
