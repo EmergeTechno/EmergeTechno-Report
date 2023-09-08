@@ -206,10 +206,16 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 - 1.2.2 Lean UX Process.
 
   - 1.2.2.1. Lean UX Problem Statements.
-  - 
+
+  **Problem Statement 1:** La creciente preocupación global por la sostenibilidad y la seguridad alimentaria en la agricultura plantea un desafío crítico: la falta de acceso de los agricultores a información actualizada y estrategias para adoptar prácticas agrícolas sostenibles y garantizar la seguridad alimentaria. Esto puede resultar en prácticas insostenibles y una menor calidad de los alimentos producidos.
+   ¿Cómo podemos capacitar a los agricultores con conocimientos y herramientas que promuevan la agricultura sostenible y mejoren la seguridad alimentaria en nuestras comunidades agrícolas?
+**Problem Statement 2:** En nuestro contexto, es esencial acceder a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno para la actividad agrícola. La precisión de los datos ingresados es crítica, ya que afecta significativamente los resultados del sistema. 
+¿Cómo podemos garantizar que el sistema funcione con información precisa para ofrecer resultados favorables a los agricultores y evitar datos incorrectos o inadecuados?
+**Problem Statement 3:** Nuestra aplicación busca proporcionar a los agricultores una plataforma tecnológica eficaz, pero enfrentamos el desafío de lograr la adopción y el uso efectivo de la aplicación, especialmente entre aquellos agricultores que pueden tener limitaciones tecnológicas o resistencia al cambio. 
+¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjA3OTE4OSwxOTk4NjQxOTQ3LDE4NT
+eyJoaXN0b3J5IjpbLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NT
 M4MDU3NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYy
 NzA0NSwxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LD
 UzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgx
