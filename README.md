@@ -200,16 +200,16 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |------|------|
 |What|Según datos del sitio web gubernamental, se ha observado una marcada disminución en la producción de varios productos agrícolas, como el café (-84,9%), el ajo (-28,3%), la cebolla (-21,0%), entre otros. Este desafío afecta directamente la situación económica de las familias de los agricultores, quienes buscan una solución que les permita acceder rápidamente a asistencia para abordar esta situación.|
 |When| Esta problemática surge cuando alguien no cuenta con la formación adecuada para llevar a cabo una siembra apropiada de las plantas que planea cultivar. Como resultado, esto conduce a una disminución en la producción de productos agrícolas, lo que se traduce en una menor rentabilidad económica debido a la baja calidad y cantidad de los productos.|
-|Why |as|
+|Why |La producción de las plantas se ve perjudicada debido a la falta de conocimientos técnicos y situaciones en las que no se aplican los fertilizantes en los momentos adecuados.|
 |Who |Este problema afecta a personas involucradas en la agricultura que carecen de conocimientos sobre cómo cultivar plantas frutales o vegetales.|
 |Where |La problemática puede surgir en cualquier lugar donde se practique la agricultura.|
-|How|as|
-|How Much|as|
+|How|La producción de las plantas se ve perjudicada debido a la falta de conocimientos técnicos y situaciones en las que no se aplican los fertilizantes en los momentos adecuados.|
+|How Much|Este desafío se presenta en aproximadamente un 60% de las ocasiones en las que el agricultor no posee conocimientos técnicos sobre cómo cultivar una planta específica. Por lo tanto, nuestra aplicación incluirá herramientas de apoyo que ayudarán a tomar decisiones más informadas al seleccionar el lugar adecuado para sembrar el producto.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjU5Mzg2NiwxODUzODA1NzYwLC0xMT
-A1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5
-ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMj
-AwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3
-NzU3MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NS
-wtMjIzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbODg2NzgwMDg1LDE4NTM4MDU3NjAsLTExMD
+U1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNjE5Nzk4
+NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2Nzg0MSwyMD
+A0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgxMzk5NCwyMDYxMzc3
+NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0Mzk1LC
+0yMjM1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
