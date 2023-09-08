@@ -157,7 +157,8 @@ Ciclo: 2023-2
  Anexos
  
 # Student Outcome
-
+El curso contribuye al cumplimiento del Student Outcome ABET: 
+**ABET–EAC - Student Outcome (3): Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente recuadro describiremos todas las acciones realizadas, criterios específicos y las conclusiones realizadas por parte del equipo, por lo cual nos ayudarán a reconocer el cumplimiento del logro ABET – EAC - Student Outcome (3).
 ```md
 | Nombre  | Tipo    | Color| Criterio Especifico | Acciones Realizadas | Conclusiones |
 
@@ -171,7 +172,7 @@ Ciclo: 2023-2
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones. | Fila 2 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDYyODY5NiwxMzE3ODEzOTk0LDIwNj
+eyJoaXN0b3J5IjpbMTQwOTM2NzQwMiwxMzE3ODEzOTk0LDIwNj
 EzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2Mjc5LDE3ODg5NjQz
 OTUsLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1ODU5NjYyXX0=
 -->
