@@ -164,8 +164,6 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 | Criterio especfico |Acciones realizadas | Conclusiones |
 |  ----------  |  ----------  |  ----------  | 
 | Comunica oralmente con efectividad a diferentes rangos de audiencia| TB1:| Fila1|
-
-```
 | Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1: | Fila2|
 
 
@@ -176,8 +174,9 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMjAwND
-QxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3
-MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NSwtMj
-IzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4ND
+Y3ODQxLDIwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEzOTk0
+LDIwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2Mjc5LDE3OD
+g5NjQzOTUsLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1ODU5NjYy
+XX0=
 -->
