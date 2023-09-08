@@ -298,22 +298,22 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 **Perfil de la StartUp**
 
-| Startup | AgriPure | Agri | Farmlogs | Strider |
+| Startup | CropMaster| Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Origen | Lima, Lima, Perú | Santiago de Chile | San Francisco, California, EEUU | Aventura, Florida, EEUU |
-| Descripcion General | Agri Pure  es  una _Startup_ que desarrolla los mecanismos necesarios para brindar el servicio de gestión y guía de procesos agrícolas. Su servicio principal es utilizar potentes algoritmos de optimización enfocados en los tiempos de respuesta y la geolocalización, para informar acerca de los estados de vegetación de los terrenos agrícolas. Asimismo, de brindar guía de como cultivar correctamente una planta para mejorar la producción de este. | Agri, es una Startup chilena con presencia en Perú y Ecuador que se dedica a proporcionar software de reportes para el sector agrícola, enfocado más en las finanzas de una empresa. Sin embargo, también proporciona compras, bodegaje, tesorería y control de cosecha. | FarmLogs, es una Startup Estadounidense de tecnología de la información y gestión agrícola, que proporciona servicios basados las pérdidas y ganancias, gestión de operación con informes sobre actividades y notificaciones por correo. | Strider es una Startup estadounidense de tecnología de la información y sistemas agrícolas, que proporciona servicios basados en el monitoreo de plagas y detección de áreas críticas con imágenes espaciales. Además, de un seguimiento de máquinas. |
-| Ventaja competitiva ¿Qué valor ofrece a los clientes? | AgriPure ofrece a sus usuarios una solución integral en el acompañamiento y gestión agrícola. Contando con herramientas que ayudan al agricultor como buscador de terreno, control de riego, cultivo, poda y pronostico del tiempo. | Agri ofrece a sus usuarios simplificar la gestión financiera agrícolas de sus usuarios. Asimismo, Agri cuenta con 5 años de experiencia en el desarrollo y mejora de este software. | FarmLogs, ofrece a sus usuarios tecnología inteligente un sistema único de gestión de agrícola. Asimismo, FarmLogs cuenta con más de 10 años de experiencia en el desarrollo y mejora en el software. | Strider, ofrece a sus usuarios soluciones integrales de agricultura adaptadas a cualquier tipo de entorno y organización. Asimismo, Strider cuenta con más de 5 años de experiencia en el desarrollo de sistemas integrales de monitoreo de alarmas. Lo que agrega gran valor a las funcionalidades de su producto. |
+| Descripcion General | CropMaster  es  una _Startup_ que desarrolla los mecanismos necesarios para brindar el servicio de gestión y guía de procesos agrícolas. Su servicio principal es utilizar potentes algoritmos de optimización enfocados en los tiempos de respuesta y la geolocalización, para informar acerca de los estados de vegetación de los terrenos agrícolas. Asimismo, de brindar guía de como cultivar correctamente una planta para mejorar la producción de este. | Agri, es una Startup chilena con presencia en Perú y Ecuador que se dedica a proporcionar software de reportes para el sector agrícola, enfocado más en las finanzas de una empresa. Sin embargo, también proporciona compras, bodegaje, tesorería y control de cosecha. | FarmLogs, es una Startup Estadounidense de tecnología de la información y gestión agrícola, que proporciona servicios basados las pérdidas y ganancias, gestión de operación con informes sobre actividades y notificaciones por correo. | Strider es una Startup estadounidense de tecnología de la información y sistemas agrícolas, que proporciona servicios basados en el monitoreo de plagas y detección de áreas críticas con imágenes espaciales. Además, de un seguimiento de máquinas. |
+| Ventaja competitiva ¿Qué valor ofrece a los clientes? | CropMaster ofrece a sus usuarios una solución integral en el acompañamiento y gestión agrícola. Contando con herramientas que ayudan al agricultor como buscador de terreno, control de riego, cultivo, poda y pronostico del tiempo. | Agri ofrece a sus usuarios simplificar la gestión financiera agrícolas de sus usuarios. Asimismo, Agri cuenta con 5 años de experiencia en el desarrollo y mejora de este software. | FarmLogs, ofrece a sus usuarios tecnología inteligente un sistema único de gestión de agrícola. Asimismo, FarmLogs cuenta con más de 10 años de experiencia en el desarrollo y mejora en el software. | Strider, ofrece a sus usuarios soluciones integrales de agricultura adaptadas a cualquier tipo de entorno y organización. Asimismo, Strider cuenta con más de 5 años de experiencia en el desarrollo de sistemas integrales de monitoreo de alarmas. Lo que agrega gran valor a las funcionalidades de su producto. |
 
 **Perfil de Marketing**
 
-| Startup | AgriPure | Agri | Farmlogs | Strider |
+| Startup | CropMaster | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Mercado Objetivo | Dirigido a cualquier persona que se dedican o quieran dedicarse a la agricultura. | Dirigido a las empresas agrícolas y enfocado para dueños de micro y pequeñas empresas agrícolas | Dirigido a las empresas agrícolas | Dirigido a las empresas agrícolas |
 | Estrategias de Marketing | - Social Ads - Email marketing - Marketing de redes sociales - Marketing de contenidos | - Estrategia de up-selling - Marketing de contenidos - Email marketing - Marketing de redes sociales - SEO | - Storytelling - Marketing de contenidos - Email marketing - SEM | - Marketing de contenidos - Marketing de redes sociales - Social Ads |
 
 **Perfil del Producto**
 
-| Startup | AgriPure | Agri | Farmlogs | Strider |
+| Startup | CropMaster| Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Caracteristicas y servicios | - **Búsqueda de terreno**, permite a los usuarios elegir el tipo de planta que desea sembrar, y a partir de ello, dar información de que tipo de tierra se tiene que sembrar, nivel de acidez adecuada (ph), distancia de siembra entre planta y planta, profundidad adecuada. - **Fertilización**, permite a los usuarios tener acceso a recomendación de que y cuanto fertilizante se debe utilizar en las plantas. - **Clima**, permite ver el clima y cuál es la probabilidad de que haya lluvias. De esta manera, no desperdiciar fertilizante en vano. **- Control de cultivo,** ayuda a los agricultores a agendar sus riegos, podas y limpieza de maleza. | - **Control de faenas**, permite a los usuarios llevar el detalle de las faenas. - **Ordenes de aplicación**, permite a los usuarios controlar los costos de sus campos. - **Premium**, los usuarios pueden tener más de 300 hectáreas. - **Cuaderno de campo y notas**, los usuarios pueden planificar su presupuesto y llevar un control detallado para disminuir costos. | -  Historial de lluvias y calor -  Pérdidas y ganancias - Gestor de operaciones con informes sobre actividades - Notificaciones por correo electrónico. | - Strider Protect, permite el control y protección de plagas. - Strider Base, ayuda en la monitorización durante todo el año. - Strider Space, sirve para la detección de áreas críticas con imágenes espaciales. - Strider Tracker, realiza el seguimiento de maquinaria. |
 | Precios y costos | Precio personalizado para cada plan | Precio personalizado para cada servicio | Precio personalizado para cada servicio | Precio personalizado para cada servicio |
@@ -585,11 +585,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0OTQzNzY5LDE2OTM3ODE5NDUsMTU2OD
-E0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1OTk5LDE5OTQ1Mjcy
-NDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2NzgxNiwxNj
-kyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMDgzNzA5
-NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAwNCwtNT
-A0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAyLDUzNTMwMTgw
-N119
+eyJoaXN0b3J5IjpbLTM3ODA0MDg1OCwxNjkzNzgxOTQ1LDE1Nj
+gxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3
+MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMT
+Y5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMDA4Mzcw
+OTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgwMDQsLT
+UwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4
+MDddfQ==
 -->
