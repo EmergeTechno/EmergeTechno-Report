@@ -327,9 +327,8 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ### 4.1. Strategic-Level Attribute
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mjk5MzM3OCw1MjAxMDEyODcsMTYyMT
+eyJoaXN0b3J5IjpbMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMT
 gzOTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIx
 LC00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMT
 c2MzQwMiw1MzUzMDE4MDcsLTE3MzgzNDc0MzcsLTIxNjA3Mzg4
