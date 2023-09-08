@@ -471,6 +471,9 @@ https://i.ibb.co/gg80g0B/person2.jpg
  - 2.3.2 User Task Matrix.
  - 2.3.3 Empathy Mapping
  - 2.3.4 As-is Scenario Mapping.
+   - Segmento 1: Agricultores
+   ![Diagrama-en-blanco.jpg (1045×754) (ibb.co)](https://i.ibb.co/g9BVCtN/Diagrama-en-blanco.jpg)
+   - Segmento 2: Especialistas
 
 # Capítulo III: Requirements Specification
 
@@ -625,11 +628,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODg0Nzc2OSwxOTg0NDg4ODI0LC0xOD
-Y2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2
-NTQ5LDE2OTM3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC
-0xNDA4OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2
-OTU3MDcsMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4Ny
-wxNjIxODM5NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1
-MDU2MjFdfQ==
+eyJoaXN0b3J5IjpbMTIwNzc5NjkyMCwxMTg4ODQ3NzY5LDE5OD
+Q0ODg4MjQsLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIx
+MDUsLTE5OTM0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLD
+EyMTEwNDI3MzgsLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMDg3
+MjgzMDA3LDQzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMz
+IsNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwODM3MDk0NywzNTQx
+Mzk1MTFdfQ==
 -->
