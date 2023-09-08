@@ -1,5 +1,6 @@
 # EmergeTechno-Report
  ![Universidad Aplicada de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+ 
  Carrera: Ingeniería de Software
 
 Nombre del curso: Arquitecturas De Software Emergentes
@@ -24,6 +25,6 @@ Mes y año: Septiembre 2023
 
 Ciclo: 2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1OD
-U5NjYyXX0=
+eyJoaXN0b3J5IjpbMTc4ODk2NDM5NSwtMjIzNTQ0NTk3LDM5MD
+MxNjA1MSw4MjU4NTk2NjJdfQ==
 -->
