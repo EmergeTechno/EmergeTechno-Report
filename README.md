@@ -352,7 +352,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 -   Evitar saturar la aplicación con anuncios excesivos.
 -   Enfocarse en obtener valoraciones positivas de los usuarios.
 -   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Cis
-
+### 2.1. Entrevistas.
  - 2.2.1. Diseño de entrevistas.
 
 	Cuestionario para Entrevistas
@@ -456,6 +456,9 @@ Entrevista #2:
 - 2.2.3. Análisis de entrevistas.
 
 En resumen, las entrevistas indican que los agricultores valoran sus conocimientos agrícolas, pero están buscando soluciones tecnológicas para optimizar sus procesos y abordar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les proporcione información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse actualizados en las prácticas agrícolas.
+
+
+
 # Capítulo III: Requirements Specification
 
 ### 3.1 To-Be Scenario Mapping
@@ -585,11 +588,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUxNzgwNDUsMTY5Mzc4MTk0NSwxNT
-Y4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5OTU5OTksMTk5NDUy
-NzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNywxNTI2NTY3ODE2LD
-E2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwODM3
-MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMSwtNDI2MjM4MDA0LC
-01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1MzAx
-ODA3XX0=
+eyJoaXN0b3J5IjpbNjk4ODA2ODczLDE2OTM3ODE5NDUsMTU2OD
+E0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1OTk5LDE5OTQ1Mjcy
+NDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2NzgxNiwxNj
+kyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMDgzNzA5
+NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAwNCwtNT
+A0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAyLDUzNTMwMTgw
+N119
 -->
