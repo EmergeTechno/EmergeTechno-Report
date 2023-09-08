@@ -295,6 +295,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
+- 
 **Liderazgo en costos:**
 
 -   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
@@ -329,7 +330,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 (https://i.ibb.co/JtcC9wV/Diagram-3.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzE5OTE5NSw2MDYxNTk5MTQsMTUzMD
+eyJoaXN0b3J5IjpbMTA5NzAyOTMyMiw2MDYxNTk5MTQsMTUzMD
 UwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYz
 Niw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
 YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
