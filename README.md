@@ -35,11 +35,11 @@ Ciclo: 2023-2
 
 ## Project Report Collaboration Insights
 
-**Enlace del Project Report:** 
+**Enlace del Project Report:** [https://www.neoguias.com]
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mjg5NDcyNiwxNzg4OTY0Mzk1LC0yMj
-M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
+eyJoaXN0b3J5IjpbOTAwOTkwMTUwLDE3ODg5NjQzOTUsLTIyMz
+U0NDU5NywzOTAzMTYwNTEsODI1ODU5NjYyXX0=
 -->
