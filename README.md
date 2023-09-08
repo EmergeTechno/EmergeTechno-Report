@@ -184,7 +184,7 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 - 1.1.2 Perfiles de integrantes del equipo
 
 | Nombre| Descripción| Foto |
-|----------|-----------|-----------
+|----|----------|-----------
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
 |Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 
@@ -313,11 +313,11 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYzNDc5NTgsODExNzYzNDAyLDUzNT
-MwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1LDk0Nzk5OTc2
-NCwxMDQ5MTYxMDU0LDE0MzgzMTMxMDUsLTQ3MDkzNDIwOSwxOT
-k4NjQxOTQ3LDE4NTM4MDU3NjAsLTExMDU1NDY4NTYsMTkxOTc5
-MjYyMiwtMTg1MzYyNzA0NSwxNjE5Nzk4NzQ3LDk0MTg4ODkwMy
-wtMzQ2Mzk5OTA3LDUzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3
-MzY4MDhdfQ==
+eyJoaXN0b3J5IjpbMTM5MDk5NDIzNSwtMjAxNjM0Nzk1OCw4MT
+E3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMTYwNzM4
+ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEwNSwtND
+cwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0
+Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3ND
+csOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0
+MTUyNTddfQ==
 -->
