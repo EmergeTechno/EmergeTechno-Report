@@ -149,12 +149,12 @@ Ciclo: 2023-2
     -   ##### 4.3.4. Software Architecture Deployment Diagrams
 
 ### Conclusiones
-#
+
 ####  Conclusiones y recomendaciones
 #####   Video About-the-Team.
  
- Bibliografía
- Anexos
+#### Bibliografía
+####  Anexos
  
 # Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET: 
@@ -162,17 +162,17 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 En el siguiente recuadro describiremos todas las acciones realizadas, criterios específicos y las conclusiones realizadas por parte del equipo, por lo cual nos ayudarán a reconocer el cumplimiento del logro **ABET – EAC - Student Outcome (3).**
 ```md
 | Criterio especfico Acciones realizadas| Conclusiones| ---: |
-| Comunica oralmente con efectividad a diferentes rangos de audie
+| Comunica oralmente con efectividad a diferentes rangos de audiencia| TB1:| Fila1|
 
-```ncia| TB1:| Fila1|
+```
 | Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1: | Fila2|
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDU5ODkxNiwyMDA0NDE1MjU3LC02MT
-I3MzY4MDgsMTMxNzgxMzk5NCwyMDYxMzc3NTcyLDE5NzQyNDE1
-MTksLTMyNTQ5NjI3OSwxNzg4OTY0Mzk1LC0yMjM1NDQ1OTcsMz
-kwMzE2MDUxLDgyNTg1OTY2Ml19
+eyJoaXN0b3J5IjpbLTE5OTc5MjcwNjEsMjAwNDQxNTI1NywtNj
+EyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOTc0MjQx
+NTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NSwtMjIzNTQ0NTk3LD
+M5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
 -->
