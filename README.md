@@ -459,6 +459,7 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 ### 2.3. Needfinding
  - 2.3.1 User Personas
+https://i.ibb.co/KzmmxSw/person1.jpg
 
 
 
@@ -595,11 +596,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDYyODE3LC0xOTkzNDA2NTQ5LDE2OT
-M3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1
-OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMT
-UyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5
-NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLT
-QyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYz
-NDAyXX0=
+eyJoaXN0b3J5IjpbLTIwMTI2NDE2MTAsLTE5OTM0MDY1NDksMT
+Y5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5
+OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNy
+wxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4
+Mzk0MTMsMjAwODM3MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMS
+wtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3
+NjM0MDJdfQ==
 -->
