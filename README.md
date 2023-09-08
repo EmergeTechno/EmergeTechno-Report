@@ -554,6 +554,7 @@ https://i.ibb.co/gg80g0B/person2.jpg
 
 
 # Capítulo IV: Strategic-Level Software Design
+
 ### 4.1. Strategic-Level Attribute-Driven Design.
 ### 4.1.1 Design Purpose.
 ### 4.1.2 Attribute.-Driven Design Inputs.
@@ -575,7 +576,7 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 
 
 #### 4.3.1 Software Architecture Context Level Diagrams
-![Context 22](https://i.ibb.co/MRKtv6t/arqui2.jpg)
+![](https://i.ibb.co/MRKtv6t/arqui2.jpg)
 
 #### 4.3.2 Software Architecture Container Level Diagrams
 ![](https://i.ibb.co/MCGPPW9/arqui3.jpg)
@@ -624,11 +625,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDQ4ODgyNCwtMTg2Njg2NjIyOSwxNz
-MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
-OTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OS
-wxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1
-Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMy
-wyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYy
-MzgwMDRdfQ==
+eyJoaXN0b3J5IjpbMTE4ODg0Nzc2OSwxOTg0NDg4ODI0LC0xOD
+Y2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2
+NTQ5LDE2OTM3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC
+0xNDA4OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2
+OTU3MDcsMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4Ny
+wxNjIxODM5NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1
+MDU2MjFdfQ==
 -->
