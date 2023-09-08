@@ -186,7 +186,7 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |Nombre |Descripción | Foto |
 |----|---|---|
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
-|Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
+|Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 
 
 ### 1.2. Startup Profile
@@ -206,7 +206,7 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTU2MDc0NSwtMTUyODc0NDA5LDE4NT
+eyJoaXN0b3J5IjpbMTk5ODY0MTk0NywxMzM1NTYwNzQ1LDE4NT
 M4MDU3NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYy
 NzA0NSwxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LD
 UzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgx
