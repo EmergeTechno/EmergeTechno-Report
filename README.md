@@ -575,7 +575,7 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 
 
 #### 4.3.1 Software Architecture Context Level Diagrams
-![Context 2](https://i.ibb.co/MRKtv6t/arqui2.jpg)
+![Context 22](https://i.ibb.co/MRKtv6t/arqui2.jpg)
 
 #### 4.3.2 Software Architecture Container Level Diagrams
 ![](https://i.ibb.co/MCGPPW9/arqui3.jpg)
@@ -624,7 +624,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTY1ODQyMCwtMTg2Njg2NjIyOSwxNz
+eyJoaXN0b3J5IjpbMTk4NDQ4ODgyNCwtMTg2Njg2NjIyOSwxNz
 MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
 OTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OS
 wxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1
