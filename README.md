@@ -179,10 +179,12 @@ En consonancia con su misión, CropMaster se centra en asistir a las personas en
  
 - 1.1.2 Perfiles de integrantes del equipo
 
-|Nombre | 
+|Nombre |Descripción | Foto |
+|----|---|---|
+|Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTkzMzY1OCwtMTg1MzYyNzA0NSwxNj
+eyJoaXN0b3J5IjpbMTkxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNj
 E5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2Nzg0
 MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgxMzk5NCwyMD
 YxMzc3NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0
