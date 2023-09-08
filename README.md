@@ -158,21 +158,18 @@ Ciclo: 2023-2
  
 # Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET: 
-**ABET–EAC - Student Outcome (3): Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente recuadro describiremos todas las acciones realizadas, criterios específicos y las conclusiones realizadas por parte del equipo, por lo cual nos ayudarán a reconocer el cumplimiento del logro ABET – EAC - Student Outcome (3).```md
-| Nombre  | Tipo    | Color| Criterio Especifico | Acciones Realizadas | Conclusiones |
-
-| :---    |  :----: |  ---: |
+**ABET–EAC - Student Outcome (3):**  Capacidad de comunicarse efectivamente con un rango de audiencias. 
+En el siguiente recuadro describiremos todas las acciones realizadas, criterios específicos y las conclusiones realizadas por parte del equipo, por lo cual nos ayudarán a reconocer el cumplimiento del logro **ABET – EAC - Student Outcome (3).**```md
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
-```-----------|-----------|-----------|
+```
 
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Diego Talledo (TB1): | Fila 1 |
 
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones. | Fila 2 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjczNjgwOCwxNDA5MzY3NDAyLDEzMT
-c4MTM5OTQsMjA2MTM3NzU3MiwxOTc0MjQxNTE5LC0zMjU0OTYy
-NzksMTc4ODk2NDM5NSwtMjIzNTQ0NTk3LDM5MDMxNjA1MSw4Mj
-U4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTA2NzIyNjAsLTYxMjczNjgwOCwxMz
+E3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2
+Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5NywzOTAzMTYwNTEsOD
+I1ODU5NjYyXX0=
 -->
