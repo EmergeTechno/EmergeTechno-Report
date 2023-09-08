@@ -575,11 +575,17 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 
 
 #### 4.3.1 Software Architecture Context Level Diagrams
+
+
 #### 4.3.2 Software Architecture Container Level Diagrams
+
+
 #### 4.3.3 Software Architecture Deployment Diagrams.
 
 
 rivers Backlog.
+
+
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -615,11 +621,10 @@ rivers Backlog.
 
 
 
-![imagen 3 ](https://i.ibb.co/JtcC9wV/Diagram-3.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MTUyMTA1LDEwNDMzMjgyMjUsLTE5OT
+eyJoaXN0b3J5IjpbMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OT
 M0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3
 MzgsLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LD
 QzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAx
