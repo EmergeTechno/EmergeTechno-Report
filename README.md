@@ -192,23 +192,24 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 
 - 1.2.1 Antecedentes y Problemática: Las 5 “W” y 2 “H”
 
-|Pregunta | Descripción|
-|------|------|
+
 ||Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 
 ### 1.2. Startup Profile
-What|as|
-|When|as|
+|Pregunta | Descripción|
+|------|------|
+|What|Según datos del sitio web gubernamental, se ha observado una marcada disminución en la producción de varios productos agrícolas, como el café (-84,9%), el ajo (-28,3%), la cebolla (-21,0%), entre otros. Este desafío afecta directamente la situación económica de las familias de los agricultores, quienes buscan una solución que les permita acceder rápidamente a asistencia para abordar esta situación.|
+|When| Esta problemática surge cuando alguien no cuenta con la formación adecuada para llevar a cabo una siembra apropiada de las plantas que planea cultivar. Como resultado, esto conduce a una disminución en la producción de productos agrícolas, lo que se traduce en una menor rentabilidad económica debido a la baja calidad y cantidad de los productos.|
 |Why |as|
-|Who |as|
-|Where |as|
+|Who |Este problema afecta a personas involucradas en la agricultura que carecen de conocimientos sobre cómo cultivar plantas frutales o vegetales.|
+|Where |La problemática puede surgir en cualquier lugar donde se practique la agricultura.|
 |How|as|
 |How Much|as|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE3ODczNTIsMTg1MzgwNTc2MCwtMT
-EwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3
-OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLD
-IwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEz
-Nzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2Mjc5LDE3ODg5NjQzOT
-UsLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1ODU5NjYyXX0=
+eyJoaXN0b3J5IjpbMTU0NjU5Mzg2NiwxODUzODA1NzYwLC0xMT
+A1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5
+ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMj
+AwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3
+NzU3MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NS
+wtMjIzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
 -->
