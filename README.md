@@ -467,6 +467,7 @@ https://i.ibb.co/gg80g0B/person2.jpg
 - Usuario 2:
 ![User Persona2](https://i.ibb.co/gg80g0B/person2.jpg)
 
+
  - 2.3.2 User Task Matrix.
  - 2.3.3 Empathy Mapping
  - 2.3.4 As-is Scenario Mapping.
@@ -559,7 +560,7 @@ https://i.ibb.co/gg80g0B/person2.jpg
 #### 4.1.2.1.  	Primary Functionality(Primary User Stories).
 #### 4.1.2.2.  	Quality attribute Scenarios.
 #### 4.1.2.3.  	Constrains.
-### 4.1.3.  	Architectural Drivers Backlog.
+### 4.1.3.  	Architectural D
 ### 4.1.4.  	Architectural Design Decisions
 ### 4.1.5.  	Quality Attribute Scenario Refinements.
 
@@ -578,7 +579,7 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 #### 4.3.3 Software Architecture Deployment Diagrams.
 
 
-
+rivers Backlog.
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -618,11 +619,11 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzMyODIyNSwtMTk5MzQwNjU0OSwxNj
-kzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5
-NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LD
-E1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgz
-OTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC
-00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2
-MzQwMl19
+eyJoaXN0b3J5IjpbOTM2MTUyMTA1LDEwNDMzMjgyMjUsLTE5OT
+M0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3
+MzgsLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LD
+QzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAx
+Mjg3LDE2MjE4Mzk0MTMsMjAwODM3MDk0NywzNTQxMzk1MTEsMT
+UzMDUwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0
+MjYzNl19
 -->
