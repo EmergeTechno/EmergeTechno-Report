@@ -461,11 +461,12 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
  - 2.3.1 User Personas
 https://i.ibb.co/KzmmxSw/person1.jpg
 https://i.ibb.co/gg80g0B/person2.jpg
-Usuario 1:
+ - Usuario 1:
 ![User Persona1](https://i.ibb.co/KzmmxSw/person1.jpg)
 
-Usuario 2:
-![User Persona1](
+- Usuario 2:
+![User Persona2](https://i.ibb.co/gg80g0B/person2.jpg)
+
  - 2.3.2 User Task Matrix.
  - 2.3.3 Empathy Mapping
  - 2.3.4 As-is Scenario Mapping.
@@ -559,7 +560,8 @@ Usuario 2:
 #### 4.1.2.2.  	Quality attribute Scenarios.
 #### 4.1.2.3.  	Constrains.
 ### 4.1.3.  	Architectural Drivers Backlog.
-### 4.1.4.  	Architectural Drivers Backlog.
+### 4.1.4.  	Architectural Design Decisions
+### 4.1.5.  	Architectural Design Decisions
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -599,11 +601,11 @@ Usuario 2:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwODM2NTg3LC0xOTkzNDA2NTQ5LDE2OT
-M3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1
-OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMT
-UyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5
-NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLT
-QyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYz
-NDAyXX0=
+eyJoaXN0b3J5IjpbMTA3NjkwNTM4NywtMTk5MzQwNjU0OSwxNj
+kzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5
+NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LD
+E1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgz
+OTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC
+00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2
+MzQwMl19
 -->
