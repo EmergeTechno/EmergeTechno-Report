@@ -158,16 +158,16 @@ Ciclo: 2023-2
  
 # Student Outcome
 
-| Criterio Especifico | Acciones Realizadas | Conclusiones |
 
-|-----------|-----------|-----------|
-
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Diego Talledo (TB1): | Fila 1 |
-
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones. | Fila 2 |
+```md
+| Nombre  | Tipo    | Color |
+| :---    |  :----: |  ---: |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzE1Mjk5LDIwNjEzNzc1NzIsMTk3ND
-I0MTUxOSwtMzI1NDk2Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5
-NywzOTAzMTYwNTEsODI1ODU5NjYyXX0=
+eyJoaXN0b3J5IjpbMTE3NTU4NDUwNywyMDYxMzc3NTcyLDE5Nz
+QyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0Mzk1LC0yMjM1NDQ1
+OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
