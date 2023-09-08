@@ -292,11 +292,11 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ### 2.1. Competidores.
 
 - 2.1.1. Análisis Ccompetitivo
-.
-- - 2.1.2. Estrategias y tácticas frente a competidores.
-- Liderazgo en costs:*-   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
--   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
--   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
+- 2.1.2. Estrategias y tácticas frente a competidores.
+
+  - Liderazgo en costs:*-   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
+ -  -Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
+ - - Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
 
 Estrategia de diferenciación:
 
@@ -327,11 +327,11 @@ Táctica de expansión:
 ! figura3
 (https://ibb.co/dMf7RwF)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzgyNzQ1MSwxODQ4MTMxODQ5LDE3Nj
-c4NzY3MCwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYz
-Niw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
-YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
-NSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMT
-EwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3
-OTg3NDddfQ==
+eyJoaXN0b3J5IjpbMTc1NDY1OTI1NiwxMTQzODI3NDUxLDE4ND
+gxMzE4NDksLTQyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2
+MzYsODExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQzNywtMj
+E2MDczODg1LDk0Nzk5OTc2NCwxMDQ5MTYxMDU0LDE0MzgzMTMx
+MDUsLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NTM4MDU3NjAsLT
+ExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNjE5
+Nzk4NzQ3XX0=
 -->
