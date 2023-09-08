@@ -316,7 +316,7 @@ Táctica de expansión:
 
 -   Evitar saturar la aplicación con anuncios excesivos.
 -   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Elicitation & Analysis
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.
 
 
 
@@ -325,11 +325,11 @@ Táctica de expansión:
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzg3NjcwLC00MjYyMzgwMDQsLTUwND
-A1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4MDcs
-LTE3MzgzNDc0MzcsLTIxNjA3Mzg4NSw5NDc5OTk3NjQsMTA0OT
-E2MTA1NCwxNDM4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0
-NywxODUzODA1NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLT
-E4NTM2MjcwNDUsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5
-OTkwN119
+eyJoaXN0b3J5IjpbMTg0ODEzMTg0OSwxNzY3ODc2NzAsLTQyNj
+IzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAy
+LDUzNTMwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1LDk0Nz
+k5OTc2NCwxMDQ5MTYxMDU0LDE0MzgzMTMxMDUsLTQ3MDkzNDIw
+OSwxOTk4NjQxOTQ3LDE4NTM4MDU3NjAsLTExMDU1NDY4NTYsMT
+kxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNjE5Nzk4NzQ3LDk0MTg4
+ODkwM119
 -->
