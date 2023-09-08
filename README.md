@@ -288,7 +288,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 es:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
     
 2.  **pecialists:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
-## Capítulo II: Requirements Elicitation & Analysis
+## Capítulo II: Requirements 
 ### 2.1. Competidores.
 
 - 2.1.1. Análisis competitivo.
@@ -317,7 +317,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 -   Evitar saturar la aplicación con anuncios excesivos.
 -   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.CElicitation & Analysis
 
 
 
@@ -326,15 +326,15 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute
 
-![Diagram-3.jpg (956×667) (ibb.co)](https://ibb.co/w)
+![/w)imagen 3]
 (https://i.ibb.co/JtcC9wV/Diagram-3.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MTM5NTExLDYwNjE1OTkxNCwxNTMwNT
-A1NjIxLC00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2
-LDgxMTc2MzQwMiw1MzUzMDE4MDcsLTE3MzgzNDc0MzcsLTIxNj
-A3Mzg4NSw5NDc5OTk3NjQsMTA0OTE2MTA1NCwxNDM4MzEzMTA1
-LC00NzA5MzQyMDksMTk5ODY0MTk0NywxODUzODA1NzYwLC0xMT
-A1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5
-ODc0N119
+eyJoaXN0b3J5IjpbMjAwODM3MDk0NywzNTQxMzk1MTEsMTUzMD
+UwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYz
+Niw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
+YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
+NSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMT
+EwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3
+OTg3NDddfQ==
 -->
