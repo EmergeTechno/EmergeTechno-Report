@@ -282,13 +282,15 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
   - 1.2.2.4. Lean UX Canvas.
  ![image.png (1300×659) (ibb.co)](https://i.ibb.co/zmj7b56/image.png) 
  
- 
+ 1.  **Agricultores:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
+    
+2.  **Asesores:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
-YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
-NSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMT
-EwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3
-OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLD
-IwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEz
-Nzc1NzJdfQ==
+eyJoaXN0b3J5IjpbMTYyMzQ0OTcwMCw1MzUzMDE4MDcsLTE3Mz
+gzNDc0MzcsLTIxNjA3Mzg4NSw5NDc5OTk3NjQsMTA0OTE2MTA1
+NCwxNDM4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0NywxOD
+UzODA1NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2
+MjcwNDUsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNy
+w1Mzg0Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4
+MTM5OTRdfQ==
 -->
