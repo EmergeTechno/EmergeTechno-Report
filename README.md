@@ -186,16 +186,13 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |Nombre |Descripción | Foto |
 |----|---|---|
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
+|Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 
 
 ### 1.2. Startup Profile
 
 - 1.2.1 Antecedentes y Problemática: Las 5 “W” y 2 “H”
 
-
-||Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
-
-### 1.2. Startup Profile
 |Pregunta | Descripción|
 |------|------|
 |What|Según datos del sitio web gubernamental, se ha observado una marcada disminución en la producción de varios productos agrícolas, como el café (-84,9%), el ajo (-28,3%), la cebolla (-21,0%), entre otros. Este desafío afecta directamente la situación económica de las familias de los agricultores, quienes buscan una solución que les permita acceder rápidamente a asistencia para abordar esta situación.|
@@ -212,11 +209,11 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |How|as|
 |How Much|as|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg3NDQwOSw4ODY3ODAwODUsMTg1Mz
-gwNTc2MCwtMTEwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3
-MDQ1LDE2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNT
-M4NDY3ODQxLDIwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEz
-OTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2Mjc5LD
-E3ODg5NjQzOTUsLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1ODU5
-NjYyXX0=
+eyJoaXN0b3J5IjpbMTAwNTQyODA5NywtMTUyODc0NDA5LDE4NT
+M4MDU3NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYy
+NzA0NSwxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LD
+UzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgx
+Mzk5NCwyMDYxMzc3NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OS
+wxNzg4OTY0Mzk1LC0yMjM1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1
+OTY2Ml19
 -->
