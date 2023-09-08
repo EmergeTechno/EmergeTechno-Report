@@ -25,8 +25,9 @@ Mes y año: Septiembre 2023
 
 Ciclo: 2023-2
 
+## Registro de Versiones del Informe
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgzNTE0ODEsMTc4ODk2NDM5NSwtMj
-IzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbMTYxNDY5MTAzNCwxNzg4OTY0Mzk1LC0yMj
+M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
