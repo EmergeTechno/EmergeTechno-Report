@@ -457,7 +457,10 @@ Entrevista #2:
 
 En resumen, las entrevistas indican que los agricultores valoran sus conocimientos agrícolas, pero están buscando soluciones tecnológicas para optimizar sus procesos y abordar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les proporcione información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse actualizados en las prácticas agrícolas.
 
-
+### 2.3. Needfinding
+ - User Personas
+ -
+ -
 
 # Capítulo III: Requirements Specification
 
@@ -588,11 +591,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4ODA2ODczLDE2OTM3ODE5NDUsMTU2OD
-E0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1OTk5LDE5OTQ1Mjcy
-NDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2NzgxNiwxNj
-kyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMDgzNzA5
-NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAwNCwtNT
-A0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAyLDUzNTMwMTgw
-N119
+eyJoaXN0b3J5IjpbMjEzMDgxNjA4OSwxNjkzNzgxOTQ1LDE1Nj
+gxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3
+MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMT
+Y5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMDA4Mzcw
+OTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgwMDQsLT
+UwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4
+MDddfQ==
 -->
