@@ -569,7 +569,13 @@ https://i.ibb.co/gg80g0B/person2.jpg
 
 ### 4.3. Software Architecture.
 Presentamos nuestro modelo de arquitectura de software para cubrir las necesidades de  la aplicación móvil.
-### 4.3. Software Architecture.
+#### 4.3.1 Software Architecture System Landscape Diagram.
+![imagen 2](
+
+
+#### 4.3.1 Software Architecture Context Level Diagrams
+#### 4.3.2 Software Architecture Container Level Diagrams
+#### 4.3.3 Software Architecture Deployment Diagrams.
 
 
 
@@ -612,11 +618,11 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYxMzA5NzYsLTE5OTM0MDY1NDksMT
-Y5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5
-OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNy
-wxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4
-Mzk0MTMsMjAwODM3MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMS
-wtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3
-NjM0MDJdfQ==
+eyJoaXN0b3J5IjpbMTA0MzMyODIyNSwtMTk5MzQwNjU0OSwxNj
+kzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5
+NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LD
+E1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgz
+OTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC
+00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2
+MzQwMl19
 -->
