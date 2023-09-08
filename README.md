@@ -324,7 +324,10 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 
 ## Capítulo IV: Strategic-Level Software Design
-### 4.1. Strategic-Level Attribute
+### 4.1. Strategic-Level Attribute-Driven Design.
+### 4.1.1 Design Purpose.
+### 4.1.2 Attribute.
+
 
 
 
@@ -332,7 +335,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzQ4OTgwNyw0MzE2OTU3MDcsMTUyNj
+eyJoaXN0b3J5IjpbLTUwMzAyNDIyOSw0MzE2OTU3MDcsMTUyNj
 U2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEz
 LDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNj
 IzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAy
