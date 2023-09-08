@@ -24,7 +24,9 @@ Relación de integrantes:
 Mes y año: Septiembre 2023
 
 Ciclo: 2023-2
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODk2NDM5NSwtMjIzNTQ0NTk3LDM5MD
-MxNjA1MSw4MjU4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzgzNTE0ODEsMTc4ODk2NDM5NSwtMj
+IzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
 -->
