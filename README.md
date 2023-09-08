@@ -567,8 +567,9 @@ El objetivo de diseñar nuestra aplicación teniendo en cuenta una variedad de f
 ### 4.1.2 Attribute.-Driven Design Inputs.
 - 4.1.2.1.  	Primary Functionality(Primary User Stories).
 En nuestra aplicación, contamos con una serie de historias de usuario que son esenciales para proporcionar la experiencia que deseamos ofrecer a nuestros usuarios. No obstante, algunas de estas historias son especialmente relevantes en el contexto de nuestro modelo de negocio. A continuación, enumeraremos las historias de usuario que destacan en nuestro modelo de negocio en función de los requisitos funcionales.
-|Epic / User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
-|---- |---- |---- |---- |---- | --
+
+
+
 - 4.1.2.2.  	Quality attribute Scenarios.
 
 -  4.1.2.3.  	Constrains.
@@ -605,11 +606,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk4NzYwMzgsMTcxMTY5OTA3NiwxMj
-A3Nzk2OTIwLDExODg4NDc3NjksMTk4NDQ4ODgyNCwtMTg2Njg2
-NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OS
-wxNjkzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQw
-ODk5NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1Nz
-A3LDE1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYy
-MTgzOTQxM119
+eyJoaXN0b3J5IjpbLTUwMTkyMjcxOSwxNzExNjk5MDc2LDEyMD
+c3OTY5MjAsMTE4ODg0Nzc2OSwxOTg0NDg4ODI0LC0xODY2ODY2
+MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2NTQ5LD
+E2OTM3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4
+OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MD
+csMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIx
+ODM5NDEzXX0=
 -->
