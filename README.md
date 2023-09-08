@@ -286,16 +286,37 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
 
 En nuestro proyecto se hacen presente dos segmentos objetivos:
  
- 1.  **Farmers:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
+ 1.  **Farmer 
+ 1.  **Agricultores:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
     
-2.  **Specialists:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
+2.  **SpecialistAsesores:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+||||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzk2NTg1Miw1MzUzMDE4MDcsLTE3Mz
-gzNDc0MzcsLTIxNjA3Mzg4NSw5NDc5OTk3NjQsMTA0OTE2MTA1
-NCwxNDM4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0NywxOD
-UzODA1NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2
-MjcwNDUsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNy
-w1Mzg0Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4
-MTM5OTRdfQ==
+eyJoaXN0b3J5IjpbMTg5NDQyNDkwNCwtMzY3OTY1ODUyLDUzNT
+MwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1LDk0Nzk5OTc2
+NCwxMDQ5MTYxMDU0LDE0MzgzMTMxMDUsLTQ3MDkzNDIwOSwxOT
+k4NjQxOTQ3LDE4NTM4MDU3NjAsLTExMDU1NDY4NTYsMTkxOTc5
+MjYyMiwtMTg1MzYyNzA0NSwxNjE5Nzk4NzQ3LDk0MTg4ODkwMy
+wtMzQ2Mzk5OTA3LDUzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3
+MzY4MDhdfQ==
 -->
