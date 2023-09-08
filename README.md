@@ -185,7 +185,7 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 
 |Nombre |Descripción | Foto
 
-```md
+md
 | Nombre  | Tipo    | Color |
 |- :---|---|---|
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
@@ -221,11 +221,11 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 ```- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTE2MTA1NCwxNDM4MzEzMTA1LC00Nz
-A5MzQyMDksMTk5ODY0MTk0NywxODUzODA1NzYwLC0xMTA1NTQ2
-ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5ODc0Ny
-w5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMjAwNDQx
-NTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3Mi
-wxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NSwtMjIz
-NTQ0NTk3XX0=
+eyJoaXN0b3J5IjpbLTE4NDAxMTgwNDIsMTA0OTE2MTA1NCwxND
+M4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0NywxODUzODA1
+NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwND
+UsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0
+Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OT
+QsMjA2MTM3NzU3MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4
+ODk2NDM5NV19
 -->
