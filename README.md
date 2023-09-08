@@ -516,7 +516,7 @@ https://i.ibb.co/gg80g0B/person2.jpg
 | US016 | Aplicación intuitiva | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente | **Escenario: El usuario usa las funciones.** Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades | EP004 |
 | US017 | Aceptar mensajes de otros agricultores | Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas | **Escenario: El especialista acepta la solicitud.** Dado que el especialista see encuentre en un chat con un agricultor Cuando le de a "Aceptar mensajes". Entonces podra iniciar la conversacion con el otro agricultor | EP001 |
 | US018 | Usar la camara para registrar cultivos | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil | **Escenario: El usuario usa la camara.** Dado que el usuario quiere registrar su cultivo, cuando va a la aplicacion en la seccion de fotografia, y le salga la opcion de prender camara Cuando tome una foto a su cultivo, entonces el sistema reconocera automaticamente la imagen gracias a los datos internos de la app. | EP001 |
-| US019 | Seleccionar un plan | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure | **Escenario: El usuario selecciona un plan.** Dado que el usuario quiera seleccionar un plan, cuando se cree una cuenta personal, entonces le saldra la opcion de escoger un plan. | EP002 |
+| US019 | Seleccionar un plan | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece CropMaster| **Escenario: El usuario selecciona un plan.** Dado que el usuario quiera seleccionar un plan, cuando se cree una cuenta personal, entonces le saldra la opcion de escoger un plan. | EP002 |
 | US020 | Mejorar su Plan | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades | **Escenario: El usuario cambia de plan.** Dado que el usuario quiera mejorar su plan, cuando vaya a las opciones de su cuenta, entonces podra mejorar su plan a un precio especifico. | EP002 |
 | US021 | Coordinar fechas con especialista | Como usuario de la aplicacion, me gustaria coordinar una fecha unica con el especialista para que pueda apoyarme por llamada o presencialmente | **Escenario: El especialista rechaza la fecha.** Dado que el usuario quiera coordinar una fecha, cuando ponga la opcion de coordinar fecha y el especialista rechaze, entonces no podra realizar la reunion. **Escenario: El especialista acepta la fecha.** Dado que el usuario quiera coordinar una fecha, cuando ponga la opcion de coordinar fecha y el especialista acepte, entonces se podra realizar la reunion. | EP001 |
 | US022 | Establecer horarios de disponibilidad | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad | **Escenario: El especialista establece su disponibilidad.** Dado que el especialista quiera establecer su disponibilidad, cuando vaya a la opcion de establecer horarios, entonces podra marcar que horas esta libre o no para que pueda ser contactado. | EP002 |
@@ -547,7 +547,7 @@ https://i.ibb.co/gg80g0B/person2.jpg
 | 13 | US016 | Aplicación intuitiva | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente | 5 |
 | 14 | US017 | Aceptar mensajes de otros agricultores | Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas | 5 |
 | 15 | US018 | Usar la camara para registrar cultivos | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil | 5 |
-| 16 | US019 | Seleccionar un plan | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure | 8 |
+| 16 | US019 | Seleccionar un plan | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece CropMaster| 8 |
 | 17 | US020 | Mejorar su Plan | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades | 5 |
 | 18 | US021 | Coordinar fechas con especialista | Como usuario de la aplicacion, me gustaria coordinar una fecha unica con el especialista para que pueda apoyarme por llamada o presencialmente | 8 |
 | 19 | US022 | Establecer horarios de disponibilidad | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad | 8 |
@@ -588,7 +588,15 @@ En nuestra aplicación, contamos con una serie de historias de usuario que son e
 |Mantenibilidad|Desarrollador|El equipo de desarrollo necesita agregar una nueva funcionalidad a la aplicación.|Código fuente de la aplicación móvil CropMaster|Entorno de desarrollo del equipo|El equipo de desarrollo agrega la nueva funcionalidad de manera eficiente y sin afectar negativamente otras partes del código. La aplicación debe ser capaz de manejar nuevas funcionalidades sin afectar la estabilidad del sistema existente.|El equipo de desarrollo debe ser capaz de agregar nuevas funcionalidades a la aplicación en un plazo de dos semanas y con menos del 5% de errores introducidos en el código existente.|
 -  4.1.2.3.  	Constrains.
 
-### 4.1.3.  	Architectural D
+|Technical Story ID |Título |Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
+|--|--|--|--|--|
+|TC001|Diseño de la interfaz de usuario|Diseño de la interfaz de usuario|Escenario 1: Diseño coherente y consistente en todas las pantallas Dado que el usuario ha ingresado a la aplicación móvil CropMaster Cuando el usuario navega por las diferentes pantallas de la aplicación Entonces el usuario debe encontrar un diseño coherente y consistente en todas las pantallas, con elementos visuales y de navegación similares en todas ellas. Escenario 2: Fácil de usar y navegar para el usuario Dado que el usuario ha ingresado a la aplicación móvil CropMaster Cuando el usuario utiliza la aplicación para realizar una tarea específica Entonces el usuario debe encontrar una interfaz de usuario fácil de usar y navegar, con elementos visuales y de navegación intuitivos y claros que le permitan realizar la tarea de manera eficiente y sin confusiones.|EP001|
+|TC002|Garantía de calidad del código|En esta sección, se detalla cómo se garantizó la calidad del código de CropMaster, utilizando principios de Clean Code y herramientas de análisis de código.|**Escenario 1:** Uso de principios de Clean Code Dado que el equipo de desarrollo de CropMaster está trabajando en una nueva funcionalidad de la aplicación Cuando el equipo de desarrollo escribe el código para la nueva funcionalidad Entonces el código debe seguir los principios de Clean Code, como la simplicidad, la claridad y la legibilidad, para asegurar que el código sea fácil de entender y mantener en el futuro.**Escenario 2:** Uso de herramientas de análisis de código Dado que el equipo de desarrollo de CropMaster ha terminado de escribir el código para una funcionalidad de la aplicación Cuando el equipo de desarrollo utiliza una herramienta de análisis de código para revisar el código escrito Entonces la herramienta de análisis de código debe identificar cualquier problema de calidad de código, como código duplicado o complejidad excesiva, para que el equipo de desarrollo pueda corregirlo y mejorar la calidad del código.|EP004|
+|TC003|Gestión de tiempo |Las fechas de los entregables de la aplicación en el cronograma son impostergables.|**Escenario 1:** Uso de técnicas de planificación Dado que el equipo de desarrollo de CropMaster está trabajando en una nueva funcionalidad de la aplicación Cuando el equipo de desarrollo utiliza técnicas de planificación para planificar el tiempo necesario para completar la funcionalidad Entonces el equipo de desarrollo debe asegurarse de que la planificación sea realista y tenga en cuenta cualquier posible retraso o problema que pueda surgir durante el proceso de desarrollo, para que el equipo pueda cumplir con el cronograma del proyecto y entregar los entregables en las fechas acordadas.|EP004|
+|TC004|Implementación de integración de API externa|Se detalla cómo se implementó la integración de API externa en la aplicación móvil CropMaster, utilizando herramientas de desarrollo de API y pruebas de integración.|**Escenario 1:** Conexión exitosa con la API externa Dado que la aplicación móvil CropMaster necesita obtener información actualizada sobre los cultivos y productos relacionados con la agricultura Cuando la aplicación móvil CropMaster se conecta con la API externa Entonces la aplicación móvil CropMaster debe recibir la información necesaria de la API externa de manera correcta y sin errores.|EP001|
+
+### 4.1.3.  	Architectural Drivers Backlog
+
 
 ### 4.1.4.  	Architectural Design Decisions
 
@@ -620,11 +628,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDUzNTgwLDE3MTE2OTkwNzYsMTIwNz
-c5NjkyMCwxMTg4ODQ3NzY5LDE5ODQ0ODg4MjQsLTE4NjY4NjYy
-MjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMT
-Y5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5
-OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNy
-wxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4
-Mzk0MTNdfQ==
+eyJoaXN0b3J5IjpbMTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMD
+c3OTY5MjAsMTE4ODg0Nzc2OSwxOTg0NDg4ODI0LC0xODY2ODY2
+MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2NTQ5LD
+E2OTM3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4
+OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MD
+csMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIx
+ODM5NDEzXX0=
 -->
