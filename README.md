@@ -293,12 +293,8 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 - 2.1.1. Análisis competitivo.
 
-ttrib-Driven Design Inputs.
-#### 4.1.2.1.  	Primary Functionality(Primary User Stories).
-#### 4.1.2.2.  	Quality aDesarrollaremos el Competitive Analysis Landscape:
-
  **¿Cómo podemos ofrecer un mejor servicio en nuestro producto frente a nuestros competidores? ¿Qué debemos mejorar?**
- - El objetivo de llevar a cabo este análisis competitivo es para conocer mejor a nuestros competidores, en que aspectos son mejores que nosotros, que funcionalidades o mejoras han implementado o implementan que nosotros no y saber en qué podemos mejorar
+- El propósito de realizar este análisis competitivo es obtener una comprensión más completa de nuestros competidores. Queremos identificar en qué áreas superan nuestras capacidades, qué características o mejoras han incorporado o están desarrollando que aún no tenemos, y determinar cómo podemos mejorar nuestra posición en el mercado en función de esta información.
 
 **Perfil de la StartUp**
 
@@ -589,11 +585,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMT
-EwNDI3MzgsLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMDg3Mjgz
-MDA3LDQzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNT
-IwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwODM3MDk0NywzNTQxMzk1
-MTEsMTUzMDUwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTExOTksMT
-Y0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3
-NDM3XX0=
+eyJoaXN0b3J5IjpbODc0OTQzNzY5LDE2OTM3ODE5NDUsMTU2OD
+E0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1OTk5LDE5OTQ1Mjcy
+NDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2NzgxNiwxNj
+kyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMDgzNzA5
+NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAwNCwtNT
+A0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAyLDUzNTMwMTgw
+N119
 -->
