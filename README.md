@@ -317,7 +317,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 -   Evitar saturar la aplicación con anuncios excesivos.
 -   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.CElicitation & Analysis
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Cis
 
 
 
@@ -326,14 +326,15 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute
 
-![Diagram-3.jpg (956×667) (ibb.co)](https://i.ibb.co/JtcC9wV/Diagram-3.jpg)
+![Diagram-3.jpg (956×667) (ibb.co)](https://i.ibb.coimagen 3]
+/JtcC9wV/Diagram-3.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTgzOTQxMywyMDA4MzcwOTQ3LDM1ND
-EzOTUxMSwxNTMwNTA1NjIxLC00MjYyMzgwMDQsLTUwNDA1MTE5
-OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4MDcsLTE3Mz
-gzNDc0MzcsLTIxNjA3Mzg4NSw5NDc5OTk3NjQsMTA0OTE2MTA1
-NCwxNDM4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0NywxOD
-UzODA1NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2
-MjcwNDVdfQ==
+eyJoaXN0b3J5IjpbNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwOD
+M3MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMSwtNDI2MjM4MDA0
+LC01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1Mz
+AxODA3LC0xNzM4MzQ3NDM3LC0yMTYwNzM4ODUsOTQ3OTk5NzY0
+LDEwNDkxNjEwNTQsMTQzODMxMzEwNSwtNDcwOTM0MjA5LDE5OT
+g2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOTE5Nzky
+NjIyXX0=
 -->
