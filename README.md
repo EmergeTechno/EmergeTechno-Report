@@ -170,6 +170,7 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 # Capítulo I: Introducción
 ### 1.1. Startup Profile
 - 1.1.1 Descripción del Startup
+
 En la sociedad actual, uno de los pilares esenciales que adquiere una importancia de gran magnitud es el sector agrícola. Específicamente en el contexto peruano, los agricultores desempeñan un rol crucial al impulsar la economía del país. Sin embargo, se enfrentan con frecuencia a obstáculos significativos, careciendo de las oportunidades y herramientas tecnológicas necesarias para maximizar sus ganancias y optimizar la producción.
 En respuesta a estas carencias que afectan a miles de agricultores, surge una solución innovadora bajo el nombre de "CropMaster". Esta iniciativa tiene como objetivo abordar las brechas existentes y brindar un apoyo sólido a la comunidad agrícola.
 CropMaster se presenta como una solución revolucionaria que se concreta mediante una aplicación móvil. Esta aplicación no solo actúa como una asistencia en línea para los agricultores, sino que también ofrece una amplia gama de alternativas, guías y consejos destinados a elevar los estándares de la agricultura y, por ende, a aumentar la eficiencia y las ganancias de los agricultores.
@@ -181,10 +182,10 @@ En consonancia con su misión, CropMaster se centra en asistir a las personas en
 
 |Nombre |Descripción | Foto |
 |----|---|---|
-|Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![Enrique Postigo](https://ibb.co/q07zd1y)|
+|Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (157×215) (ibb.co)](https://i.ibb.co/PTFRNCm/fsa.png)|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDc1NzM5MywxOTE5NzkyNjIyLC0xOD
+eyJoaXN0b3J5IjpbLTUwODYwNzg2OCwxOTE5NzkyNjIyLC0xOD
 UzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5
 MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMz
 E3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2
