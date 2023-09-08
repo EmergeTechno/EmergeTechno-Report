@@ -213,8 +213,9 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 ¿Cómo podemos garantizar que el sistema funcione con información precisa para ofrecer resultados favorables a los agricultores y evitar datos incorrectos o inadecuados?
 **Problem Statement 3:** Nuestra aplicación busca proporcionar a los agricultores una plataforma tecnológica eficaz, pero enfrentamos el desafío de lograr la adopción y el uso efectivo de la aplicación, especialmente entre aquellos agricultores que pueden tener limitaciones tecnológicas o resistencia al cambio. 
 ¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?  
-Claro, aquí están las parafrases de las asunciones de Lean UX que proporcionaste:
 
+  - 1.2.2.2. Lean UX Assumptions.
+  
 **1. Los usuarios necesitan** una herramienta que les permita mejorar los procesos y tratamientos agrícolas, con la posibilidad de generar ganancias económicas a corto o largo plazo en cada ciclo de producción.
 
 **2. Esta necesidad puede ser abordada** mediante una aplicación móvil que evalúa las condiciones de los cultivos y ofrece recomendaciones específicas para diferentes tipos de plantas, incluyendo métodos de tratamiento de enfermedades, riego y fumigación.
@@ -233,11 +234,11 @@ Claro, aquí están las parafrases de las asunciones de Lean UX que proporcionas
 
 **9. Para usuarios que opten por registrarse,** proporcionaremos soporte técnico agrícola, así como la asistencia de ingenieros ambientales, quienes aplicarán sus conocimientos profesionales para mejorar la producción agrícola.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE4Njg2MDMsMTA0OTE2MTA1NCwxND
-M4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0NywxODUzODA1
-NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwND
-UsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0
-Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OT
-QsMjA2MTM3NzU3MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4
-ODk2NDM5NV19
+eyJoaXN0b3J5IjpbOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzOD
+MxMzEwNSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2
+MCwtMTEwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LD
+E2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4NDY3
+ODQxLDIwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEzOTk0LD
+IwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2Mjc5LDE3ODg5
+NjQzOTVdfQ==
 -->
