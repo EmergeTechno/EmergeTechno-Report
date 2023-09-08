@@ -203,10 +203,13 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |How|La producción de las plantas se ve perjudicada debido a la falta de conocimientos técnicos y situaciones en las que no se aplican los fertilizantes en los momentos adecuados.|
 |How Much|Este desafío se presenta en aproximadamente un 60% de las ocasiones en las que el agricultor no posee conocimientos técnicos sobre cómo cultivar una planta específica. Por lo tanto, nuestra aplicación incluirá herramientas de apoyo que ayudarán a tomar decisiones más informadas al seleccionar el lugar adecuado para sembrar el producto.|
 
+- 1.2.2 Lean UX Process.
 
+  - 1.2.2.1. Lean UX Problem Statements.
+  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODY0MTk0NywxMzM1NTYwNzQ1LDE4NT
+eyJoaXN0b3J5IjpbLTg2NjA3OTE4OSwxOTk4NjQxOTQ3LDE4NT
 M4MDU3NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYy
 NzA0NSwxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LD
 UzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgx
