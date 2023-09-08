@@ -149,15 +149,15 @@ Ciclo: 2023-2
     -   ##### 4.3.4. Software Architecture Deployment Diagrams
 
 ### Conclusiones
-
-####  Conclusiones y recomendaciones
-####   Video About-the-Team.
+#####  Conclusiones y recomendaciones
+#####   Video About-the-Team.
  
- Bibliografía
- Anexos
+ ### Bibliografía
+ ### Anexos
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk2NTkyNDAsMTk3NDI0MTUxOSwtMz
-I1NDk2Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5NywzOTAzMTYw
-NTEsODI1ODU5NjYyXX0=
+eyJoaXN0b3J5IjpbNTQwMzM0Njc4LDE5NzQyNDE1MTksLTMyNT
+Q5NjI3OSwxNzg4OTY0Mzk1LC0yMjM1NDQ1OTcsMzkwMzE2MDUx
+LDgyNTg1OTY2Ml19
 -->
