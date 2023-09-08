@@ -262,12 +262,28 @@ Las características más relevantes de la aplicación será el hecho de poder b
 Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
 
   - 1.2.2.3. Lean UX Hypothesis Statements.
+ 
+**HIPÓTESIS 1:** Sostenemos que al ofrecer un calendario que señala los momentos ideales para la fumigación y fertilización de las plantas, contribuiremos a la mejora de las condiciones de cultivo. Nuestro éxito se reflejará en un incremento en las ganancias de producción, tal como se evidenciará en informes proporcionados por nuestros clientes.
+
+**HIPÓTESIS 2:** Sostenemos que la función de guía de plantas, basada en el análisis del pH, el clima y las características del terreno, resultará altamente beneficiosa para los agricultores que buscan mejorar o rectificar sus técnicas de siembra. Nuestro éxito se confirmará durante las entrevistas de validación, donde más del 90% de los usuarios no reportarán dificultades con esta característica.
+
+**HIPÓTESIS 3:** Creemos que al ofrecer un plan gratuito que permita a los usuarios explorar más a fondo el producto, atraeremos a un mayor número de clientes. Nuestro éxito se medirá alcanzando un mínimo de 1000 usuarios en los primeros días tras el lanzamiento.
+
+**HIPÓTESIS 4:** Creemos que permitir el registro mediante cuentas personales, como Google, Facebook, Apple, entre otras, incrementará nuestra base de usuarios. Nuestro éxito se confirmará si más del 70% de nuestros usuarios optan por registrarse con alguna de estas cuentas mencionadas.
+
+**HIPÓTESIS 5:** Sostenemos que la inclusión de una sección de "Contáctanos" nos permitirá recolectar retroalimentación y establecer una relación sólida entre nuestros clientes y la startup. Nuestro éxito se verificará cuando hayamos atendido las inquietudes del 80% de los usuarios de la aplicación.
+
+**HIPÓTESIS 6:** Creemos que al proporcionar una aplicación móvil que permita a los agricultores hacer un seguimiento del crecimiento de sus plantas y recibir consejos personalizados basados en datos, incrementaremos su rendimiento y reduciremos el desperdicio de recursos. Nuestro éxito se medirá a través de un crecimiento del 10% semestral en el uso de la aplicación móvil.
+
+**HIPÓTESIS 7:** Sostenemos que la implementación de un programa de educación y capacitación para los agricultores sobre las mejores prácticas en siembra y cuidado de las plantas reducirá la tasa de fracaso en la producción y mejorará la calidad de los cultivos. Nuestro éxito se basará en la recopilación de comentarios y sugerencias de nuestros clientes.
+
+**HIPÓTESIS 8:** Sostenemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Nuestro éxito se evaluará a través de la revisión de las calificaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3OTIyNDE2LC0yMTYwNzM4ODUsOTQ3OT
-k5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEwNSwtNDcwOTM0MjA5
-LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOT
-E5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4
-OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLT
-YxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0
-MTUxOV19
+eyJoaXN0b3J5IjpbLTEyNzQ1MTA4MDQsLTIxNjA3Mzg4NSw5ND
+c5OTk3NjQsMTA0OTE2MTA1NCwxNDM4MzEzMTA1LC00NzA5MzQy
+MDksMTk5ODY0MTk0NywxODUzODA1NzYwLC0xMTA1NTQ2ODU2LD
+E5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5ODc0Nyw5NDE4
+ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMjAwNDQxNTI1Ny
+wtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOTc0
+MjQxNTE5XX0=
 -->
