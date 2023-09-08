@@ -326,15 +326,15 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute
 
-![Diagram-3.jpg (956×667) (ibb.co)](https://i.ibb.coimagen 3]
+![iagram-3.jpg (956×667) (ibb.co)]imagen 3]
 /JtcC9wV/Diagram-3.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwOD
-M3MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMSwtNDI2MjM4MDA0
-LC01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1Mz
-AxODA3LC0xNzM4MzQ3NDM3LC0yMTYwNzM4ODUsOTQ3OTk5NzY0
-LDEwNDkxNjEwNTQsMTQzODMxMzEwNSwtNDcwOTM0MjA5LDE5OT
-g2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOTE5Nzky
-NjIyXX0=
+eyJoaXN0b3J5IjpbLTE2OTE2MDUwMzIsNTIwMTAxMjg3LDE2Mj
+E4Mzk0MTMsMjAwODM3MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYy
+MSwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYzNiw4MT
+E3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMTYwNzM4
+ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEwNSwtND
+cwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0
+Njg1Nl19
 -->
