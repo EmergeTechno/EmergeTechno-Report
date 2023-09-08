@@ -280,7 +280,7 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
 **HIPÓTESIS 8:** Sostenemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Nuestro éxito se evaluará a través de la revisión de las calificaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
 
   - 1.2.2.4. Lean UX Canvas.
- ![image.png (1300×659) (ibb.co)](https://i.ibb.co/zmj7b56/image.png) 
+ ![image.png (1300×659)  ](https://i.ibb.co/zmj7b56/image.png) 
 
 ### 1.3. Segmentos objetivo.
 
@@ -335,11 +335,11 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzAyNDIyOSw0MzE2OTU3MDcsMTUyNj
-U2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEz
-LDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNj
-IzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAy
-LDUzNTMwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1LDk0Nz
-k5OTc2NCwxMDQ5MTYxMDU0LDE0MzgzMTMxMDUsLTQ3MDkzNDIw
-OV19
+eyJoaXN0b3J5IjpbMzA1Mjg5NTk5LC01MDMwMjQyMjksNDMxNj
+k1NzA3LDE1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcs
+MTYyMTgzOTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNT
+A1NjIxLC00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2
+LDgxMTc2MzQwMiw1MzUzMDE4MDcsLTE3MzgzNDc0MzcsLTIxNj
+A3Mzg4NSw5NDc5OTk3NjQsMTA0OTE2MTA1NCwxNDM4MzEzMTA1
+XX0=
 -->
