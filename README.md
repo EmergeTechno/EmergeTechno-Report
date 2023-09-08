@@ -579,7 +579,13 @@ En nuestra aplicación, contamos con una serie de historias de usuario que son e
 |US006|Distancia de siembra entre las plantas|Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso|**Escenario:** Ver opciones de la planta Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas guardadas previamente Entonces la aplicación le mostrará la opción Distancia de siembra.**Escenario:** Ver distancia entre plantas Dado que el usuario visualiza las opciones de la planta Cuando el usuario seleccione la opción Distancia de siembra Entonces la aplicación le mostrará, a través de texto y gráficos, la distancia óptima de siembra de la planta.|EP001|
 
 - 4.1.2.2.  	Quality attribute Scenarios.
-
+- 
+|Atributo |Fuente |Estímulo |Artefacto |Entorno |Respuesta |Medida |
+|--|--|--|--|--|--|-- |
+|Rendimiento|Usuario|El usuario busca información sobre el cutivo de una planta específica|Aplicación móvil CropMaster|Dispositivo móvil del usuario|La aplicación muestra la información solicitada en menos de 3 segundos|El tiempo de respuesta promedio de la aplicación para mostrar información debe ser inferior a 3 segundos|
+|Seguridad|Usuario|El usuario intenta iniciar sesión en su cuenta.|Aplicación móvil CropMaster|Dispositivo móvil del usuario|La aplicación verifica la identidad del usuario y permite el acceso solo si las credenciales son correctas.|La aplicación debe ser capaz de detectar y prevenir intentos de inicio de sesión no autorizados en al menos el 95% de los casos, y debe registrar y notificar al usuario de cualquier intento fallido de inicio de sesión. |
+|Escalabilidad|Desarrollador|El número de usuarios de la aplicación aumenta significativamente.|Servidor de la aplicación CropMaster|Entorno de producción|El servidor de la aplicación puede manejar el aumento en el tráfico de usuarios sin disminuir el rendimiento.|El servidor de la aplicación debe ser capaz de manejar un aumento del 50% en el tráfico de usuarios sin disminuir el rendimiento.|
+|Mantenibilidad|Desarrollador|El equipo de desarrollo necesita agregar una nueva funcionalidad a la aplicación.|Código fuente de la aplicación móvil CropMaster|Entorno de desarrollo del equipo|El equipo de desarrollo agrega la nueva funcionalidad de manera eficiente y sin afectar negativamente otras partes del código. La aplicación debe ser capaz de manejar nuevas funcionalidades sin afectar la estabilidad del sistema existente.|El equipo de desarrollo debe ser capaz de agregar nuevas funcionalidades a la aplicación en un plazo de dos semanas y con menos del 5% de errores introducidos en el código existente.|
 -  4.1.2.3.  	Constrains.
 
 ### 4.1.3.  	Architectural D
@@ -614,11 +620,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDkyOTMxMCwxNzExNjk5MDc2LDEyMD
-c3OTY5MjAsMTE4ODg0Nzc2OSwxOTg0NDg4ODI0LC0xODY2ODY2
-MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2NTQ5LD
-E2OTM3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4
-OTk1OTk5LDE5OTQ1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MD
-csMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIx
-ODM5NDEzXX0=
+eyJoaXN0b3J5IjpbMTM4MDUzNTgwLDE3MTE2OTkwNzYsMTIwNz
+c5NjkyMCwxMTg4ODQ3NzY5LDE5ODQ0ODg4MjQsLTE4NjY4NjYy
+MjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMT
+Y5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5
+OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNy
+wxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4
+Mzk0MTNdfQ==
 -->
