@@ -280,12 +280,14 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
 **HIPÓTESIS 8:** Sostenemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Nuestro éxito se evaluará a través de la revisión de las calificaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
 
   - 1.2.2.4. Lean UX Canvas.
+ ![image.png (1300×659) (ibb.co)](https://i.ibb.co/zmj7b56/image.png) 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgzNDc0MzcsLTIxNjA3Mzg4NSw5ND
-c5OTk3NjQsMTA0OTE2MTA1NCwxNDM4MzEzMTA1LC00NzA5MzQy
-MDksMTk5ODY0MTk0NywxODUzODA1NzYwLC0xMTA1NTQ2ODU2LD
-E5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5ODc0Nyw5NDE4
-ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMjAwNDQxNTI1Ny
-wtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOTc0
-MjQxNTE5XX0=
+eyJoaXN0b3J5IjpbNDQ2NDc3MjM5LC0xNzM4MzQ3NDM3LC0yMT
+YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
+NSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMT
+EwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3
+OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLD
+IwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEz
+Nzc1NzJdfQ==
 -->
