@@ -285,10 +285,9 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
 ### 1.3. Segmentos objetivo.
 
 En nuestro proyecto se hacen presente dos segmentos objetivos:
-
- 1.  **Agricultores:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
+es:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
     
-2.  **Especialistas:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
+2.  **pecialists:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
@@ -316,7 +315,7 @@ Táctica de expansión:
 
 -   Evitar saturar la aplicación con anuncios excesivos.
 -   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.
+-   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Elicitation & Analysis
 
 
 
@@ -324,12 +323,15 @@ Táctica de expansión:
 
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute
+
+! figura3
+(https://ibb.co/dMf7RwF)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODEzMTg0OSwxNzY3ODc2NzAsLTQyNj
-IzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAy
-LDUzNTMwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1LDk0Nz
-k5OTc2NCwxMDQ5MTYxMDU0LDE0MzgzMTMxMDUsLTQ3MDkzNDIw
-OSwxOTk4NjQxOTQ3LDE4NTM4MDU3NjAsLTExMDU1NDY4NTYsMT
-kxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNjE5Nzk4NzQ3LDk0MTg4
-ODkwM119
+eyJoaXN0b3J5IjpbMTE0MzgyNzQ1MSwxODQ4MTMxODQ5LDE3Nj
+c4NzY3MCwtNDI2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYz
+Niw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
+YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
+NSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMT
+EwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3
+OTg3NDddfQ==
 -->
