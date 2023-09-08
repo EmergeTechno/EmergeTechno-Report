@@ -215,6 +215,7 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 ¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?  
 
   - 1.2.2.2. Lean UX Assumptions.
+  
    Business Assumptions:
 **1. Los usuarios necesitan** una herramienta que les permita mejorar los procesos y tratamientos agrícolas, con la posibilidad de generar ganancias económicas a corto o largo plazo en cada ciclo de producción.
 
@@ -259,8 +260,10 @@ Las características más relevantes de la aplicación será el hecho de poder b
 6.  **¿Cómo debe verse nuestro producto y cómo comportarse?**
 
 Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
+
+  - 1.2.2.3. Lean UX Hypothesis Statements.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNDkyNDAwLC0yMTYwNzM4ODUsOTQ3OT
+eyJoaXN0b3J5IjpbNjk3OTIyNDE2LC0yMTYwNzM4ODUsOTQ3OT
 k5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEwNSwtNDcwOTM0MjA5
 LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOT
 E5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4
