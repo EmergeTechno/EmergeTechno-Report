@@ -163,7 +163,7 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 
 | Criterio especfico |Acciones realizadas | Conclusiones |
 |  ----------  |  ----------  |  ----------  | 
-| Comunica oralmente con efectividad a diferentes rangos de audiencia| Enrique Postigo(TB1):Después de avanzar en la entrega de la TB1, se estableció una comunicación efectiva a través de reuniones grupales y presentaciones, lo que facilitó la compartición e intercambio de ideas entre los diferentes compañeros.| En esta entrega de la TB1, se elaboraron los capítulos 1, 2 , 3 y 4, que incluyeron el análisis de los requisitos de nuestro público objetivo. A través de este proceso, se fueron planteando las historias de usuario relacionadas con estos requisitos y se organizaron en un backlog, ordenándolas de menor a mayor importancia. Al final, logramos comunicar de manera oral eficaz tanto al profesor como a nuestros compañeros.|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia| Enrique Postigo(TB1):Después de avanzar en la entrega de la TB1, se estableció una comunicación efectiva a través de reuniones grupales y presentaciones, lo que facilitó la compartición e intercambio de ideas entre los diferentes compañeros.| En esta entrega de la TB1, se elaboraron los capítulos 1, 2 , 3 y 4, que incluyeron el análisis de los requisitos de nuestro público objetivo. A través de este proceso, se fueron planteando las historias de usuario relacionadas con estos requisitos y se organizaron en un backlog, ordenándolas de menor a mayor importancia y un avance de como seria la arquitectura del proyecto. Al final, logramos comunicar de manera oral eficaz tanto al profesor como a nuestros compañeros.|
 | Comunica por escrito con efectividad a diferentes rangos de audiencia | Enrique Postigo(TB1): En esta entrega de la TB1, se empleó una comunicación escrita eficaz con el profesor a través del desarrollo del informe o documento.| Para la entrega de la TB1, se elaboró un informe que incluyó todos los requisitos recopilados de los usuarios, lo que proporciona al equipo una abundante información sobre ellos. Esto nos permite utilizar diversas herramientas para organizar esta información. En consecuencia, el informe desarrollado proporciona una comunicación escrita efectiva para el docente.|
 
 
@@ -639,7 +639,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ4MzMyMTYsNzg2MTcwOTE3LDE3Mz
+eyJoaXN0b3J5IjpbLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3Mz
 I1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMs
 MTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4Nj
 Y4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1
