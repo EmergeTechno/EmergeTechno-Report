@@ -578,13 +578,12 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 ![Context 2](https://i.ibb.co/MRKtv6t/arqui2.jpg)
 
 #### 4.3.2 Software Architecture Container Level Diagrams
-![Container 3](https://i.ibb.co/MCGPPW9/arqui3.jpg)
+![](https://i.ibb.co/MCGPPW9/arqui3.jpg)
 
 #### 4.3.3 Software Architecture Deployment Diagrams.
 Diagrama de clases dentro del web services API Aplicationl 
-![Container 3](https://i.ibb.co/t4fz9XK/arqui4.jpg)
+![Container 3Deployment 4](https://i.ibb.co/t4fz9XK/arqui4.jpg)
 
-rivers Backlog.
 
 
 
@@ -625,7 +624,7 @@ rivers Backlog.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY4NjYyMjksLTc0NzQzMjUwNywxNz
+eyJoaXN0b3J5IjpbMTIyNTY1ODQyMCwtMTg2Njg2NjIyOSwxNz
 MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
 OTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OS
 wxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1
