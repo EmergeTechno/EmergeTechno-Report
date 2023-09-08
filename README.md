@@ -278,8 +278,10 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
 **HIPÓTESIS 7:** Sostenemos que la implementación de un programa de educación y capacitación para los agricultores sobre las mejores prácticas en siembra y cuidado de las plantas reducirá la tasa de fracaso en la producción y mejorará la calidad de los cultivos. Nuestro éxito se basará en la recopilación de comentarios y sugerencias de nuestros clientes.
 
 **HIPÓTESIS 8:** Sostenemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Nuestro éxito se evaluará a través de la revisión de las calificaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
+
+  - 1.2.2.4. Lean UX Canvas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ1MTA4MDQsLTIxNjA3Mzg4NSw5ND
+eyJoaXN0b3J5IjpbLTE3MzgzNDc0MzcsLTIxNjA3Mzg4NSw5ND
 c5OTk3NjQsMTA0OTE2MTA1NCwxNDM4MzEzMTA1LC00NzA5MzQy
 MDksMTk5ODY0MTk0NywxODUzODA1NzYwLC0xMTA1NTQ2ODU2LD
 E5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5ODc0Nyw5NDE4
