@@ -184,7 +184,7 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 - 1.1.2 Perfiles de integrantes del equipo
 
 | Nombre| Descripción| Foto |
-|-----------|-----------|-----------
+|----------|-----------|-----------
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
 |Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 
@@ -234,11 +234,11 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 
 **9. Para usuarios que opten por registrarse,** proporcionaremos soporte técnico agrícola, así como la asistencia de ingenieros ambientales, quienes aplicarán sus conocimientos profesionales para mejorar la producción agrícola.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzOD
-MxMzEwNSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2
-MCwtMTEwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LD
-E2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4NDY3
-ODQxLDIwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEzOTk0LD
-IwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2Mjc5LDE3ODg5
-NjQzOTVdfQ==
+eyJoaXN0b3J5IjpbLTIxNjA3Mzg4NSw5NDc5OTk3NjQsMTA0OT
+E2MTA1NCwxNDM4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0
+NywxODUzODA1NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLT
+E4NTM2MjcwNDUsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5
+OTkwNyw1Mzg0Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4LD
+EzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOTc0MjQxNTE5LC0zMjU0
+OTYyNzldfQ==
 -->
