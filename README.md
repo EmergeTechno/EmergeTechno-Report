@@ -181,12 +181,13 @@ En consonancia con su misión, CropMaster se centra en asistir a las personas en
 
 |Nombre |Descripción | Foto |
 |----|---|---|
-|Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|
+|Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![Enrique Postigo](https://ibb.co/q07zd1y)|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNj
-E5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2Nzg0
-MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgxMzk5NCwyMD
-YxMzc3NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0
-Mzk1LC0yMjM1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
+eyJoaXN0b3J5IjpbMTQwNDc1NzM5MywxOTE5NzkyNjIyLC0xOD
+UzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5
+MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMz
+E3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2
+Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5NywzOTAzMTYwNTEsOD
+I1ODU5NjYyXX0=
 -->
