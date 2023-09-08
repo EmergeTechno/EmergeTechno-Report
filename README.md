@@ -424,9 +424,19 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 					
 - 2.2.2. Registro de entrevistas.
 
+***Segmento 1: Farmers***
+![Entrevista 2](https://media.discordapp.net/attachments/912089666939916348/1149479957538558052/image.png?width=1182&height=610)
+- Nombre: Carmen Martinez 
+- Edad: 50 años 
+-  Residencia: Huaral 
+- Duración: 08:24 
+- Tecnologías: Windows, Android. 
+- Resumen:
+- Carmen es una administradora que vive en huaral, una ciudad agricola, ella trabaja alquilando departamentos y tiene una sembrio en el que realiza el cultivo de vainitas, ella dedica 3 dias a la semana para trabajar en la chacra.Ella tiene buena señal movil, tambien nos explica que el suelo arenoso y los climas propicios en Huaral le son de mucha ayuda. Nos comenta que tuvo un previo asesoramiento en su cultivo y no realiza podas por la naturaleza de sus plantas.
+  
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EVsD1LlRbgZAkM8D64ggtrwBVzRKyYDOqHM9_AjzZqdPww?e=JBlIll&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
 
-
-
+***Segmento 2: Specialist***
 
 
 
@@ -447,11 +457,11 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMD
-g3MjgzMDA3LDQzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYx
-MzIsNTIwMTAxMjg3LDE2MjE4Mzk0MTMsMjAwODM3MDk0NywzNT
-QxMzk1MTEsMTUzMDUwNTYyMSwtNDI2MjM4MDA0LC01MDQwNTEx
-OTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNz
-M4MzQ3NDM3LC0yMTYwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEw
-NTRdfQ==
+eyJoaXN0b3J5IjpbNjc0NTA1NTk4LC0xNDA4OTk1OTk5LDE5OT
+Q1MjcyNDcsMjA4NzI4MzAwNyw0MzE2OTU3MDcsMTUyNjU2Nzgx
+NiwxNjkyOTI2MTMyLDUyMDEwMTI4NywxNjIxODM5NDEzLDIwMD
+gzNzA5NDcsMzU0MTM5NTExLDE1MzA1MDU2MjEsLTQyNjIzODAw
+NCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYsODExNzYzNDAyLDUzNT
+MwMTgwNywtMTczODM0NzQzNywtMjE2MDczODg1LDk0Nzk5OTc2
+NF19
 -->
