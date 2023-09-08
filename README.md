@@ -204,12 +204,19 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |Who |Este problema afecta a personas involucradas en la agricultura que carecen de conocimientos sobre cómo cultivar plantas frutales o vegetales.|
 |Where |La problemática puede surgir en cualquier lugar donde se practique la agricultura.|
 |How|La producción de las plantas se ve perjudicada debido a la falta de conocimientos técnicos y situaciones en las que no se aplican los fertilizantes en los momentos adecuados.|
-|How Much|Este desafío se presenta en aproximadamente un 60% de las ocasiones en las que el agricultor no posee conocimientos técnicos sobre cómo cultivar una planta específica. Por lo tanto, nuestra aplicación incluirá herramientas de apoyo que ayudarán a tomar decisiones más informadas al seleccionar el lugar adecuado para sembrar el producto.|
+|How Much|Este desafío se presenta en aproximadamente un 60% de las ocasiones en las que el agricultor no posee conocimientos técnicos sobre cómo cultivar una planta específica. Por lo tanto, nuestra aplicación incluirá herramientas de apoyo que ayudarán a tomar decisiones más informadas al seleccionar el lugar adecuado para sembrar el producto.What|as|
+|When|as|
+|Why |as|
+|Who |as|
+|Where |as|
+|How|as|
+|How Much|as|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NzgwMDg1LDE4NTM4MDU3NjAsLTExMD
-U1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NSwxNjE5Nzk4
-NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2Nzg0MSwyMD
-A0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgxMzk5NCwyMDYxMzc3
-NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0Mzk1LC
-0yMjM1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
+eyJoaXN0b3J5IjpbLTE1Mjg3NDQwOSw4ODY3ODAwODUsMTg1Mz
+gwNTc2MCwtMTEwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3
+MDQ1LDE2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNT
+M4NDY3ODQxLDIwMDQ0MTUyNTcsLTYxMjczNjgwOCwxMzE3ODEz
+OTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUxOSwtMzI1NDk2Mjc5LD
+E3ODg5NjQzOTUsLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1ODU5
+NjYyXX0=
 -->
