@@ -326,7 +326,9 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute-Driven Design.
 ### 4.1.1 Design Purpose.
-### 4.1.2 Attribute.
+### 4.1.2 Attribute.-Driven Design Inputs.
+#### 4.1.2.1.  	Primary Functionality(Primary User Stories).
+#### 4.1.2.2.  	Quality attrib
 
 
 
@@ -335,11 +337,11 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1Mjg5NTk5LC01MDMwMjQyMjksNDMxNj
-k1NzA3LDE1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcs
-MTYyMTgzOTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNT
-A1NjIxLC00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2
-LDgxMTc2MzQwMiw1MzUzMDE4MDcsLTE3MzgzNDc0MzcsLTIxNj
-A3Mzg4NSw5NDc5OTk3NjQsMTA0OTE2MTA1NCwxNDM4MzEzMTA1
-XX0=
+eyJoaXN0b3J5IjpbNTAyNzE4MjM5LDMwNTI4OTU5OSw0MzE2OT
+U3MDcsMTUyNjU2NzgxNiwxNjkyOTI2MTMyLDUyMDEwMTI4Nywx
+NjIxODM5NDEzLDIwMDgzNzA5NDcsMzU0MTM5NTExLDE1MzA1MD
+U2MjEsLTQyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2MzYs
+ODExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQzNywtMjE2MD
+czODg1LDk0Nzk5OTc2NCwxMDQ5MTYxMDU0LDE0MzgzMTMxMDVd
+fQ==
 -->
