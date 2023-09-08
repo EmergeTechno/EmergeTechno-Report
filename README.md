@@ -169,14 +169,16 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 
 # Capítulo I: Introducción
 
-## 
+### 1.1. Startup Profile
+- 1.1.1 Descripción del Startup
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzk2NDE3LDk0MTg4ODkwMywtMzQ2Mz
-k5OTA3LDUzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgs
-MTMxNzgxMzk5NCwyMDYxMzc3NTcyLDE5NzQyNDE1MTksLTMyNT
-Q5NjI3OSwxNzg4OTY0Mzk1LC0yMjM1NDQ1OTcsMzkwMzE2MDUx
-LDgyNTg1OTY2Ml19
+eyJoaXN0b3J5IjpbLTM5NzMxMDg3MSw5NDE4ODg5MDMsLTM0Nj
+M5OTkwNyw1Mzg0Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4
+LDEzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOTc0MjQxNTE5LC0zMj
+U0OTYyNzksMTc4ODk2NDM5NSwtMjIzNTQ0NTk3LDM5MDMxNjA1
+MSw4MjU4NTk2NjJdfQ==
 -->
