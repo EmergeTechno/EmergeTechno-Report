@@ -212,17 +212,32 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 **Problem Statement 2:** En nuestro contexto, es esencial acceder a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno para la actividad agrícola. La precisión de los datos ingresados es crítica, ya que afecta significativamente los resultados del sistema. 
 ¿Cómo podemos garantizar que el sistema funcione con información precisa para ofrecer resultados favorables a los agricultores y evitar datos incorrectos o inadecuados?
 **Problem Statement 3:** Nuestra aplicación busca proporcionar a los agricultores una plataforma tecnológica eficaz, pero enfrentamos el desafío de lograr la adopción y el uso efectivo de la aplicación, especialmente entre aquellos agricultores que pueden tener limitaciones tecnológicas o resistencia al cambio. 
-¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?    |  :----: |  ---: |
-| Manzana | Fruta   | Rojo  |
-| Pera    | Fruta   | Verde |
-```- 
+¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?  
+Claro, aquí están las parafrases de las asunciones de Lean UX que proporcionaste:
 
+**1. Los usuarios necesitan** una herramienta que les permita mejorar los procesos y tratamientos agrícolas, con la posibilidad de generar ganancias económicas a corto o largo plazo en cada ciclo de producción.
+
+**2. Esta necesidad puede ser abordada** mediante una aplicación móvil que evalúa las condiciones de los cultivos y ofrece recomendaciones específicas para diferentes tipos de plantas, incluyendo métodos de tratamiento de enfermedades, riego y fumigación.
+
+**3. Nuestros clientes serán** agricultores de edades comprendidas entre 18 y 80 años que buscan adoptar nuevas tecnologías para mejorar la producción agrícola.
+
+**4. El aspecto más importante para nuestros clientes en relación a nuestro servicio** es que la aplicación pueda gestionar sus parcelas y tipos de cultivos de manera efectiva, proporcionando resultados precisos y satisfactorios.
+
+**5. Los usuarios se beneficiarán** al tener acceso a una versión gratuita de la aplicación que permite registrar un solo terreno, aunque con la posibilidad de ajustar el área sin restricciones.
+
+**6. Planeamos atraer a la mayoría de nuestros clientes** diferenciándonos de la competencia. Además de proporcionar datos de ubicación y clima, nuestra aplicación ofrecerá una guía de cultivos diseñada para orientar a los agricultores sobre los pasos adecuados de siembra y el tratamiento adecuado para sus terrenos.
+
+**7. El mayor riesgo de nuestro producto** radica en la posibilidad de que se generen recomendaciones incorrectas que empeoren la calidad de los cultivos.
+
+**8. Abordaremos este problema mediante** la recopilación de comentarios de los usuarios y la implementación de actualizaciones constantes para corregir y mejorar el producto y cumplir con las expectativas de los usuarios.
+
+**9. Para usuarios que opten por registrarse,** proporcionaremos soporte técnico agrícola, así como la asistencia de ingenieros ambientales, quienes aplicarán sus conocimientos profesionales para mejorar la producción agrícola.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Mjc2MTc1MiwxMDQ5MTYxMDU0LDE0Mz
-gzMTMxMDUsLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NTM4MDU3
-NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NS
-wxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2
-Nzg0MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgxMzk5NC
-wyMDYxMzc3NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OSwxNzg4
-OTY0Mzk1XX0=
+eyJoaXN0b3J5IjpbLTIxMDE4Njg2MDMsMTA0OTE2MTA1NCwxND
+M4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0NywxODUzODA1
+NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwND
+UsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0
+Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OT
+QsMjA2MTM3NzU3MiwxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4
+ODk2NDM5NV19
 -->
