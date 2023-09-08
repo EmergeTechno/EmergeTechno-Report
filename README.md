@@ -31,10 +31,15 @@ Ciclo: 2023-2
 | 1.0| 31/08/2023 |Enrique Postigo| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
 | 1.1| 03/09/2023 |Enrique Postigo| Se completaron los capítulos 1, 2 y 3
 | 1.2| 05/09/2023|Enrique Postigo| Se completo el capítulo 4
-| 1.3| 07/09/2023|Enrique Postigo| Se paso trabajo a github
+| 1.3| 07/09/2023|Enrique Postigo| Se paso el trabajo a GitHub
+
+## Project Report Collaboration Insights
+
+**Enlace del Project Report:** 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA0NDg4ODAsMTc4ODk2NDM5NSwtMj
-IzNTQ0NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbLTQ3Mjg5NDcyNiwxNzg4OTY0Mzk1LC0yMj
+M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
