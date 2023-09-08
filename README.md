@@ -233,12 +233,36 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 **8. Abordaremos este problema mediante** la recopilación de comentarios de los usuarios y la implementación de actualizaciones constantes para corregir y mejorar el producto y cumplir con las expectativas de los usuarios.
 
 **9. Para usuarios que opten por registrarse,** proporcionaremos soporte técnico agrícola, así como la asistencia de ingenieros ambientales, quienes aplicarán sus conocimientos profesionales para mejorar la producción agrícola.
+
+1. **¿Quién es el usuario?**
+
+Agricultores y personas amantes de las plantas al borde de 18 a 80 años buscando mejorar su producción agrícola.
+
+2. **¿Dónde encaja nuestro producto en el día a día?**
+
+En el día a día del trabajo de los agricultores, personas interesadas en producción, nuestra aplicación trabaja como una herramienta eficaz para la producción agrícola, brindándoles alternativas de abono, fumigación y tips de siembra.
+
+3. **¿Qué problemas resuelve nuestro producto?**
+
+Esto resuelve la falta de conocimiento con respecto a la cultivación de plantas desconocidas o corregir los procesos que tienen durante la siembra. La App móvil, tienda a dar tips de producción, abono, selección de semillas y fertilizantes que se puede usar durante el periodo de crecimiento.
+
+4. **¿Cuándo y cómo es usado nuestro producto?**
+
+Es usado cuando los agrícolas, generalmente los principiantes, tienen alguna duda con respecto a las condiciones a las que debe ser plantada las plantas, ya sea en una altitud especifica, nivel de pH adecuado y/o la distribución en el terreno.
+
+5. **¿Qué características son relevantes?**
+
+Las características más relevantes de la aplicación será el hecho de poder brindar información útil o guía para conocer cómo se deben cultivar las plantas, con relación al terreno, clima y temporada que se especificara en cada campo para un correcto funcionamiento.
+
+6.  **¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjA3Mzg4NSw5NDc5OTk3NjQsMTA0OT
-E2MTA1NCwxNDM4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0
-NywxODUzODA1NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLT
-E4NTM2MjcwNDUsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5
-OTkwNyw1Mzg0Njc4NDEsMjAwNDQxNTI1NywtNjEyNzM2ODA4LD
-EzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOTc0MjQxNTE5LC0zMjU0
-OTYyNzldfQ==
+eyJoaXN0b3J5IjpbNzYwMDM4OTQzLC0yMTYwNzM4ODUsOTQ3OT
+k5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEwNSwtNDcwOTM0MjA5
+LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOT
+E5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4
+OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLT
+YxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0
+MTUxOV19
 -->
