@@ -315,13 +315,11 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 - 2.1.1. Análisis Ccompetitivo
 .
 - - 2.1.2. Estrategias y tácticas frente a competidores.
-- **Liderazgo en costos:**
-
--   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
+- Liderazgo en costs:*-   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
 -   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
 -   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
 
-**Estrategia de diferenciación:**
+Estrategia de diferenciación:
 
 -   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
 -   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a difer
@@ -329,23 +327,23 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 ## Capítulo II: Requirementes tipos de cultivos.
 -   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
 
-**Estrategia de enfoque:**
+Estrategia de enfoque:
 
 -   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
 -   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
 
-**Táctica de expansión:**
+Táctica de expansión:
 
 -   Evitar saturar la aplicación con anuncios excesivos.
 -   Enfocarse en obtener valoraciones positivas de los usuarios.
 -   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Elicitation & AnalysisEn esta sección, llevaremos a cabo un análisis detallado de nuestros competidores con el propósito de adquirir un conocimiento más profundo sobre ellos. Esto nos permitirá evaluar sus puntos fuertes y áreas de mejora, lo que a su vez nos ayudará a realizar comparaciones y, en última instancia, ofrecer una plataforma superior a nuestros usuarios.
 |StartUp|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NzgxOTc2LDE2NDI4NDI2MzYsLTE4Mj
-c0MDQ4NTgsODExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQz
-NywtMjE2MDczODg1LDk0Nzk5OTc2NCwxMDQ5MTYxMDU0LDE0Mz
-gzMTMxMDUsLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NTM4MDU3
-NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYyNzA0NS
-wxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2
-Nzg0MV19
+eyJoaXN0b3J5IjpbLTUwNDA1MTE5OSw2OTg3ODE5NzYsMTY0Mj
+g0MjYzNiw4MTE3NjM0MDIsNTM1MzAxODA3LC0xNzM4MzQ3NDM3
+LC0yMTYwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzOD
+MxMzEwNSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2
+MCwtMTEwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LD
+E2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYzOTk5MDcsNTM4NDY3
+ODQxXX0=
 -->
