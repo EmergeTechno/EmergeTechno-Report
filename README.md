@@ -605,6 +605,7 @@ En nuestra aplicación, contamos con una serie de historias de usuario que son e
 
 ### 4.1.4.  	Architectural Design Decisions
 
+![kkk.png (690×696) (ibb.co)](https://i.ibb.co/kX0Y88L/kkk.png)
 ### 4.1.5.  	Quality Attribute Scenario Refinements.
 
 
@@ -633,11 +634,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzU3NjM5MSwxMjg0Njk5NTAzLDE3MT
-E2OTkwNzYsMTIwNzc5NjkyMCwxMTg4ODQ3NzY5LDE5ODQ0ODg4
-MjQsLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLT
-E5OTM0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEw
-NDI3MzgsLTE0MDg5OTU5OTksMTk5NDUyNzI0NywyMDg3MjgzMD
-A3LDQzMTY5NTcwNywxNTI2NTY3ODE2LDE2OTI5MjYxMzIsNTIw
-MTAxMjg3XX0=
+eyJoaXN0b3J5IjpbNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMT
+Y5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksMTk4NDQ4ODgy
+NCwtMTg2Njg2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMT
+k5MzQwNjU0OSwxNjkzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0
+MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMD
+csNDMxNjk1NzA3LDE1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAx
+MDEyODddfQ==
 -->
