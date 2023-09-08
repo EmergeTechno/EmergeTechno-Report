@@ -291,31 +291,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
-- 2.1.1. Análisis Ccompetitivo
-- 2.1.2. Estrategias y tácticas frente a competidores.
-
-  - Liderazgo en costs:*-   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
- -  -Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
- - - Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
-
-Estrategia de diferenciación:
-
--   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
--   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a difer
-
-## Capítulo II: Requirementes tipos de cultivos.
--   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
-
-Estrategia de enfoque:
-
--   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
--   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
-
-Táctica de expansión:
-
--   Evitar saturar la aplicación con anuncios excesivos.
--   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Elicitation & Analysis
+- 2.1.1. Análisis CElicitation & Analysis
 
 
 
@@ -327,8 +303,8 @@ Táctica de expansión:
 ! figura3
 (https://ibb.co/dMf7RwF)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDY1OTI1NiwxMTQzODI3NDUxLDE4ND
-gxMzE4NDksLTQyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2
+eyJoaXN0b3J5IjpbMTY2NDYwMzI3OCwxNzU0NjU5MjU2LDExND
+M4Mjc0NTEsLTQyNjIzODAwNCwtNTA0MDUxMTk5LDE2NDI4NDI2
 MzYsODExNzYzNDAyLDUzNTMwMTgwNywtMTczODM0NzQzNywtMj
 E2MDczODg1LDk0Nzk5OTc2NCwxMDQ5MTYxMDU0LDE0MzgzMTMx
 MDUsLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NTM4MDU3NjAsLT
