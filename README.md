@@ -183,8 +183,11 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
  
 - 1.1.2 Perfiles de integrantes del equipo
 
-|Nombre |Descripción | Foto |
-|----|---|---|
+|Nombre |Descripción | Foto
+
+```md
+| Nombre  | Tipo    | Color |
+|- :---|---|---|
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
 |Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 
@@ -212,14 +215,17 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 **Problem Statement 2:** En nuestro contexto, es esencial acceder a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno para la actividad agrícola. La precisión de los datos ingresados es crítica, ya que afecta significativamente los resultados del sistema. 
 ¿Cómo podemos garantizar que el sistema funcione con información precisa para ofrecer resultados favorables a los agricultores y evitar datos incorrectos o inadecuados?
 **Problem Statement 3:** Nuestra aplicación busca proporcionar a los agricultores una plataforma tecnológica eficaz, pero enfrentamos el desafío de lograr la adopción y el uso efectivo de la aplicación, especialmente entre aquellos agricultores que pueden tener limitaciones tecnológicas o resistencia al cambio. 
-¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?
+¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?    |  :----: |  ---: |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDkzNDIwOSwxOTk4NjQxOTQ3LDE4NT
-M4MDU3NjAsLTExMDU1NDY4NTYsMTkxOTc5MjYyMiwtMTg1MzYy
-NzA0NSwxNjE5Nzk4NzQ3LDk0MTg4ODkwMywtMzQ2Mzk5OTA3LD
-UzODQ2Nzg0MSwyMDA0NDE1MjU3LC02MTI3MzY4MDgsMTMxNzgx
-Mzk5NCwyMDYxMzc3NTcyLDE5NzQyNDE1MTksLTMyNTQ5NjI3OS
-wxNzg4OTY0Mzk1LC0yMjM1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1
-OTY2Ml19
+eyJoaXN0b3J5IjpbMTQzODMxMzEwNSwtNDcwOTM0MjA5LDE5OT
+g2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOTE5Nzky
+NjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4OTAzLC
+0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLTYxMjcz
+NjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUxOS
+wtMzI1NDk2Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5NywzOTAz
+MTYwNTFdfQ==
 -->
