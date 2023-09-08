@@ -282,8 +282,9 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
   - 1.2.2.4. Lean UX Canvas.
  ![image.png (1300×659) (ibb.co)](https://i.ibb.co/zmj7b56/image.png) 
  
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NDc3MjM5LC0xNzM4MzQ3NDM3LC0yMT
+eyJoaXN0b3J5IjpbNTM1MzAxODA3LC0xNzM4MzQ3NDM3LC0yMT
 YwNzM4ODUsOTQ3OTk5NzY0LDEwNDkxNjEwNTQsMTQzODMxMzEw
 NSwtNDcwOTM0MjA5LDE5OTg2NDE5NDcsMTg1MzgwNTc2MCwtMT
 EwNTU0Njg1NiwxOTE5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3
