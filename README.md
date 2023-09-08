@@ -19,6 +19,7 @@ Relación de integrantes:
 
 -   Enrique Daniel Postigo Tuesta(U201720027)
 -   Bruno Moisés Palomino Santa Cruz (U201914974)
+-  Diego Talledo Sanchez (U202017388)
 -  Rafael Samanez Narvaez (U201311688)
 
 
