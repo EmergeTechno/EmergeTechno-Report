@@ -560,16 +560,17 @@ https://i.ibb.co/gg80g0B/person2.jpg
 # Capítulo IV: Strategic-Level Software Design
 
 ### 4.1. Strategic-Level Attribute-Driven Design.
-
+Este es un enfoque de diseño arquitectónico que se centra en los atributos de calidad del sistema con el objetivo de identificar los atributos de calidad más importantes y diseñar la arquitectura para satisfacerlos.
 ### 4.1.1 Design Purpose.
+El objetivo de diseñar nuestra aplicación teniendo en cuenta una variedad de factores es asegurar que la aplicación satisfaga las expectativas finales del usuario y funcione de manera eficiente según los parámetros establecidos.
 
 ### 4.1.2 Attribute.-Driven Design Inputs.
+- 4.1.2.1.  	Primary Functionality(Primary User Stories).
+En nuestra aplicación, contamos con una serie de historias de usuario que son esenciales para proporcionar la experiencia que deseamos ofrecer a nuestros usuarios. No obstante, algunas de estas historias son especialmente relevantes en el contexto de nuestro modelo de negocio. A continuación, enumeraremos las historias de usuario que destacan en nuestro modelo de negocio en función de los requisitos funcionales.
 
-#### 4.1.2.1.  	Primary Functionality(Primary User Stories).
+- 4.1.2.2.  	Quality attribute Scenarios.
 
-#### 4.1.2.2.  	Quality attribute Scenarios.
-
-#### 4.1.2.3.  	Constrains.
+-  4.1.2.3.  	Constrains.
 
 ### 4.1.3.  	Architectural D
 
@@ -603,11 +604,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExOD
-g4NDc3NjksMTk4NDQ4ODgyNCwtMTg2Njg2NjIyOSwxNzMxNTY5
-NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgxOTQ1LD
-E1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0
-NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MT
-YsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgzOTQxMywyMDA4
-MzcwOTQ3XX0=
+eyJoaXN0b3J5IjpbLTE1NDIyNzkyOTEsMTcxMTY5OTA3NiwxMj
+A3Nzk2OTIwLDExODg4NDc3NjksMTk4NDQ4ODgyNCwtMTg2Njg2
+NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OS
+wxNjkzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQw
+ODk5NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1Nz
+A3LDE1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYy
+MTgzOTQxM119
 -->
