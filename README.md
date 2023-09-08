@@ -288,26 +288,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 
  1.  **Agricultores:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
     
-2.  **Especialists:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2.  **Especialistas:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
@@ -344,11 +325,11 @@ Táctica de expansión:
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDU1ODk2OSwtNDI2MjM4MDA0LC01MD
-QwNTExOTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1MzAxODA3
-LC0xNzM4MzQ3NDM3LC0yMTYwNzM4ODUsOTQ3OTk5NzY0LDEwND
-kxNjEwNTQsMTQzODMxMzEwNSwtNDcwOTM0MjA5LDE5OTg2NDE5
-NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOTE5NzkyNjIyLC
-0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4OTAzLC0zNDYz
-OTk5MDddfQ==
+eyJoaXN0b3J5IjpbMTc2Nzg3NjcwLC00MjYyMzgwMDQsLTUwND
+A1MTE5OSwxNjQyODQyNjM2LDgxMTc2MzQwMiw1MzUzMDE4MDcs
+LTE3MzgzNDc0MzcsLTIxNjA3Mzg4NSw5NDc5OTk3NjQsMTA0OT
+E2MTA1NCwxNDM4MzEzMTA1LC00NzA5MzQyMDksMTk5ODY0MTk0
+NywxODUzODA1NzYwLC0xMTA1NTQ2ODU2LDE5MTk3OTI2MjIsLT
+E4NTM2MjcwNDUsMTYxOTc5ODc0Nyw5NDE4ODg5MDMsLTM0NjM5
+OTkwN119
 -->
