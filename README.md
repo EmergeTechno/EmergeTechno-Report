@@ -581,7 +581,8 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 ![Container 3](https://i.ibb.co/MCGPPW9/arqui3.jpg)
 
 #### 4.3.3 Software Architecture Deployment Diagrams.
-
+Diagrama de clases del 
+![Container 3](https://i.ibb.co/t4fz9XK/arqui4.jpg)
 
 rivers Backlog.
 
@@ -624,7 +625,7 @@ rivers Backlog.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjIxNTE1NiwxNzMxNTY5NTMyLDkzNj
+eyJoaXN0b3J5IjpbLTQxNzE4MzI2MSwxNzMxNTY5NTMyLDkzNj
 E1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgxOTQ1LDE1NjgxNDg0
 NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0NTI3MjQ3LD
 IwODcyODMwMDcsNDMxNjk1NzA3LDE1MjY1Njc4MTYsMTY5Mjky
