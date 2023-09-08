@@ -160,19 +160,21 @@ Ciclo: 2023-2
 El curso contribuye al cumplimiento del Student Outcome ABET: 
 **ABET–EAC - Student Outcome (3):**  Capacidad de comunicarse efectivamente con un rango de audiencias. 
 En el siguiente recuadro describiremos todas las acciones realizadas, criterios específicos y las conclusiones realizadas por parte del equipo, por lo cual nos ayudarán a reconocer el cumplimiento del logro **ABET – EAC - Student Outcome (3).**
-```md
-| Criterio especfico Acciones realizadas| Conclusiones| ---: |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia| TB1:| Fila1|
 
-```
+| Criterio especfico | Acciones realizadas | Conclusiones |
+|  ----------  |  ----------  |  ----------  | 
+| Comunica oralmente con efectividad a diferentes rangos de audiencia| TB1:| Fila1|
 | Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1: | Fila2|
 
 
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc5MjcwNjEsMjAwNDQxNTI1NywtNj
-EyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOTc0MjQx
-NTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NSwtMjIzNTQ0NTk3LD
-M5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbODI4Mzk0ODc3LDIwMDQ0MTUyNTcsLTYxMj
+czNjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUx
+OSwtMzI1NDk2Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5NywzOT
+AzMTYwNTEsODI1ODU5NjYyXX0=
 -->
