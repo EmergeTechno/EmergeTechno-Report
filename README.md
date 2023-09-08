@@ -177,13 +177,14 @@ EmergeTechno se presenta como una solución revolucionaria que se concreta media
 Un aspecto destacado de EmergeTechno es su capacidad para conectar a los agricultores con el mundo exterior, superando las limitaciones geográficas y facilitando un acceso sencillo a información pertinente y servicios de alta calidad. A través de su presencia en una Aplicación Móvil, EmergeTechno pone al alcance de los agricultores una plataforma rica en contenido y herramientas que respaldan el desarrollo y el éxito de cada usuario.
 En consonancia con su misión, EmergeTechno se centra en asistir a las personas en sus esfuerzos por llevar a cabo una siembra eficaz, ya sea a gran escala o incluso en entornos domésticos. Esto se logra mediante una plataforma segura que ofrece recomendaciones y guías personalizadas de acuerdo a las necesidades individuales de cada agricultor.
  Mirando hacia el futuro, EmergeTechno persigue una visión ambiciosa: convertirse en una empresa líder que desempeñe un papel fundamental en la reducción de la prevalencia de alimentos transgénicos. Esta visión se materializa al proporcionar una plataforma confiable y accesible que permite a cualquier persona involucrarse en la creación y el cultivo de su propio alimento. Al mismo tiempo, EmergeTechno busca contribuir a la mejora de los cultivos a gran escala, fomentando la producción de alimentos de mayor calidad y valor nutricional. 
-- 1.1.2 
+- 1.1.2 Perfiles de integrantes del equipo
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY3MTQwNTQsMTYxOTc5ODc0Nyw5ND
-E4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMjAwNDQxNTI1
-NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3MiwxOT
-c0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NSwtMjIzNTQ0
-NTk3LDM5MDMxNjA1MSw4MjU4NTk2NjJdfQ==
+eyJoaXN0b3J5IjpbLTgzOTkxMjk3NywxNjE5Nzk4NzQ3LDk0MT
+g4ODkwMywtMzQ2Mzk5OTA3LDUzODQ2Nzg0MSwyMDA0NDE1MjU3
+LC02MTI3MzY4MDgsMTMxNzgxMzk5NCwyMDYxMzc3NTcyLDE5Nz
+QyNDE1MTksLTMyNTQ5NjI3OSwxNzg4OTY0Mzk1LC0yMjM1NDQ1
+OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
