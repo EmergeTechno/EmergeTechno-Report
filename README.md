@@ -285,11 +285,10 @@ Nuestro producto debería tener un diseño moderno y simplista, lo suficiente co
 ### 1.3. Segmentos objetivo.
 
 En nuestro proyecto se hacen presente dos segmentos objetivos:
- 
- 1.  **Farmer 
+
  1.  **Agricultores:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
     
-2.  **SpecialistAsesores:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
+2.  **Especialists:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
 
 
 
@@ -345,7 +344,7 @@ Táctica de expansión:
 ## Capítulo IV: Strategic-Level Software Design
 ### 4.1. Strategic-Level Attribute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE2MTYyNCwtNDI2MjM4MDA0LC01MD
+eyJoaXN0b3J5IjpbLTgwNDU1ODk2OSwtNDI2MjM4MDA0LC01MD
 QwNTExOTksMTY0Mjg0MjYzNiw4MTE3NjM0MDIsNTM1MzAxODA3
 LC0xNzM4MzQ3NDM3LC0yMTYwNzM4ODUsOTQ3OTk5NzY0LDEwND
 kxNjEwNTQsMTQzODMxMzEwNSwtNDcwOTM0MjA5LDE5OTg2NDE5
