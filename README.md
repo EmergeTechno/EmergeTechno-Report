@@ -218,14 +218,14 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 ¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?    |  :----: |  ---: |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
-```
+```- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODMxMzEwNSwtNDcwOTM0MjA5LDE5OT
-g2NDE5NDcsMTg1MzgwNTc2MCwtMTEwNTU0Njg1NiwxOTE5Nzky
-NjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4OTAzLC
-0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLTYxMjcz
-NjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0MTUxOS
-wtMzI1NDk2Mjc5LDE3ODg5NjQzOTUsLTIyMzU0NDU5NywzOTAz
-MTYwNTFdfQ==
+eyJoaXN0b3J5IjpbMTA0OTE2MTA1NCwxNDM4MzEzMTA1LC00Nz
+A5MzQyMDksMTk5ODY0MTk0NywxODUzODA1NzYwLC0xMTA1NTQ2
+ODU2LDE5MTk3OTI2MjIsLTE4NTM2MjcwNDUsMTYxOTc5ODc0Ny
+w5NDE4ODg5MDMsLTM0NjM5OTkwNyw1Mzg0Njc4NDEsMjAwNDQx
+NTI1NywtNjEyNzM2ODA4LDEzMTc4MTM5OTQsMjA2MTM3NzU3Mi
+wxOTc0MjQxNTE5LC0zMjU0OTYyNzksMTc4ODk2NDM5NSwtMjIz
+NTQ0NTk3XX0=
 -->
