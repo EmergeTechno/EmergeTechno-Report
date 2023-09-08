@@ -306,7 +306,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 **Perfil de Marketing**
 
-| Startup | r| Agri | Farmlogs | Strider |
+| Startup | | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Mercado Objetivo | Dirigido a cualquier persona que se dedican o quieran dedicarse a la agricultura. | Dirigido a las empresas agrícolas y enfocado para dueños de micro y pequeñas empresas agrícolas | Dirigido a las empresas agrícolas | Dirigido a las empresas agrícolas |
 | Estrategias de Marketing | - Social Ads - Email marketing - Marketing de redes sociales - Marketing de contenidos | - Estrategia de up-selling - Marketing de contenidos - Email marketing - Marketing de redes sociales - SEO | - Storytelling - Marketing de contenidos - Email marketing - SEM | - Marketing de contenidos - Marketing de redes sociales - Social Ads |
@@ -458,9 +458,10 @@ Entrevista #2:
 En resumen, las entrevistas indican que los agricultores valoran sus conocimientos agrícolas, pero están buscando soluciones tecnológicas para optimizar sus procesos y abordar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les proporcione información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse actualizados en las prácticas agrícolas.
 
 ### 2.3. Needfinding
- - User Personas
- - User Task Matrix.
- -
+ - 2.3.1 User Personas
+ - 2.3.2 User Task Matrix.
+ - 2.3.3 Empathy Mapping
+ - 2.3.4 As-is Scenario Mapping.
 
 # Capítulo III: Requirements Specification
 
@@ -591,11 +592,11 @@ En resumen, las entrevistas indican que los agricultores valoran sus conocimient
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDYxOTExOSw3NDA4NDA3MDQsMTY5Mz
-c4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5OTU5
-OTksMTk5NDUyNzI0NywyMDg3MjgzMDA3LDQzMTY5NTcwNywxNT
-I2NTY3ODE2LDE2OTI5MjYxMzIsNTIwMTAxMjg3LDE2MjE4Mzk0
-MTMsMjAwODM3MDk0NywzNTQxMzk1MTEsMTUzMDUwNTYyMSwtND
-I2MjM4MDA0LC01MDQwNTExOTksMTY0Mjg0MjYzNiw4MTE3NjM0
-MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTM0MDY1NDksLTU4NDYxOTExOSwxNj
+kzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5
+NTk5OSwxOTk0NTI3MjQ3LDIwODcyODMwMDcsNDMxNjk1NzA3LD
+E1MjY1Njc4MTYsMTY5MjkyNjEzMiw1MjAxMDEyODcsMTYyMTgz
+OTQxMywyMDA4MzcwOTQ3LDM1NDEzOTUxMSwxNTMwNTA1NjIxLC
+00MjYyMzgwMDQsLTUwNDA1MTE5OSwxNjQyODQyNjM2LDgxMTc2
+MzQwMl19
 -->
