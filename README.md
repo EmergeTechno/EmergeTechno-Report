@@ -190,8 +190,12 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 
 ### 1.2. Startup Profile
 
+- 1.2.1 Antecedentes y Problemática: Las 5 “W” y 2 “H”
+|Pregunta | Descripción|
+|------|------|
+|as|as|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzMyMTA1NCwtMTEwNTU0Njg1NiwxOT
+eyJoaXN0b3J5IjpbMjEyMDIwMTU0NiwtMTEwNTU0Njg1NiwxOT
 E5NzkyNjIyLC0xODUzNjI3MDQ1LDE2MTk3OTg3NDcsOTQxODg4
 OTAzLC0zNDYzOTk5MDcsNTM4NDY3ODQxLDIwMDQ0MTUyNTcsLT
 YxMjczNjgwOCwxMzE3ODEzOTk0LDIwNjEzNzc1NzIsMTk3NDI0
