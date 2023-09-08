@@ -164,7 +164,7 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 | Criterio especfico |Acciones realizadas | Conclusiones |
 |  ----------  |  ----------  |  ----------  | 
 | Comunica oralmente con efectividad a diferentes rangos de audiencia| **Enrique Postigo (TB1):** Después de avanzar en la entrega de la TB1, se estableció una comunicación efectiva a través de reuniones grupales y presentaciones, lo que facilitó la compartición e intercambio de ideas entre los diferentes compañeros. **Bruno Palomino (TB1):** Después de llevar a cabo la exposición para esta entrega TB1, logramos una comunicación efectiva para transmitir las ideas sobre el proyecto tanto al profesor como a nuestros compañeros. | En esta entrega de la TB1, se elaboraron los capítulos 1, 2, 3 y 4, que incluyeron el análisis de los requisitos de nuestro público objetivo. A través de este proceso, se fueron planteando las historias de usuario relacionadas con estos requisitos y se organizaron en un backlog, ordenándolas de menor a mayor importancia y un avance de como seria la arquitectura del proyecto. Al final, logramos comunicar de manera oral eficaz tanto al profesor como a nuestros compañeros. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Enrique Postigo(TB1): En esta entrega de la TB1, se empleó una comunicación escrita eficaz con el profesor a través del desarrollo del informe o documento.| Para la entrega de la TB1, se elaboró un informe que incluyó todos los requisitos recopilados de los usuarios, lo que proporciona al equipo una abundante información sobre ellos. Esto nos permite utilizar diversas herramientas para organizar esta información. En consecuencia, el informe desarrollado proporciona una comunicación escrita efectiva para el docente.|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Enrique Postigo(TB1):** En esta entrega de la TB1, se empleó una comunicación escrita eficaz con el profesor a través del desarrollo del informe o documento.**Bruno Palomino(TB1):** Se han creado los artefactos asignados para esta entrega de acuerdo a lo acordado en las reuniones y siguiendo una comunicación escrita efectiva.| Para la entrega de la TB1, se elaboró un informe que incluyó todos los requisitos recopilados de los usuarios, lo que proporciona al equipo una abundante información sobre ellos. Esto nos permite utilizar diversas herramientas para organizar esta información. En consecuencia, el informe desarrollado proporciona una comunicación escrita efectiva para el docente.|
 
 
 # Capítulo I: Introducción
@@ -639,7 +639,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTc1MTY3OSwtMTU1MTMxNjgyNCw3OD
+eyJoaXN0b3J5IjpbMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3OD
 YxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIs
 MTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4OD
 g0Nzc2OSwtMTg2Njg2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEw
