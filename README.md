@@ -35,11 +35,11 @@ Ciclo: 2023-2
 
 ## Project Report Collaboration Insights
 
-**Enlace del Project Report:** [https://www.neoguias.com]
+**Enlace del Project Report:** [https://github.com/EmergeTechno/EmergeTechno-Report](https://github.com/EmergeTechno/EmergeTechno-Report)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwOTkwMTUwLDE3ODg5NjQzOTUsLTIyMz
-U0NDU5NywzOTAzMTYwNTEsODI1ODU5NjYyXX0=
+eyJoaXN0b3J5IjpbMjAzOTA3NTY0OSwxNzg4OTY0Mzk1LC0yMj
+M1NDQ1OTcsMzkwMzE2MDUxLDgyNTg1OTY2Ml19
 -->
