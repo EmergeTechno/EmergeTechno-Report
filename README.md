@@ -19,7 +19,7 @@ Relación de integrantes:
 
 -   Enrique Daniel Postigo Tuesta(U201720027)
 -   Bruno Moisés Palomino Santa Cruz (U201914974)
-- Rafael Samanez Narvaez (U201311688)
+-  Rafael Samanez Narvaez (U201311688)
 
 
 Mes y año: Septiembre 2023
@@ -156,7 +156,7 @@ Conclusiones
   
    Anexos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTU5OTk2NSwtMzI1NDk2Mjc5LDE3OD
-g5NjQzOTUsLTIyMzU0NDU5NywzOTAzMTYwNTEsODI1ODU5NjYy
-XX0=
+eyJoaXN0b3J5IjpbMTk3NDI0MTUxOSwtNTI1NTk5OTY1LC0zMj
+U0OTYyNzksMTc4ODk2NDM5NSwtMjIzNTQ0NTk3LDM5MDMxNjA1
+MSw4MjU4NTk2NjJdfQ==
 -->
