@@ -165,7 +165,7 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 | Criterio especfico |Acciones realizadas | Conclusiones |
 |  ----------  |  ----------  |  ----------  | 
 | Comunica oralmente con efectividad a diferentes rangos de audiencia| **Enrique Postigo (TB1):** Después de avanzar en la entrega de la TB1, se estableció una comunicación efectiva a través de reuniones grupales y presentaciones, lo que facilitó la compartición e intercambio de ideas entre los diferentes compañeros. **Bruno Palomino (TB1):** Después de llevar a cabo la exposición para esta entrega TB1, logramos una comunicación efectiva para transmitir las ideas sobre el proyecto tanto al profesor como a nuestros compañeros. **Diego Talledo (TB1):** En nuestra primera entrega, realizamos las distribuciones y planificaciones de las sesiones en las trabajamos en equipo principalmente en el eventStorming. **Rafael Samanez(TB1):** Definimos el alcance del proyecto, la tecnología ,y como esta beneficia a la empresa monetariamente proponiendo ideas innovadoras para el mercado de la agricultura.| En esta entrega de la TB1, se elaboraron los capítulos 1, 2, 3 y 4, que incluyeron el análisis de los requisitos de nuestro público objetivo. A través de este proceso, se fueron planteando las historias de usuario relacionadas con estos requisitos y se organizaron en un backlog, ordenándolas de menor a mayor importancia y un avance de como seria la arquitectura del proyecto. Al final, logramos comunicar de manera oral eficaz tanto al profesor como a nuestros compañeros. |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia | **Enrique Postigo(TB1):** En esta entrega de la TB1, se empleó una comunicación escrita eficaz con el profesor a través del desarrollo del informe o documento.**Bruno Palomino(TB1):** Se han creado los artefactos asignados para esta entrega de acuerdo a lo acordado en las reuniones y siguiendo una comunicación escrita efectiva.**Diego Talledo (TB1):** Al realizar las entrevistas logramos identificar a nuestros usuarios, analizar sus requerimientos y sus espectativas. **Rafael Samanez(TB1):** De acuerdo a las reuniones hemos analizado las necesidades mediante las historias de usuarios y se han determinado la tecnologia a implementar para resolver el problema q, | Para la entrega de la TB1, se elaboró un informe que incluyó todos los requisitos recopilados de los usuarios, lo que proporciona al equipo una abundante información sobre ellos. Esto nos permite utilizar diversas herramientas para organizar esta información. En consecuencia, el informe desarrollado proporciona una comunicación escrita efectiva para el docente. 
+|Comunica por escrito con efectividad a diferentes rangos de audiencia | **Enrique Postigo(TB1):** En esta entrega de la TB1, se empleó una comunicación escrita eficaz con el profesor a través del desarrollo del informe o documento.**Bruno Palomino(TB1):** Se han creado los artefactos asignados para esta entrega de acuerdo a lo acordado en las reuniones y siguiendo una comunicación escrita efectiva.**Diego Talledo (TB1):** Al realizar las entrevistas logramos identificar a nuestros usuarios, analizar sus requerimientos y sus espectativas. **Rafael Samanez(TB1):** De acuerdo a las reuniones hemos analizado las necesidades mediante las entrevistas e historias de usuarios y se han determinado la tecnología a implementar para resolver el problema de la agricultura en Lima, | Para la entrega de la TB1, se elaboró un informe que incluyó todos los requisitos recopilados de los usuarios, lo que proporciona al equipo una abundante información sobre ellos. Esto nos permite utilizar diversas herramientas para organizar esta información. En consecuencia, el informe desarrollado proporciona una comunicación escrita efectiva para el docente. 
 |
 
 
@@ -642,11 +642,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzODU1NzEwLC03NzYyODY5ODYsMjA1Mz
-MyNDg0NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgs
-MTgwNDgzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNj
-k5MDc2LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIy
-OSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNj
-kzNzgxOTQ1LDE1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5
-NTk5OV19
+eyJoaXN0b3J5IjpbMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNT
+MzMjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4
+LDE4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMT
+Y5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4NjY4NjYy
+MjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMT
+Y5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3MzgsLTE0MDg5
+OTU5OTldfQ==
 -->
