@@ -190,7 +190,6 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
 |Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 |Diego Talledo Sanchez| **Me llamo Diego, tengo 20 años, nací en japón sin embargo la mayor parte de mis vida fui criado en Perú. Escogí esta carrera debido a mi gran afinidad hacia la tecnología contemporánea. Entre mis principales habilidades se encuentra la capacidad de guardar información, la empatía, el ser resiliente y tengo conocimiento en los lenguajes de C++,C#, python,JS,Kotlin y en frameworks como vue y angular.**| ![Diego Talledo](https://cdn.discordapp.com/attachments/800192500207190026/1149576905146781706/Imagen_de_WhatsApp_2023-04-28_a_las_21.56.47_-_copia.jpg)
-
 |Rafael Samanez Narvaez| **Me llamo Rafael, tengo 20 años. Soy estudiante de la carrera de software. Escogí esta carrera por mi gusto con la tecnologia e innovacion.**| 
 
 
@@ -643,7 +642,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTE0MTE1NiwyMDUzMzI0ODQ1LC0xNT
+eyJoaXN0b3J5IjpbLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNT
 UxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0Nzgz
 LDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNz
 c5NjkyMCwxMTg4ODQ3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1
