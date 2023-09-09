@@ -190,8 +190,7 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |Enrique Daniel Postigo Tuesta|**Soy estudiante de la carrera Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona que puede y sabe trabajar en equipo para mejorar el rendimiento en los proyectos, soy responsable con los proyectos que tengo y a la vez me gusta entregarlos con la calidad que requieren.**|![fsa.png (215×215) (ibb.co)Enrique Postigo](https://i.ibb.co/PTFRNCm/fsa.pngq07zd1y)|
 |Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 |Diego Talledo Sanchez| **Me llamo Diego, tengo 20 años, nací en japón sin embargo la mayor parte de mis vida fui criado en Perú. Escogí esta carrera debido a mi gran afinidad hacia la tecnología contemporánea. Entre mis principales habilidades se encuentra la capacidad de guardar información, la empatía, el ser resiliente y tengo conocimiento en los lenguajes de C++,C#, python,JS,Kotlin y en frameworks como vue y angular.**| ![Diego Talledo](https://cdn.discordapp.com/attachments/800192500207190026/1149576905146781706/Imagen_de_WhatsApp_2023-04-28_a_las_21.56.47_-_copia.jpg)
-|Rafael Samanez Narvaez| **Me llamo Rafael, tengo 20 años. Soy estudiante de la carrera de software. Escogí esta carrera por mi gusto con la tecnologia e innovacion.**| https://i.ibb.co/k6t88Hv/PERFILBAJACALIDAD.jpg
-![r](
+|Rafael Samanez Narvaez| **Me llamo Rafael, tengo 25 años. Soy estudiante de la carrera de software. Escogí esta carrera por mi gusto con la tecnología e innovación. Me gusta trabajar en equipo y tengo habilidades**|![Rafael Samanez](https://i.ibb.co/k6t88Hv/PERFILBAJACALIDAD.jpg)
 
 ### 1.2. Startup Profile
 
@@ -642,11 +641,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODMwMDEsMTEyNzIxNzQ0OSwtNzc2Mj
-g2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3
-LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OT
-k1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3Njks
-LTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OT
-M0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4NDQyLDEyMTEwNDI3
-MzhdfQ==
+eyJoaXN0b3J5IjpbNjc0ODE4ODIwLDExMjcyMTc0NDksLTc3Nj
+I4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkx
+NywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Nj
+k5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMTg4ODQ3NzY5
+LC0xODY2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOT
+kzNDA2NTQ5LDE2OTM3ODE5NDUsMTU2ODE0ODQ0MiwxMjExMDQy
+NzM4XX0=
 -->
