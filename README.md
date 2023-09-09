@@ -191,6 +191,8 @@ En consonancia con su misión, ropMaster se centra en asistir a las personas en 
 |Bruno Moisés Palomino Santa Cruz|**Soy estudiante de la carrera de Ingenieria de tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.**| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 |Diego Talledo Sanchez| **Me llamo Diego, tengo 20 años, nací en japón sin embargo la mayor parte de mis vida fui criado en Perú. Escogí esta carrera debido a mi gran afinidad hacia la tecnología contemporánea. Entre mis principales habilidades se encuentra la capacidad de guardar información, la empatía, el ser resiliente y tengo conocimiento en los lenguajes de C++,C#, python,JS,Kotlin y en frameworks como vue y angular.**| ![Diego Talledo](https://cdn.discordapp.com/attachments/800192500207190026/1149576905146781706/Imagen_de_WhatsApp_2023-04-28_a_las_21.56.47_-_copia.jpg)
 
+|Rafael Samanez Narvaez| **Me llamo Rafael, tengo 20 años, nací en japón sin embargo la mayor parte de mis vida fui criado en Perú. Escogí esta carrera debido a mi gran afinidad hacia la tecnología contemporánea. Entre mis principales habilidades se encuentra la capacidad de guardar información, la empatía, el ser resiliente y tengo conocimiento en los lenguajes de C++,C#, python,JS,Kotlin y en frameworks como vue y angular.**| 
+
 
 ### 1.2. Startup Profile
 
@@ -641,11 +643,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEwOTEzNjIsMjA1MzMyNDg0NSwtMT
-U1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4
-Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMD
-c3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIyOSwxNzMxNTY5
-NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgxOTQ1LD
-E1NjgxNDg0NDIsMTIxMTA0MjczOCwtMTQwODk5NTk5OSwxOTk0
-NTI3MjQ3XX0=
+eyJoaXN0b3J5IjpbLTczMzM4NjM4MywyMDUzMzI0ODQ1LC0xNT
+UxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0Nzgz
+LDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNz
+c5NjkyMCwxMTg4ODQ3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1
+MzIsOTM2MTUyMTA1LC0xOTkzNDA2NTQ5LDE2OTM3ODE5NDUsMT
+U2ODE0ODQ0MiwxMjExMDQyNzM4LC0xNDA4OTk1OTk5LDE5OTQ1
+MjcyNDddfQ==
 -->
