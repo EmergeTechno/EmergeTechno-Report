@@ -622,18 +622,18 @@ En nuestra aplicación, contamos con una serie de historias de usuario que son e
 ### 4.3. Software Architecture.
 Presentamos nuestro modelo de arquitectura de software para cubrir las necesidades de  la aplicación móvil.
 #### 4.3.1 Software Architecture System Landscape Diagram.
-![Landscape 1](https://i.ibb.co/bWqKK95/arqui1.jpg)
+![Landscape Diagram](https://media.discordapp.net/attachments/1143666758042013892/1149092447788486677/landscape.drawio.png?width=1025&height=405) 
 
 
 #### 4.3.1 Software Architecture Context Level Diagrams
-![](https://i.ibb.co/MRKtv6t/arqui2.jpg)
+![Context diagram](https://media.discordapp.net/attachments/1143666758042013892/1149089602737537094/Context.drawio.png?width=954&height=473)
 
 #### 4.3.2 Software Architecture Container Level Diagrams
-![](https://i.ibb.co/MCGPPW9/arqui3.jpg)
+![Container DIagram](https://media.discordapp.net/attachments/1143666758042013892/1149106586892111892/container.drawio.png?width=454&height=473)
 
 #### 4.3.3 Software Architecture Deployment Diagrams.
 Diagrama de clases dentro del web services API Aplicationl 
-![Container 3Deployment 4](https://i.ibb.co/t4fz9XK/arqui4.jpg)
+![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473)
 
 
 **ANEXO C: Video de exposiciones**
