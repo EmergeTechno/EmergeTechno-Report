@@ -636,7 +636,9 @@ Diagrama de clases dentro del web services API Aplicationl
 ![Container 3Deployment 4](https://i.ibb.co/t4fz9XK/arqui4.jpg)
 
 
-
+**ANEXO C: Video de exposiciones**
+| Vídeo exposición TB1 | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/ESSmpjDNBRlDtJYBF3z4dboBsd2J3a1q4ZJZwQ8N5skeLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hIqkK2) | 
+|-----------|-----------|
 
 
 
