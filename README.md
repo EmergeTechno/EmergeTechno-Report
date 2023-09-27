@@ -1657,10 +1657,10 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
   -  - **Etiquetas icónicas (iconic labels):** Implican el uso de imágenes para que la etiqueta tenga un significado claro sin requerir texto adicional. No obstante, por lo general, se acompañan de etiquetas de texto para evitar confusiones por parte del usuario.
 
-    Estos dos tipos de etiquetas se hacen visibles en la barra de navegación de nuestro prototipo.
+   Estos dos tipos de etiquetas se hacen visibles en la barra de navegación de nuestro prototipo.
   ###- 6.2.3. SEO Tags and Meta Tags.
 
-    Las etiquetas meta desempeñan un papel crucial al señalar información codificada y definir los metadatos. No se muestran directamente en los sitios web, sino que son interpretadas por los navegadores o rastreadores web. Estas etiquetas meta simplifican el análisis de los archivos HTML y contribuyen a mantener el contenido del archivo de manera eficiente. Además, son valiosas para mejorar la posición de nuestra página web en los resultados de búsqueda.
+   Las etiquetas meta desempeñan un papel crucial al señalar información codificada y definir los metadatos. No se muestran directamente en los sitios web, sino que son interpretadas por los navegadores o rastreadores web. Estas etiquetas meta simplifican el análisis de los archivos HTML y contribuyen a mantener el contenido del archivo de manera eficiente. Además, son valiosas para mejorar la posición de nuestra página web en los resultados de búsqueda.
 
   -  - **Titulo:** Esta etiqueta se cuenta entre las más importantes y suele ubicarse antes que cualquier otra etiqueta meta. Todos los motores de búsqueda la utilizan como encabezado en las páginas de resultados de búsqueda (SERP).
   
@@ -1677,7 +1677,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
   -  - **Autor y Derechos de Autor:** Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
 
-       ``` <meta name="author" content="AgriPure" /><meta name="copyright" content="Copyright AgriPure team" /> ```
+       ``` <meta name="author" content="CropMaster" /><meta name="copyright" content="Copyright CropMaster team" /> ```
 
   ###- 6.2.4. Searching Systems.
 
@@ -1816,7 +1816,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcwNjQ1NjcsLTY2MDc2OTE0NCwtMT
+eyJoaXN0b3J5IjpbLTE1MzMxMDI1MDEsLTY2MDc2OTE0NCwtMT
 kxNjM5NzEyMCwtMjAzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzEx
 NjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1My
 wxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMTU1
