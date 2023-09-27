@@ -386,7 +386,7 @@ es:
 
 **Perfil de Marketing**
 
-| Startup | AgriPure | Agri | Farmlogs | Strider |
+| Startup | CropMaster | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Mercado Objetivo | Dirigido a cualquier persona que se dedican o quieran dedicarse a la agricultura. | Dirigido a las empresas agrícolas y enfocado para dueños de micro y pequeñas empresas agrícolas | Dirigido a las empresas agrícolas | Dirigido a las empresas agrícolas |
 | Estrategias de Marketing | - Social Ads - Email marketing - Marketing de redes sociales - Marketing de contenidos | - Estrategia de up-selling - Marketing de contenidos - Email marketing - Marketing de redes sociales - SEO | - Storytelling - Marketing de contenidos - Email marketing - SEM | - Marketing de contenidos - Marketing de redes sociales - Social Ads |
