@@ -1038,7 +1038,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| OFF  | string          | public     |
 		
 
-## **5.4.2. Interface layer**
+## **5.4.2.1.2 Interface layer**
 - Nombre: IoT.controller
 - Categorìa: Controller
 - Propòsito: Controlar registro de dispositivos IoT
@@ -1050,7 +1050,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| GetIoTByOd|Promise|public|Permite obtener un dispositivo IoT|
 	| GetIoTByUserId|Promise|public|Permite obtener una lista de los dispositivos de un usuario|
 	| DeleteIoT | Promise      | public      | Permite eliminar un dispositivo  |
-## **5.4.3. Application Layer**
+## **5.44.2.1.3. Application Layer**
 - Nombre: RegisterIoTDeviceCommandHandler
 - Categoría: Command Handler
 - Propósito: Handler de registro de dispositivos IoT
@@ -1104,7 +1104,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|------|---------------|-----------|-----------|
 	|Handler|Promise<IoT>|public|Método de ejecución del comando|
 			
-#### 5.4.4 Infrastructure Layer
+#### 5.44.2.3.4 Infrastructure Layer
 - Nombre: SuscriptionRepository
 - Categoría: Repository
 - Propósito: Persistir las suscripciones
@@ -1172,11 +1172,11 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI4MzM4NDYsMTMzMTE2MzExMCwtOT
-M5MDIyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0
-NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LD
-c4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4
-MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMT
-g4ODQ3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUy
-MTA1XX0=
+eyJoaXN0b3J5IjpbNjY0Nzc3NzIzLC0xMjMyODMzODQ2LDEzMz
+ExNjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1
+MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMT
+U1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4
+Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMD
+c3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIyOSwxNzMxNTY5
+NTMyXX0=
 -->
