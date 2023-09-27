@@ -1145,7 +1145,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 ## **5.4. Bounded Context: IoT Asset Management**
-## **5.4.1. Domain Layer.** 
+###**5.4.1. Domain Layer.** 
 - Nombre: IoTDevice
 - Categoría: Entity
 - Propósito: Almacenar datos de los dispositivos IoT
@@ -1166,7 +1166,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| OFF  | string          | public     |
 		
 
-## **5.4.2.1.2 Interface layer**
+### **5.4.2. Interface layer**
 - Nombre: IoT.controller
 - Categorìa: Controller
 - Propòsito: Controlar registro de dispositivos IoT
@@ -1178,7 +1178,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| GetIoTByOd|Promise|public|Permite obtener un dispositivo IoT|
 	| GetIoTByUserId|Promise|public|Permite obtener una lista de los dispositivos de un usuario|
 	| DeleteIoT | Promise      | public      | Permite eliminar un dispositivo  |
-## **5.44.2.1.3. Application Layer**
+### **5.4.3. Application Layer**
 - Nombre: RegisterIoTDeviceCommandHandler
 - Categoría: Command Handler
 - Propósito: Handler de registro de dispositivos IoT
@@ -1232,7 +1232,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|------|---------------|-----------|-----------|
 	|Handler|Promise<IoT>|public|Método de ejecución del comando|
 			
-#### 5.44.2.3.4 Infrastructure Layer
+### **5.4.4. Infraestructure Layer**
 - Nombre: SuscriptionRepository
 - Categoría: Repository
 - Propósito: Persistir las suscripciones
@@ -1255,7 +1255,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| add  | void       | public      | Crear un plan      |
 	| delete | void |public|Eliminar un plan|
 				
-#### .4.6. Bounded Context Software Architecture Component Level Diagrams
+### 4.5. Bounded Context Software Architecture Component Level Diagrams
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. 
 ![Diagrama de componentes sUSCRIPTION](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_omponent_iotdevice.PNG?raw=true)
@@ -1816,7 +1816,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4Njk3NzU5LC0xOTE2Mzk3MTIwLC0yMD
+eyJoaXN0b3J5IjpbLTIwNjM2MzYxLC0xOTE2Mzk3MTIwLC0yMD
 M1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIy
 MDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLT
 c3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3
