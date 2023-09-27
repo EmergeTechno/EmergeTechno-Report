@@ -1016,239 +1016,130 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 ![DC profile](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_profile.PNG?raw=true)
 
 
-## **4.2.2. Bounded Context: Plant Management**
-## **4.2.2.1. Domain Layer.** 
-- Nombre: Plant
-- Categoria: Entity
-- Propósito: Almacenar datos de las plantas
-- Atributos
+## **5.4. Bounded Context: IoT Asset Management**
+## **5.4.1. Domain Layer.** 
+- Nombre: IoTDevice
+- Categoría: Entity
+- Propósito: Almacenar datos de los dispositivos IoT
+- Atributos:
 	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
 	|-----------|--------------|-------------|----------------------------------------------|
-	| id | int       | private     | Id de identidad               |
-	| plantName        | string          | private     | Nombre de la planta                         |
-	| plantDescription        | string          | private     | Descripción de la planta        
-- Métodos:
-	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
-	|--------------|--------------|-------------|-----------------------------------------------|
-	| Plant       | void         | public      | Constructor de la identidad                   |
-	| getPlantName  | string       | public      | Obtiene el nombre de la planta       |
-	| getDescription      | string       | public      | Retorna la desripción                
-- Nombre: IPlantRepository
-- Categoría: Repository
-- Propósito: Persistir las plantas
-- Métodos: 
-	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
-	|--------------|--------------|-------------|-----------------------------------------------|
-	| IPlantRepository       | ISuscriptionRepository         | public      | Constructor de identidad                   |
-	| add  | void       | public      | Crear una planta      |
-	| updatePlant     | void       | public      |Permite actualizar los datos de una planta|
-	|deletePlant|void|public|Permite eliminar una planta|
-	| ListPlants|array|public|Devuelve una lista de todas las plantas|
-	|FindByName|promise<PlantResource>|public|Devuelve una planta por el nombre|
-	|FindById|promise<PlantResource|publicDevuelve una planta por el Id|
+	| Id | int       | private     | Id de identidad               |
+	| deviceName        | string          | private     | Nombre del dispositivo  |
+	|status|Status|private|Estado del dispositivo|
+	|registerAt|date|private|Fecha de creación|
+- Nombre: Status
+- Categoría: Enum
+- Propósito: Almacenar los estados de un dispositivo IoT
+- Atributos: 
+	| Nombre    | Tipo de dato | Visibilidad |
+	|-----------|--------------|-------------|
+	| ON | string       | public    |
+	| OFF  | string          | public     |
 		
 
-#### 4.2.2.2 Interface layer
-- Nombre: Plant.controller
+## **4.2.1.2 Interface layer**
+- Nombre: IoT.controller
 - Categorìa: Controller
-- Propòsito: Controlar registro de suscripciones
+- Propòsito: Controlar registro de dispositivos IoT
 - Mètodos:
 	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
 	|------------|--------------|-------------|-----------------------------------------|
-	| Post   | Promise      | public      | Registra una nueva planta              |
-	| GetAll | Promise      | public      | Devuelve todas las plantas |
-	|GetByName|Promise|public|Devuelve una plata por su nombre|
-	|GetById|Promise|public|Devuelve una planta por su id|
-	|deleteById|Promise|Elimina una planta|
+	| Register   | Promise      | public      | Registra un nuevo dispositivo IoT               |
+	| Modify | Promise      | public      | Permite modificar dispositivo IoT |
+	| GetIoTByOd|Promise|public|Permite obtener un dispositivo IoT|
+	| GetIoTByUserId|Promise|public|Permite obtener una lista de los dispositivos de un usuario|
+	| DeleteIoT | Promise      | public      | Permite eliminar un dispositivo  |
+## **4.2.1.3 Application Layer**
+- Nombre: RegisterIoTDeviceCommandHandler
+- Categoría: Command Handler
+- Propósito: Handler de registro de dispositivos IoT
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
 
-#### 4.2.2.3 Application Layer
-- Nombre: RegisterPlant.handler
-- Categorìa: Handler
-- Propòsito: Handler para registrar una planta
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| RegisterPlant.handler | void         | public      | Constructor             |
-	| execute  | void         | public      | Permite registrar una planta |	
-- Nombre: RegisterPlant.command
-- Categorìa: Command
-- Propòsito: Command para registrar una planta
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| RegisterPlant.command | void         | public      | Constructor          	|
-- Nombre: SearchPlant.handler
-- Categorìa: Handler
-- Propòsito: Handler para buscar una planta
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| SearchPlant.handler | void         | public      | Constructor             |
-	| execute  | void         | public      | Permite buscar una planta |	
-- Nombre: SearchPlant.command
-- Categorìa: Command
-- Propòsito: Command para registrar una planta
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| SearchPlant.command | void         | public      | Constructor          	|
-- Nombre: IdentifyPlant.handler
-- Categorìa: Handler
-- Propòsito: Handler para identificar una planta
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| IdentifyPlant.handler | void         | public      | Constructor             |
-	| execute  | void         | public      | Permite identificar una planta |	
-- Nombre: IdentifyPlant.command
-- Categorìa: Command
-- Propòsito: Command para identificar una planta
-- Mètodos: 
-	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
-	|----------|--------------|-------------|-----------------------------------|
-	| IdentifyPlant.command | void         | public      | Constructor          	|
+- Nombre: DeleteIoTDeviceCOmmandHandler
+- Categoría: Command Handler
+- Propósito: Handler para la eliminación de un dispositivo IoT
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoTDevice>|public|Método de ejecución del comand
+- Nombre: AssignCroptoaIoTDeviceCommandHandler
+- Categoría: Command Handler
+- Propósito:
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+
+- Nombre: ActivateMonitoringCropCommandHandler
+- Categoría: Command Handler
+- Propósito: Handler para la activación de monitoreo de cultivo
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoT>|public|Método de ejecución del comand
+- Nombre: IoTDeviceRegisteredEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar registro de dispositivos IoT
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+
+- Nombre: IoTDeviceDeletedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar la eliminación de un dispositivo IoT
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoTDevice>|public|Método de ejecución del comand
+- Nombre: CroptoaIoTDeviceAssignedEventHandler
+- Categoría: Command Handler
+- Propósito: Gestionar la asignación de un dispositivo IoT a un cultivo
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoTDevice>|public|Método de ejecución del comando|
+
+- Nombre: MonitoringCropActivatedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar para la activación de monitoreo de cultivo
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<IoT>|public|Método de ejecución del comando|
 			
-			
-#### 4.2.2.4 Infrastructure Layer
-- Nombre: PlantRepository
+#### 4.2.3.4 Infrastructure Layer
+- Nombre: SuscriptionRepository
 - Categoría: Repository
-- Propósito: Persistir las plantas
+- Propósito: Persistir las suscripciones
 - Métodos: 
 	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 	|--------------|--------------|-------------|-----------------------------------------------|
-	| PlantRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
-	| add  | void       | public      | Crear una planta      |
-	| updatePlant     | void       | public      |Permite actualizar los datos de una planta|
-	|deletePlant|void|public|Permite eliminar una planta|
-	| ListPlants|array|public|Devuelve una lista de todas las plantas|
-	|FindByName|promise<PlantResource>|public|Devuelve una planta por el nombre|
-	|FindById|promise<PlantResource|publicDevuelve una planta por el Id|
+	| SuscriptionRepository       | SuscriptionRepository         | public      | Constructor de la identidad                   |
+	| add  | void       | public      | Crear una suscripción      |
+	| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
+	| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
+	|	deletePlan|void|public|Permite eliminar planes|
+
+- Nombre: PlanRepository
+- Categoría: Repository
+- Propósito: Persistir los planes
+- Métodos: 
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| PlanRepository      | PlanRepository         | public      | Constructor de la identidad                   |
+	| add  | void       | public      | Crear un plan      |
+	| delete | void |public|Eliminar un plan|
 				
-#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. 
-![Diagrama de componentes plantas](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_plant.PNG?raw=true)
+![Diagrama de componentes sUSCRIPTION](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_omponent_iotdevice.PNG?raw=true)
 
-#### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
-
-Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código		
-
-##### 4.2.2.6.1 Bounded Context Domain Layer Class Diagrams
-
+#### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
+Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+##### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama clases PLantas](https://cdn.discordapp.com/attachments/1143666758042013890/1153884913712509080/image.png)
-
-##### 4.2.2.6.2 Bounded Context Database Diagrams
-
+![Diagrama clases](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_iot.PNG?raw=true)
+##### 4.2.1.6.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
-
-![Diagrama base datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_plant.PNG?raw=true)
-
-#### 5.2.1 Domain Layer.
-
-#### 5.2.2 Interface Layer.
-
-#### 5.2.3 Application Layer.
-
-#### 5.2.4 Infrastructure Layer.
-
-#### 5.2.5.Bounded Context Software Architecture Component Level Diagrams.
-
-#### 5.2.6 Bounded Context Software Architecture Code Level Diagrams.
-
-##### 5.2.6.1  Bounded Context Domain Layer Class Diagrams.
-
-##### 5.2.6.2  Bounded Context Database Design Diagram.
-
-### 5.3. Bounded Context: "Project".
-
-#### 5.3.1 Domain Layer.
-
-#### 5.3.2 Interface Layer.
-
-#### 5.3.3 Application Layer.
-
-#### 5.3.4 Infrastructure Layer.
-
-#### 5.3.5.Bounded Context Software Architecture Component Level Diagrams.
-
-#### 5.3.6 Bounded Context Software Architecture Code Level Diagrams.
-
-##### 5.3.6.1  Bounded Context Domain Layer Class Diagrams.
-
-##### 5.3.6.2  Bounded Context Database Design Diagram.
-
-### 5.4. Bounded Context: "Crop Management".
-
-#### 5.4.1 Domain Layer.
-
-#### 5.4.2 Interface Layer.
-
-#### 5.4.3 Application Layer.
-
-#### 5.4.4 Infrastructure Layer.
-
-#### 5.4.5.Bounded Context Software Architecture Component Level Diagrams.
-
-#### 5.4.6 Bounded Context Software Architecture Code Level Diagrams.
-
-##### 5.4.6.1  Bounded Context Domain Layer Class Diagrams.
-
-##### 5.4.6.2  Bounded Context Database Design Diagram.
-
-### 5.5. Bounded Context: "Knowledge Management".
-
-#### 5.5.1 Domain Layer.
-
-#### 5.5.2 Interface Layer.
-
-#### 5.5.3 Application Layer.
-
-#### 5.5.4 Infrastructure Layer.
-
-#### 5.5.5.Bounded Context Software Architecture Component Level Diagrams.
-
-#### 5.5.6 Bounded Context Software Architecture Code Level Diagrams.
-
-##### 5.5.6.1  Bounded Context Domain Layer Class Diagrams.
-
-##### 5.5.6.2  Bounded Context Database Design Diagram.
-
-### 5.6. Bounded Context: "Notification".
-
-#### 5.6.1 Domain Layer.
-
-#### 5.6.2 Interface Layer.
-
-#### 5.6.3 Application Layer.
-
-#### 5.6.4 Infrastructure Layer.
-
-#### 5.6.5.Bounded Context Software Architecture Component Level Diagrams.
-
-#### 5.6.6 Bounded Context Software Architecture Code Level Diagrams.
-
-##### 5.6.6.1  Bounded Context Domain Layer Class Diagrams.
-
-##### 5.6.6.2  Bounded Context Database Design Diagram.
-
-### 5.7. Bounded Context: "Subscription and Payments".
-
-#### 5.7.1 Domain Layer.
-
-#### 5.7.2 Interface Layer.
-
-#### 5.7.3 Application Layer.
-
-#### 5.7.4 Infrastructure Layer.
-
-#### 5.7.5.Bounded Context Software Architecture Component Level Diagrams.
-
-#### 5.7.6 Bounded Context Software Architecture Code Level Diagrams.
-
-##### 5.7.6.1  Bounded Context Domain Layer Class Diagrams.
-
-##### 5.7.6.2  Bounded Context Database Design Diagram.
+![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
 
 # Capítulo VI: Solution UX Design
 
@@ -1281,11 +1172,11 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDcwMzMwMSwxMzMxMTYzMTEwLC05Mz
-kwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0
-OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNz
-g2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgy
-LDEyODQ2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExOD
-g4NDc3NjksLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIx
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDYxODY5ODYsMTMzMTE2MzExMCwtOT
+M5MDIyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0
+NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LD
+c4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4
+MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMT
+g4ODQ3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUy
+MTA1XX0=
 -->
