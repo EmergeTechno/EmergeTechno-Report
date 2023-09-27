@@ -361,35 +361,39 @@ Nuestro producto debería tener un diseño moderno y simplista, debe presentar u
 ### 1.3. Segmentos objetivo.
 
 En nuestro proyecto se hacen presente dos segmentos objetivos:
-es:** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
+es:
+1. **Farmer** Este es nuestro segmento objetivo principal, compuesto por individuos que desean gestionar y mejorar sus cultivos, recibiendo recomendaciones y orientación a través de nuestra aplicación. En su mayoría, estos agricultores tendrán edades comprendidas entre los 20 y 55 años.
     
 2.  **pecialists:** Este segmento está compuesto por personas dispuestas a ofrecer asesoramiento y servicios a los agricultores para ayudarles en sus actividades agrícolas. Estos asesores pueden incluir expertos en agricultura, técnicos agrícolas, o cualquier persona con conocimientos relevantes. Su papel es brindar consejos y apoyo a los agricultores que lo necesiten.
+   
 ## Capítulo II: Requirements 
 ### 2.1. Competidores.
 
 - 2.1.1. Análisis competitivo.
 
+ Desarrollaremos el Competitive Analysis Landscape:
+
  **¿Cómo podemos ofrecer un mejor servicio en nuestro producto frente a nuestros competidores? ¿Qué debemos mejorar?**
-- El propósito de realizar este análisis competitivo es obtener una comprensión más completa de nuestros competidores. Queremos identificar en qué áreas superan nuestras capacidades, qué características o mejoras han incorporado o están desarrollando que aún no tenemos, y determinar cómo podemos mejorar nuestra posición en el mercado en función de esta información.
+ - El objetivo de llevar a cabo este análisis competitivo es para conocer mejor a nuestros competidores, en que aspectos son mejores que nosotros, que funcionalidades o mejoras han implementado o implementan que nosotros no y saber en qué podemos mejorar
 
 **Perfil de la StartUp**
 
-| Startup | CropMaster| Agri | Farmlogs | Strider |
+| Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Origen | Lima, Lima, Perú | Santiago de Chile | San Francisco, California, EEUU | Aventura, Florida, EEUU |
-| Descripcion General | CropMaster  es  una _Startup_ que desarrolla los mecanismos necesarios para brindar el servicio de gestión y guía de procesos agrícolas. Su servicio principal es utilizar potentes algoritmos de optimización enfocados en los tiempos de respuesta y la geolocalización, para informar acerca de los estados de vegetación de los terrenos agrícolas. Asimismo, de brindar guía de como cultivar correctamente una planta para mejorar la producción de este. | rr una Startup chilena con presencia en Perú y Ecuador que se dedica a proporcionar software de reportes para el sector agrícola, enfocado más en las finanzas de una empresa. Sin embargo, también proporciona compras, bodegaje, tesorería y control de cosecha. | FarmLogs, es una Startup Estadounidense de tecnología de la información y gestión agrícola, que proporciona servicios basados las pérdidas y ganancias, gestión de operación con informes sobre actividades y notificaciones por correo. | Strider es una Startup estadounidense de tecnología de la información y sistemas agrícolas, que proporciona servicios basados en el monitoreo de plagas y detección de áreas críticas con imágenes espaciales. Además, de un seguimiento de máquinas. |
-| Ventaja competitiva ¿Qué valor ofrece a los clientes? | CropMaster ofrece a sus usuarios una solución integral en el acompañamiento y gestión agrícola. Contando con herramientas que ayudan al agricultor como buscador de terreno, control de riego, cultivo, poda y pronostico del tiempo. |  ofrece a sus usuarios simplificar la gestión financiera agrícolas de sus usuarios. Asimismo, Agri cuenta con 5 años de experiencia en el desarrollo y mejora de este software. | FarmLogs, ofrece a sus usuarios tecnología inteligente un sistema único de gestión de agrícola. Asimismo, FarmLogs cuenta con más de 10 años de experiencia en el desarrollo y mejora en el software. | Strider, ofrece a sus usuarios soluciones integrales de agricultura adaptadas a cualquier tipo de entorno y organización. Asimismo, Strider cuenta con más de 5 años de experiencia en el desarrollo de sistemas integrales de monitoreo de alarmas. Lo que agrega gran valor a las  caaes de su producto. |
+| Descripcion General | Agri Pure  es  una _Startup_ que desarrolla los mecanismos necesarios para brindar el servicio de gestión y guía de procesos agrícolas. Su servicio principal es utilizar potentes algoritmos de optimización enfocados en los tiempos de respuesta y la geolocalización, para informar acerca de los estados de vegetación de los terrenos agrícolas. Asimismo, de brindar guía de como cultivar correctamente una planta para mejorar la producción de este. | Agri, es una Startup chilena con presencia en Perú y Ecuador que se dedica a proporcionar software de reportes para el sector agrícola, enfocado más en las finanzas de una empresa. Sin embargo, también proporciona compras, bodegaje, tesorería y control de cosecha. | FarmLogs, es una Startup Estadounidense de tecnología de la información y gestión agrícola, que proporciona servicios basados las pérdidas y ganancias, gestión de operación con informes sobre actividades y notificaciones por correo. | Strider es una Startup estadounidense de tecnología de la información y sistemas agrícolas, que proporciona servicios basados en el monitoreo de plagas y detección de áreas críticas con imágenes espaciales. Además, de un seguimiento de máquinas. |
+| Ventaja competitiva ¿Qué valor ofrece a los clientes? | AgriPure ofrece a sus usuarios una solución integral en el acompañamiento y gestión agrícola. Contando con herramientas que ayudan al agricultor como buscador de terreno, control de riego, cultivo, poda y pronostico del tiempo. | Agri ofrece a sus usuarios simplificar la gestión financiera agrícolas de sus usuarios. Asimismo, Agri cuenta con 5 años de experiencia en el desarrollo y mejora de este software. | FarmLogs, ofrece a sus usuarios tecnología inteligente un sistema único de gestión de agrícola. Asimismo, FarmLogs cuenta con más de 10 años de experiencia en el desarrollo y mejora en el software. | Strider, ofrece a sus usuarios soluciones integrales de agricultura adaptadas a cualquier tipo de entorno y organización. Asimismo, Strider cuenta con más de 5 años de experiencia en el desarrollo de sistemas integrales de monitoreo de alarmas. Lo que agrega gran valor a las funcionalidades de su producto. |
 
 **Perfil de Marketing**
 
-| Startup | | Agri | Farmlogs | Strider |
+| Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Mercado Objetivo | Dirigido a cualquier persona que se dedican o quieran dedicarse a la agricultura. | Dirigido a las empresas agrícolas y enfocado para dueños de micro y pequeñas empresas agrícolas | Dirigido a las empresas agrícolas | Dirigido a las empresas agrícolas |
 | Estrategias de Marketing | - Social Ads - Email marketing - Marketing de redes sociales - Marketing de contenidos | - Estrategia de up-selling - Marketing de contenidos - Email marketing - Marketing de redes sociales - SEO | - Storytelling - Marketing de contenidos - Email marketing - SEM | - Marketing de contenidos - Marketing de redes sociales - Social Ads |
 
 **Perfil del Producto**
 
-| Startup | rr| Agri | Farmlogs | Strider |
+| Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Caracteristicas y servicios | - **Búsqueda de terreno**, permite a los usuarios elegir el tipo de planta que desea sembrar, y a partir de ello, dar información de que tipo de tierra se tiene que sembrar, nivel de acidez adecuada (ph), distancia de siembra entre planta y planta, profundidad adecuada. - **Fertilización**, permite a los usuarios tener acceso a recomendación de que y cuanto fertilizante se debe utilizar en las plantas. - **Clima**, permite ver el clima y cuál es la probabilidad de que haya lluvias. De esta manera, no desperdiciar fertilizante en vano. **- Control de cultivo,** ayuda a los agricultores a agendar sus riegos, podas y limpieza de maleza. | - **Control de faenas**, permite a los usuarios llevar el detalle de las faenas. - **Ordenes de aplicación**, permite a los usuarios controlar los costos de sus campos. - **Premium**, los usuarios pueden tener más de 300 hectáreas. - **Cuaderno de campo y notas**, los usuarios pueden planificar su presupuesto y llevar un control detallado para disminuir costos. | -  Historial de lluvias y calor -  Pérdidas y ganancias - Gestor de operaciones con informes sobre actividades - Notificaciones por correo electrónico. | - Strider Protect, permite el control y protección de plagas. - Strider Base, ayuda en la monitorización durante todo el año. - Strider Space, sirve para la detección de áreas críticas con imágenes espaciales. - Strider Tracker, realiza el seguimiento de maquinaria. |
 | Precios y costos | Precio personalizado para cada plan | Precio personalizado para cada servicio | Precio personalizado para cada servicio | Precio personalizado para cada servicio |
@@ -397,7 +401,7 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 **Analisis SWOT**
 
-| Startup | CropMaster |  | Farmlogs | Strider |
+| Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Fortalezas | - Tiene un costo en el mercado mucho más accesible que el de sus competidores - Producto único diferenciador - Interfaz amigable y ágil | - Domina el mercado chileno de apps enfocados a la agricultura. - Cuenta con alto nivel de investigación y desarrollo | - Cuenta con grandes logros y avances en la tecnología hacia la agricultura. - Tiene un costo en el mercado de software accesible | - Domina el mercado estadounidense de apps enfocados a la agricultura. - Tiene un costo en el mercado de software accesible |
 | Debilidades | - Poco tiempo en el mercado - Poco tiempo en el desarrollo, mantenimiento y mejora de tecnologías en la agricultura | Su uso se centraliza generalmente en usuarios chilenos | - Poco desarrollo en sus modelos de marketing - Su uso se centraliza en usuarios estadounidenses y noruegos | - Pocas actualizaciones en la interfaz de usuario - Poca expansión hacia otros países |
@@ -406,28 +410,17 @@ es:** Este es nuestro segmento objetivo principal, compuesto por individuos que 
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
-**Liderazgo en costos:**
+- Liderazgo en costes:
+	Contamos con la capacidad de producir y ofrecer nuestro producto de forma totalmente gratuita, sin añadir ninguna limitación a sus características principales. Igualmente, en lo que respecta a las suscripciones de pago, estamos en posición de ofrecer precios que son considerablemente más bajos que los de nuestros competidores, con la clara intención de hacer de nuestra aplicación una opción sumamente atractiva para los usuarios. Nuestra principal meta es satisfacer las necesidades de aquellos clientes que basan su elección en el factor precio.
 
--   Ofrecer el producto de forma totalmente gratuita sin limitaciones en sus características principales.
--   Ofrecer suscripciones de pago a precios significativamente más bajos que los de los competidores.
--   Orientación a satisfacer las necesidades de clientes que valoran el factor precio.
+	- Estrategia de diferenciación:
+		Reconocemos que, para destacar de forma sobresaliente entre nuestros competidores, es imperativo que introduzcamos funcionalidades que no se encuentren disponibles en otras aplicaciones o que mejoremos sustancialmente las ya existentes. Una de las características más destacadas en nuestra aplicación que nos diferencia es nuestra completa guía de siembra, adaptada según el tipo de árbol frutal o vegetal que se esté cultivando. De esta manera, garantizamos que la calidad y producción sean óptimas. Además, proporcionamos una exhaustiva recopilación de información que permitirá a nuestros usuarios tomar decisiones informadas sobre cómo cultivar de manera adecuada sus plantas.
 
-**Estrategia de diferenciación:**
+	- Estrategia de enfoque:
+		Somos plenamente conscientes de que el auge de la tecnología y el aumento en el uso de computadoras y smartphones han dado lugar a una creciente demanda de servicios de gestión y asesoramiento agrícola. Por lo tanto, nos dirigimos exclusivamente a todas aquellas personas involucradas o interesadas en la agricultura que requieran un software que los asista en el cultivo adecuado de árboles frutales y vegetales.
 
--   Introducción de funcionalidades exclusivas que no se encuentran en otras aplicaciones.
--   Mejora sustancial de las características ya existentes, con un enfoque en la guía de siembra adaptada a diferentes tipos de cultivos.
--   Proporcionar una amplia base de datos de información para permitir a los usuarios tomar decisiones informadas sobre sus cultivos.
-
-**Estrategia de enfoque:**
-
--   Dirigirse exclusivamente a personas involucradas o interesadas en la agricultura que requieran asistencia en la gestión y asesoramiento agrícola.
--   Atender las necesidades específicas de este nicho de mercado interesado en el cultivo de árboles frutales y vegetales.
-
-**Táctica de expansión:**
-
--   Evitar saturar la aplicación con anuncios excesivos.
--   Enfocarse en obtener valoraciones positivas de los usuarios.
--   Realizar una promoción efectiva de la aplicación para aumentar su visibilidad y alcance.Cis
+	- Táctica de expansión:
+		A pesar de que nuestra aplicación opera de manera gratuita, no planeamos saturarla con anuncios en cada acción que realicen los usuarios. Nuestra estrategia de expansión se fundamenta en la obtención de valoraciones positivas por parte de los usuarios y en la promoción efectiva de la aplicación.
 ### 2.1. Entrevistas.
  - 2.2.1. Diseño de entrevistas.
 
@@ -552,6 +545,7 @@ https://i.ibb.co/gg80g0B/person2.jpg
    ![Diagrama-en-blanco.jpg (1045×754) (ibb.co)](https://i.ibb.co/g9BVCtN/Diagrama-en-blanco.jpg)
    - Segmento 2: Especialistas
 ![Diagrama-en-blanco-1.jpg (1105×783) (ibb.co)](https://i.ibb.co/cyf5kNP/Diagrama-en-blanco-1.jpg)
+
 # Capítulo III: Requirements Specification
 
 ### 3.1 To-Be Scenario Mapping
