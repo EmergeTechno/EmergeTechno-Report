@@ -1811,7 +1811,8 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ![37.png (1043×740) (postimg.cc)](https://i.postimg.cc/7ZHYd1Sh/37.png)
 ![38.png (1071×763) (postimg.cc)](https://i.postimg.cc/8PD1fdK4/38.png)![39.png (983×710) (postimg.cc)](https://i.postimg.cc/GtjnxN7Q/39.png)
 ![40.png (1061×742) (postimg.cc)](https://i.postimg.cc/g2jb3gvV/40.png)
-
+![41.png (837×731) (postimg.cc)](https://i.postimg.cc/1XBbqFX7/41.png)
+![42.png (987×707) (postimg.cc)](https://i.postimg.cc/yxLrdzpw/42.png)
  ### 6.4.4. Applications User Flow Diagrams
   
    Es un tipo de diagrama utilizado en el diseño de aplicaciones y sitios web para visualizar cómo los usuarios interactúan con la interfaz y las funcionalidades de una aplicación. Estos diagramas representaran el camino que un usuario típico sigue mientras utiliza la aplicación, desde el inicio hasta la finalización de una tarea o proceso.
@@ -1852,7 +1853,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU2MjA2NTAsLTExMTY1MDU2OTEsLT
+eyJoaXN0b3J5IjpbLTIwMzU2NTc1NDgsLTExMTY1MDU2OTEsLT
 QwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3
 MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEsMTUyMj
 M5NTA3NiwtNDQzOTQ1NjQyLC02NjA3NjkxNDQsLTE5MTYzOTcx
