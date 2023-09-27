@@ -1793,6 +1793,10 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ![24.png (741×671) (ibb.co)](https://i.ibb.co/Wf8n8Zf/24.png)
 ![25.png (690×735) (ibb.co)](https://i.ibb.co/r2yV7yY/25.png)
 
+![26.png (696×647) (ibb.co)](https://i.ibb.co/F3LJ8Nc/26.png)
+
+![27.png (705×696) (ibb.co)](https://i.ibb.co/TT0S9gm/27.png)
+
 
  ### 6.4.4. Applications User Flow Diagrams
   
@@ -1834,7 +1838,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODQ5MTc4Myw1Njc5MzcyLDE2MDczMT
+eyJoaXN0b3J5IjpbLTc4NTE1NTkwMiw1Njc5MzcyLDE2MDczMT
 QxMjMsMTQxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0Miwt
 NjYwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNj
 M3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3
