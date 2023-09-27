@@ -1782,6 +1782,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ####  Mobile Application Wireframes
 
 ###  6.4.2. Applications Wireflow Diagrams
+
  ### 6.4.3. Applications Mock-ups.
  #### Web Application Mockups
  ![18.png (463×671) (ibb.co)](https://i.ibb.co/cFdVTh8/18.png)
@@ -1853,11 +1854,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtND
-A3NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTcz
-NTcsNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4Mzc4MSwxNTIyMz
-k1MDc2LC00NDM5NDU2NDIsLTY2MDc2OTE0NCwtMTkxNjM5NzEy
-MCwtMjAzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLT
-kzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3
-NDQ5XX0=
+eyJoaXN0b3J5IjpbNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMT
+Y1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5
+MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4OD
+M3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1NjQyLC02NjA3NjkxNDQs
+LTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2MzczNzUzNywxMz
+MxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkx
+NTNdfQ==
 -->
