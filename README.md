@@ -1270,7 +1270,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 ![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
 
 ## **5.5. Bounded Context: Crop Management**
-### **4.2.4.1. Crop.** 
+### 5.5.1 Domain Layer.** 
 - Nombre: Crop
 - Categoria: Entity
 - Propósito: Almacenar los datos de los cultivos
@@ -1303,7 +1303,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 
-## **4.2.4.2 Interface layer**
+### 5.5.2 Interface layer**
 - Nombre: Crop.controller
 - Categorìa: Controller
 - Propòsito: Controlar registro de cultivos
@@ -1316,7 +1316,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| GetCropsByUserId|Promise|public|Permite obtener una lista de los cultivos de un usuario|
 	| DeleteCrop | Promise      | public      | Permite eliminar un cultivo  |
 			
-## **4.2.4.3 Application Layer**
+### 5.5.3  Application Layer**
 - Nombre: RegisterCrop.handler
 - Categorìa: Handler
 - Propòsito: Handler para registrar un cultivo
@@ -1377,7 +1377,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| DeleteCrop.command | void         | public      | Constructor      |
 
 			
-#### 4.2.4.4 Infrastructure Layer
+### 5.5.4  Infrastructure Layer
 - Nombre: CropRepository
 - Categoría: Repository
 - Propósito: Persistir los cultivos
@@ -1401,19 +1401,19 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| FinById  | IoTResource       | public      | Devuelve un IoT device |
 	| delete | void |public|Eliminar un dispositivo|
 				
-#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+### 5.5.5 . Bounded Context Software Architecture Component Level Diagrams
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes Crop](https://cdn.discordapp.com/attachments/1149587894416183327/1153891010666053642/image.png)
-#### 4.2.4.6 Bounded Context Software Architecture Code Level Diagrams
+### 5.5.6 Bounded Context Software Architecture Code Level Diagrams
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
-##### 4.2.4.6.1 Bounded Context Domain Layer Class Diagrams
+#### 5.5.6.1  Bounded Context Domain Layer Class Diagrams
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
-##### 4.2.4.6.2 Bounded Context Database Diagrams
+#### 5.5.6.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
 ![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
 
-### **4.2.4. Bounded Context: Advisory Management**
-#### **4.2.4.1. Domain Layer.** 
+## **5.6. Bounded Context: Advisory Management**
+### **4.2.4.1. Domain Layer.** 
 - Nombre: Project
 - Categoria: Entity
 - Propósito: Almacenar los datos de los proyectos
@@ -1816,11 +1816,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NTI0ODQ5LC0xOTE2Mzk3MTIwLC0yMD
-M1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIy
-MDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLT
-c3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3
-MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4MiwxMj
-g0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMTg4ODQ3
-NzY5XX0=
+eyJoaXN0b3J5IjpbLTE3NjIxNTk0NjQsLTE5MTYzOTcxMjAsLT
+IwMzU5NDM2MzMsMTE2MzczNzUzNywxMzMxMTYzMTEwLC05Mzkw
+MjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0OS
+wtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNzg2
+MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgyLD
+EyODQ2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExODg4
+NDc3NjldfQ==
 -->
