@@ -745,8 +745,145 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Diagrama de base de datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
 
-### 5.2. Bounded Context: "Specialist Contact".
+## **5.2. Bounded Context: Suscriptions and Payments**
+## **5.2.1 Domain Layer.** 
+- Nombre: Suscription
+- Categoria: Entity
+- Propósito: Almacenar datos de las suscripciones de los usuarios
+- Atributos
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	| id        | int          | private     | Id de identidad                              |
+	|planType|PlanType|private|Tipo de plan|
+	|profileId|int|private|Id del perfil|
+	|payDate|Datetime|private|Fecha del siguiente pago|
+	|status|string|private|Estado de la suscripción|
+	|cost|float|private|Costo de la suscripción
+	
+- Métodos:
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| getPayDate  |Datetime      | public      | Obtiene la fecha de pago      |
+	| getPlanType     | string       | public      | Obtiene el tipo de plan                    |
+	| updatePlan|string|public|Actualiza el tipo de plan
 
+- Nombre: PlanType
+- Categorìa: Enum
+- Propòsito: Proveer los tipos de plan
+- Atributos: 
+	| Nombre       | Tipo de dato | Visibilidad |
+	|--------------|--------------|-------------|
+	| MONTHLY       | string       | public      |
+	| YEAR   | string       | public     
+- Nombre: Order
+- Categoría: Entity
+- Propósito: Almancear información de las órdenes de pago
+- Atributos:
+	|Nombre|Tipo de dato|Visibilidad|Descripción|
+	|------|------------|-----------|-----------|
+	|id|int|private|Id de la identidad|
+	|amount|float|private|Monto a pagar|
+	|status|OrderStatus|private|Estado del pago|
+	|profileId|int|private|Id del perfi
+- Nombre: OrderStatus
+- Categorìa: Enum
+- Propòsito: Proveer los estados de una orden de pago
+- Atributos: 
+	| Nombre       | Tipo de dato | Visibilidad |
+	|--------------|--------------|-------------|
+	| CANCELED       | string       | public      |
+	| IN_WAIT   | string       | public      |
+## **5.2.2 Interface layer**
+- Nombre: Suscription.controller
+- Categorìa: Controller
+- Propòsito: Controlar registro de suscripciones
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Register   | Promise      | public      | Registra una suscripciones nueva              |
+	| ModifySuscription| Promise      | public      | Permite modificar los datos de una suscripción |
+	| DeleteSuscription | Promise      | public      | Permite eliminar una suscripción    |
+## **5.2.3 Application Layer**
+- Nombre: AssignProfileCommandHandler
+- Categoría: COmmandHandler
+- Propósito: Handler para la asignación de una suscripción
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Suscription>|public|Método de ejecución del comando|
+
+- Nombre: UpdateSuscriptionCOmmandHandler
+- Categoría: Command Handler
+- Propósito: Handler para la actualización de una suscripción
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Suscription>|public|Método de ejecución del comando|
+
+- Nombre: SuscriptionAssignedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar la asignación de una suscripción
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Suscription>|public|Método de ejecución del event
+- Nombre: SuscriptionUpdatedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar la actualización de una suscripción
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Suscription>|public|Método de ejecución del comand
+- Nombre: CreatePayOrderCommandHandler
+- Categoría: Command Handler
+- Propósito: Handler para la creación de una orden de pago
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Order>|public|Método de ejecución del comand
+- Nombre: PayOrderCOmmandHandler
+- Categoría: Command Handler
+- Propósito: Handler para el pago de órdenes
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Order>|public|Método de ejecución del comand
+- Nombre: PayOrderCreatedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionarla creación de una orden de pago
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Order>|public|Método de ejecución del event
+- Nombre: OrderPayedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar el p
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Order>|public|Método de ejecución del evento|
+			
+## **5.2. Infrastructure Layer**
+- Nombre: SuscriptionRepository
+- Categorìa: Repository
+- Propòsito: Obtener datos de las suscripciones
+- Mètodos: 
+	| Nombre  | Tipo de dato       | Visibilidad | Descripción                                   |
+	|---------|--------------------|-------------|-----------------------------------------------|
+	| getById | getSuscriptionResource    | public      | Devuelve una suscripción por su Id   |
+	|getByProfileId|getSuscriptionResource|public|Devuelve una suscripción el id del perfil
+	| getAll  | array              | public      | Devuelve todas las suscriciones      |
+	| create  | createSuscriptionResource | public      | Crea ususcripción                          |
+	| update  | updateSuscriptionResource | public      | Actualiza una suscripción |
+	| delete  | void               | public      | Elimina una suscripción                          |
+## **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_suscription.PNG?raw=true)
+## **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+
+Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código		
+
+## **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+
+Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+![Diagrama clases User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_suscription.PNG?raw=true)
+
+## **4.2.1.6.2 Bounded Context Database Diagrams**
+
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
+![Database diagram](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_suscription.PNG?raw=true)
 #### 5.2.1 Domain Layer.
 
 #### 5.2.2 Interface Layer.
@@ -884,7 +1021,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDE1NzI2NCwxMzMxMTYzMTEwLC05Mz
+eyJoaXN0b3J5IjpbMTAwMDA5NTc1MSwxMzMxMTYzMTEwLC05Mz
 kwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0
 OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNz
 g2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgy
