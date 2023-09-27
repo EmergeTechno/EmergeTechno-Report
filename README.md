@@ -1781,7 +1781,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
   | User Goal | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta  |
   |-----------|-----------|
   | Task Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582495438417970/image.png) |
-  | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582576136835283/image.png) |
+  | User Flow | ![9.png (952×418) (ibb.co)](https://i.ibb.co/4J8xky5/9.png) |
 
   | User Goal | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que esta me funcione correctamente  |
   |-----------|-----------|
@@ -1809,11 +1809,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUwNzUyMzcsLTQ0Mzk0NTY0MiwtNj
-YwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3
-Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3Nz
-UsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUz
-MzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OC
-wxODA0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2
-OTkwNzZdfQ==
+eyJoaXN0b3J5IjpbLTU2MTg2NTg2NSwtNDQzOTQ1NjQyLC02Nj
+A3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2Mzcz
+NzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0NDc3NS
+wzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMz
+MjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LD
+E4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5
+OTA3Nl19
 -->
