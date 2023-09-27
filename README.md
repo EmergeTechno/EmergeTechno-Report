@@ -667,7 +667,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
 	| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
 	| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
-#### 4.2.1.3 Application Layer
+#### 5.1.3 Application Layer
 - Nombre: CreateUser.handler
 - Categorìa: Handler
 - Propòsito: Handler para registrar un usuario
@@ -715,7 +715,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	|----------|--------------|-------------|-----------------------------------|
 	| DeleteUser.command | void         | public      | Constructor          	|
 			
-## **4.2.1.4 Infrastructure Layer**
+## **5.1.4 Infrastructure Layer**
 - Nombre: UserRepository
 - Categorìa: Repository
 - Propòsito: Obtener datos del usuario
@@ -884,7 +884,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc3NTAxMjQsMTMzMTE2MzExMCwtOT
+eyJoaXN0b3J5IjpbLTIwNjc4MDUxOTYsMTMzMTE2MzExMCwtOT
 M5MDIyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0
 NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LD
 c4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4
