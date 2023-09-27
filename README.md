@@ -1720,13 +1720,9 @@ Desktop:
 	
 En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 	
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679584906395738/image.png?width=688&height=669)
+![6.png (572×757) (ibb.co)](https://i.ibb.co/h9CzmdK/6.png)
 
-		
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679669224472576/image.png?width=898&height=635)
-
-
-![texto](https://media.discordapp.net/attachments/912089666939916348/1155679748769456208/image.png?width=901&height=466)
+![7.png (625×556) (ibb.co)](https://i.ibb.co/vk64LN0/7.png)
 
   ###- 6.3.2. Landing Page Mock-up.
 ##  
@@ -1813,7 +1809,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ0Mzc1MjksLTQ0Mzk0NTY0MiwtNj
+eyJoaXN0b3J5IjpbLTEyOTE1MzAwMjEsLTQ0Mzk0NTY0MiwtNj
 YwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3
 Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3Nz
 UsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUz
