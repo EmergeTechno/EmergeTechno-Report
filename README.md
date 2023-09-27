@@ -782,8 +782,10 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 ### 6.4. Applications UX/UI Design
 #### 6.4.1 Applications Wireframes
 #### 6.4.2 Applications Wireflow Diagrams
-#### 6.4.3 SEO Tags and Meta Tags
-#### 6.4.4 Navigation Systems
+#### 6.4.3 Applications Mock-ups
+#### 6.4.4 Applications User Flow Diagrams
+
+### 6.5. Applications Prototyping
 
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/ESSmpjDNBRlDtJYBF3z4dboBsd2J3a1q4ZJZwQ8N5skeLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hIqkK2) | 
@@ -792,7 +794,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDc2MzQ2MSwtOTM5MDIyMDUzLDE4ND
+eyJoaXN0b3J5IjpbMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4ND
 MxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4
 NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNz
 MyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAz
