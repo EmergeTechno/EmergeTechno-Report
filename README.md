@@ -1791,6 +1791,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ![22.png (1076×773) (ibb.co)](https://i.ibb.co/j6HTRmB/22.png)
 ![23.png (990×712) (ibb.co)](https://i.ibb.co/s3zrkgG/23.png)
 ![23-5.png (640×481) (ibb.co)](https://i.ibb.co/F5Fb6mV/23-5.png)
+![29.png (1147×748) (postimg.cc)](https://i.postimg.cc/T3Gtn1gn/29.png)
 ![24.png (741×671) (ibb.co)](https://i.ibb.co/Wf8n8Zf/24.png)
 ![25.png (690×735) (ibb.co)](https://i.ibb.co/r2yV7yY/25.png)
 
@@ -1841,11 +1842,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4ODM4OTMzLDYwODQ1NzM1Nyw1Njc5Mz
-cyLDE2MDczMTQxMjMsMTQxODgzNzgxLDE1MjIzOTUwNzYsLTQ0
-Mzk0NTY0MiwtNjYwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OT
-QzNjMzLDExNjM3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUz
-LDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3Nj
-I4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkx
-N119
+eyJoaXN0b3J5IjpbLTEyMDcyMjE2NTgsODA4ODM4OTMzLDYwOD
+Q1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgzNzgxLDE1
+MjIzOTUwNzYsLTQ0Mzk0NTY0MiwtNjYwNzY5MTQ0LC0xOTE2Mz
+k3MTIwLC0yMDM1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2MzEx
+MCwtOTM5MDIyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMj
+cyMTc0NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2
+ODI0XX0=
 -->
