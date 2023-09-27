@@ -651,7 +651,9 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 #### 5.1.6 Bounded Context Software Architecture Code Level Diagrams.
 
-#### 5.1.7 Domain Layer.
+##### 5.1.6.1  Bounded Context Domain Layer Class Diagrams.
+
+##### 5.1.6.2  Bounded Context Database Design Diagram.
 
 
 
@@ -662,11 +664,11 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0NDUyMDQ2LDE4NDMxNDQ3NzUsMzQ4NT
-k5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1
-LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OCwxODA0OD
-M0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYs
-MTIwNzc5NjkyMCwxMTg4ODQ3NzY5LC0xODY2ODY2MjI5LDE3Mz
-E1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2NTQ5LDE2OTM3ODE5
-NDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjc0NDU5NzAsMTg0MzE0NDc3NSwzND
+g1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4
+NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LDE4MD
+Q4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5OTA3
+NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4NjY4NjYyMjksMT
+czMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMTY5Mzc4
+MTk0NV19
 -->
