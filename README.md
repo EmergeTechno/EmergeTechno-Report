@@ -1776,7 +1776,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
   | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios.  |
   |-----------|-----------|
   | Task Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582004579012730/image.png) |
-  | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155582152994455696/image.png) |
+  | User Flow | ![8.png (640×278) (ibb.co)](https://i.ibb.co/SQ037Zg/8.png) |
 
   | User Goal | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta  |
   |-----------|-----------|
@@ -1809,7 +1809,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE1MzAwMjEsLTQ0Mzk0NTY0MiwtNj
+eyJoaXN0b3J5IjpbLTIwOTUwNzUyMzcsLTQ0Mzk0NTY0MiwtNj
 YwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3
 Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3Nz
 UsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUz
