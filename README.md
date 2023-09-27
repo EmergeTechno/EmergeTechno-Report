@@ -884,8 +884,8 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Database diagram](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_suscription.PNG?raw=true)
-## **4.2.2. Bounded Context: Profile Management**
-## **4.2.2.1. Domain Layer.** 
+## **5.3. Bounded Context: Profile Management**
+## **5.3.1. Domain Layer.** 
 - Nombre: Profile
 - Categoria: Entity
 - Propósito: Almacenar datos de los perfiles de usuarios
@@ -926,7 +926,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|update|void|public|Modifica un perfil|
 	|delete|void|public|Elimina un perfil|
 			
-## **4.2.2.2 Interface layer**
+## **5.3.2. Interface layer**
 - Nombre: Profile.controller
 - Categorìa: Controller
 - Propòsito: Controlar registro de perfiles
@@ -939,7 +939,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|Put|Promise|public|Modifica un perfil|
 	|Delete|Promise|Elimina un perfil|
 
-## **4.2.2.3 Application Layer**
+## **5.3.3. Application Layer**
 - Nombre: 
 - Categoría: 
 - Propósito:
@@ -986,7 +986,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|------|---------------|-----------|-----------|
 	|Handler|Promise<Profile>|public|Método de ejecución del evento|
 			
-## **4.2.2.4 Infrastructure layer**
+## **5.3.4. Infrastructure layer**
 - Nombre: ProfileRepository
 - Categoría: Repository
 - Propósito: Persistir los perfiles
@@ -997,15 +997,15 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|update|void|public|Modifica un perfil|
 	|delete|void|public|Elimina un perfil|
 		
-## **4.2.2.5. Bounded Context Software Architecture Component Level Diagrams**
+## **5.3.6. Bounded Context Software Architecture Component Level Diagrams**
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes ](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_profile.PNG?raw=true)
 
-## **4.2.2.6 Bounded Context Software Architecture Code Level Diagrams**
+## **5.3.7. Bounded Context Software Architecture Code Level Diagrams**
 
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
 
-## **4.2.2.6.1 Bounded Context Domain Layer Class Diagrams**
+## **5.3.7.Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama clases PLantas](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_profile.PNG?raw=true)
@@ -1281,11 +1281,11 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4ODc1OTAsMTMzMTE2MzExMCwtOTM5MD
-IyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDks
-LTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4Nj
-E3MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4Miwx
-Mjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMTg4OD
-Q3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1
-XX0=
+eyJoaXN0b3J5IjpbMTA0ODEyNzE1NCwxMzMxMTYzMTEwLC05Mz
+kwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0
+OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNz
+g2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgy
+LDEyODQ2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExOD
+g4NDc3NjksLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIx
+MDVdfQ==
 -->
