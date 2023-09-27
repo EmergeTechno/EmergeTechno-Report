@@ -855,7 +855,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|------|---------------|-----------|-----------|
 	|Handler|Promise<Order>|public|Método de ejecución del evento|
 			
-## **5.2. Infrastructure Layer**
+## **5.2.4 Infrastructure Layer**
 - Nombre: SuscriptionRepository
 - Categorìa: Repository
 - Propòsito: Obtener datos de las suscripciones
@@ -868,22 +868,282 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| create  | createSuscriptionResource | public      | Crea ususcripción                          |
 	| update  | updateSuscriptionResource | public      | Actualiza una suscripción |
 	| delete  | void               | public      | Elimina una suscripción                          |
-## **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+## **5.2.6 . Bounded Context Software Architecture Component Level Diagrams**
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_suscription.PNG?raw=true)
-## **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+## **5.2.7 Bounded Context Software Architecture Code Level Diagrams**
 
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código		
 
-## **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+## **5.2.7.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama clases User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_suscription.PNG?raw=true)
 
-## **4.2.1.6.2 Bounded Context Database Diagrams**
+## **5.2.7.2 Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Database diagram](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_suscription.PNG?raw=true)
+## **4.2.2. Bounded Context: Profile Management**
+## **4.2.2.1. Domain Layer.** 
+- Nombre: Profile
+- Categoria: Entity
+- Propósito: Almacenar datos de los perfiles de usuarios
+- Atributos
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	| id | int       | private     | Id de identidad               |
+	|userId|int|private|Id del usuario|
+	| suscripcionId        | int          | private     | Id del la suscripcion             |
+	| firstName | string       | private     | Almacena el nombre del usuario               |
+	| lastName  | string       | private     | Almacena el apellido del usuario             |
+	| cellphone  | string       | private     | Almacena el número telefónico del usuario        |
+	| rol  | UserRol     | private     | Almacena el tipo de usuario      |
+
+- Nombre: Rol
+- Categorìa: Enum
+- Propòsito: Proveer los tipos de usuario
+- Atributos: 
+	| Nombre       | Tipo de dato | Visibilidad |
+	|--------------|--------------|-------------|
+	| FARMER       | string       | public      |
+	| SPECIALIST   | string       | public      |
+	| ADM          | string       | public      |
+
+- Métodos:
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	| constructor | Profile       | public     | Constructor de la clase              |
+	|getFullname|string|public|devuelve el nombre completo del perfil|
+	|setSuscription|void|public|Permite editar la suscripción del usuari
+- Nombre: IProfileRepository
+- Categoría: Repository
+- Propósito: Persistir los perfiles
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	|getByUserId|ProfileResource|public|Devuelve el perfil según el id de usuario|
+	|add|void|public|Añade un perfil|
+	|update|void|public|Modifica un perfil|
+	|delete|void|public|Elimina un perfil|
+			
+## **4.2.2.2 Interface layer**
+- Nombre: Profile.controller
+- Categorìa: Controller
+- Propòsito: Controlar registro de perfiles
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Post   | Promise      | public      | Registra un nuevo perfil              |
+	| GetAll | Promise      | public      | Devuelve todos los perfiles |
+	|FindByUserId|Promise|public|Devuelve un érfil por el id del usuario|
+	|Put|Promise|public|Modifica un perfil|
+	|Delete|Promise|Elimina un perfil|
+
+## **4.2.2.3 Application Layer**
+- Nombre: 
+- Categoría: 
+- Propósito:
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Profile>|public|Método de ejecución del comando|
+
+- Nombre: CreateUserProfileCommandHandler
+- Categoría: Command Handler
+- Propósito: Handler para la creación de un perfil de usuario
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handle|Promise<Profile>|public|Método de ejecución del comando|
+
+- Nombre: ModifyUserProfileCommandHandler
+- Categoría: Command Handler
+- Propósito: Handler para la modificación de un perfil de usuario
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Profile>|public|Método de ejecución del comando|
+
+- Nombre: DeleteUserProfileCommandHandler
+- Categoría: Command Handler
+- Propósito: Handler para la eliminación de un perfil de usuario
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Profile>|public|Método de ejecución del comand
+- Nombre: UserProfileModifiedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar la modificación de un perfil
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Profile>|public|Método de ejecución del event
+- Nombre: UserProfileDeletedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar la eliminación de un perfil
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Profile>|public|Método de ejecución del event
+- Nombre: UserProfileCreatedEventHandler
+- Categoría: Event Handler
+- Propósito: Gestionar la creación de un perfil
+	|Nombre|Tipo de retorno|Visibilidad|Descripción|
+	|------|---------------|-----------|-----------|
+	|Handler|Promise<Profile>|public|Método de ejecución del evento|
+			
+## **4.2.2.4 Infrastructure layer**
+- Nombre: ProfileRepository
+- Categoría: Repository
+- Propósito: Persistir los perfiles
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	|getByUserId|ProfileResource|public|Devuelve el perfil según el id de usuario|
+	|add|void|public|Añade un perfil|
+	|update|void|public|Modifica un perfil|
+	|delete|void|public|Elimina un perfil|
+		
+## **4.2.2.5. Bounded Context Software Architecture Component Level Diagrams**
+
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes ](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_profile.PNG?raw=true)
+
+## **4.2.2.6 Bounded Context Software Architecture Code Level Diagrams**
+
+Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+
+## **4.2.2.6.1 Bounded Context Domain Layer Class Diagrams**
+
+Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+![Diagrama clases PLantas](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_profile.PNG?raw=true)
+
+## **4.2.2.6.2 Bounded Context Database Diagrams**
+
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
+![DC profile](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_profile.PNG?raw=true)
+
+
+## **4.2.2. Bounded Context: Plant Management**
+## **4.2.2.1. Domain Layer.** 
+- Nombre: Plant
+- Categoria: Entity
+- Propósito: Almacenar datos de las plantas
+- Atributos
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	| id | int       | private     | Id de identidad               |
+	| plantName        | string          | private     | Nombre de la planta                         |
+	| plantDescription        | string          | private     | Descripción de la planta        
+- Métodos:
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| Plant       | void         | public      | Constructor de la identidad                   |
+	| getPlantName  | string       | public      | Obtiene el nombre de la planta       |
+	| getDescription      | string       | public      | Retorna la desripción                
+- Nombre: IPlantRepository
+- Categoría: Repository
+- Propósito: Persistir las plantas
+- Métodos: 
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| IPlantRepository       | ISuscriptionRepository         | public      | Constructor de identidad                   |
+	| add  | void       | public      | Crear una planta      |
+	| updatePlant     | void       | public      |Permite actualizar los datos de una planta|
+	|deletePlant|void|public|Permite eliminar una planta|
+	| ListPlants|array|public|Devuelve una lista de todas las plantas|
+	|FindByName|promise<PlantResource>|public|Devuelve una planta por el nombre|
+	|FindById|promise<PlantResource|publicDevuelve una planta por el Id|
+		
+
+#### 4.2.2.2 Interface layer
+- Nombre: Plant.controller
+- Categorìa: Controller
+- Propòsito: Controlar registro de suscripciones
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Post   | Promise      | public      | Registra una nueva planta              |
+	| GetAll | Promise      | public      | Devuelve todas las plantas |
+	|GetByName|Promise|public|Devuelve una plata por su nombre|
+	|GetById|Promise|public|Devuelve una planta por su id|
+	|deleteById|Promise|Elimina una planta|
+
+#### 4.2.2.3 Application Layer
+- Nombre: RegisterPlant.handler
+- Categorìa: Handler
+- Propòsito: Handler para registrar una planta
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| RegisterPlant.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite registrar una planta |	
+- Nombre: RegisterPlant.command
+- Categorìa: Command
+- Propòsito: Command para registrar una planta
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| RegisterPlant.command | void         | public      | Constructor          	|
+- Nombre: SearchPlant.handler
+- Categorìa: Handler
+- Propòsito: Handler para buscar una planta
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| SearchPlant.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite buscar una planta |	
+- Nombre: SearchPlant.command
+- Categorìa: Command
+- Propòsito: Command para registrar una planta
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| SearchPlant.command | void         | public      | Constructor          	|
+- Nombre: IdentifyPlant.handler
+- Categorìa: Handler
+- Propòsito: Handler para identificar una planta
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| IdentifyPlant.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite identificar una planta |	
+- Nombre: IdentifyPlant.command
+- Categorìa: Command
+- Propòsito: Command para identificar una planta
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| IdentifyPlant.command | void         | public      | Constructor          	|
+			
+			
+#### 4.2.2.4 Infrastructure Layer
+- Nombre: PlantRepository
+- Categoría: Repository
+- Propósito: Persistir las plantas
+- Métodos: 
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| PlantRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
+	| add  | void       | public      | Crear una planta      |
+	| updatePlant     | void       | public      |Permite actualizar los datos de una planta|
+	|deletePlant|void|public|Permite eliminar una planta|
+	| ListPlants|array|public|Devuelve una lista de todas las plantas|
+	|FindByName|promise<PlantResource>|public|Devuelve una planta por el nombre|
+	|FindById|promise<PlantResource|publicDevuelve una planta por el Id|
+				
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. 
+![Diagrama de componentes plantas](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_plant.PNG?raw=true)
+
+#### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
+
+Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código		
+
+##### 4.2.2.6.1 Bounded Context Domain Layer Class Diagrams
+
+Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+![Diagrama clases PLantas](https://cdn.discordapp.com/attachments/1143666758042013890/1153884913712509080/image.png)
+
+##### 4.2.2.6.2 Bounded Context Database Diagrams
+
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
+
+![Diagrama base datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_plant.PNG?raw=true)
+
 #### 5.2.1 Domain Layer.
 
 #### 5.2.2 Interface Layer.
@@ -1021,11 +1281,11 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDA5NTc1MSwxMzMxMTYzMTEwLC05Mz
-kwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0
-OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNz
-g2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgy
-LDEyODQ2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExOD
-g4NDc3NjksLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIx
-MDVdfQ==
+eyJoaXN0b3J5IjpbNjM4ODc1OTAsMTMzMTE2MzExMCwtOTM5MD
+IyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDks
+LTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4Nj
+E3MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4Miwx
+Mjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMTg4OD
+Q3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1
+XX0=
 -->
