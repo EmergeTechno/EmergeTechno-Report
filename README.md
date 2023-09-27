@@ -775,6 +775,16 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 #### 6.2.3 SEO Tags and Meta Tags
 #### 6.2.4 Navigation Systems
 
+### 6.3. Landing Page UI Design
+#### 6.3.1 Landing Page Wireframe
+#### 6.3.2 Landing Page Mock-up
+
+### 6.4. Applications UX/UI Design
+#### 6.4.1 Applications Wireframes
+#### 6.4.2 Applications Wireflow Diagrams
+#### 6.4.3 SEO Tags and Meta Tags
+#### 6.4.4 Navigation Systems
+
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/ESSmpjDNBRlDtJYBF3z4dboBsd2J3a1q4ZJZwQ8N5skeLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hIqkK2) | 
 |-----------|-----------|
@@ -782,11 +792,11 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NDYzNzEzLC05MzkwMjIwNTMsMTg0Mz
-E0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2
-LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3Mz
-I1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMs
-MTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4Nj
-Y4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1
-NDldfQ==
+eyJoaXN0b3J5IjpbMTE4NDc2MzQ2MSwtOTM5MDIyMDUzLDE4ND
+MxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4
+NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNz
+MyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAz
+LDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMTg4ODQ3NzY5LC0xOD
+Y2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUyMTA1LC0xOTkzNDA2
+NTQ5XX0=
 -->
