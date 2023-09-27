@@ -636,8 +636,10 @@ Diagrama de clases dentro del web services API Aplicationl
 ![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473)
 
 # Capítulo V: Tactical-Level Software Design
+El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se centra en la representación del dominio y la estructuración de objetos en niveles específicos. Estos niveles abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
+### 5.1. Bounded Context: "Bounded Context Name".
 
-### 5.1. Bounded Context: Bounded Context Name.
+#### 5.1.1.Domain.
 
 
 **ANEXO C: Video de exposiciones**
@@ -647,7 +649,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mjk4MzY2OCwxODQzMTQ0Nzc1LDM0OD
+eyJoaXN0b3J5IjpbMTkzNjkzNTMwNiwxODQzMTQ0Nzc1LDM0OD
 U5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0
 NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwND
 gzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2
