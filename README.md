@@ -635,8 +635,9 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 Diagrama de clases dentro del web services API Aplicationl 
 ![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473)
 
-# Capítulo V: Strategic-Level Software Design
+# Capítulo V: Tactical-Level Software Design
 
+### 5.1. Bounded Context:.
 
 
 **ANEXO C: Video de exposiciones**
@@ -646,11 +647,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE1MjM1ODUsMTg0MzE0NDc3NSwzND
-g1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4
-NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LDE4MD
-Q4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5OTA3
-NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4NjY4NjYyMjksMT
-czMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMTY5Mzc4
-MTk0NV19
+eyJoaXN0b3J5IjpbMTU0MjY1NzU0NywxODQzMTQ0Nzc1LDM0OD
+U5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0
+NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwND
+gzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2
+LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIyOSwxNz
+MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
+OTQ1XX0=
 -->
