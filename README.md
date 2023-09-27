@@ -635,6 +635,9 @@ Presentamos nuestro modelo de arquitectura de software para cubrir las necesidad
 Diagrama de clases dentro del web services API Aplicationl 
 ![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473)
 
+# Capítulo V: Strategic-Level Software Design
+
+
 
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/ESSmpjDNBRlDtJYBF3z4dboBsd2J3a1q4ZJZwQ8N5skeLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hIqkK2) | 
@@ -643,11 +646,11 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNz
-IxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4
-MjQsNzg2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwOD
-U4OTgyLDEyODQ2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIw
-LDExODg4NDc3NjksLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5Mz
-YxNTIxMDUsLTE5OTM0MDY1NDksMTY5Mzc4MTk0NSwxNTY4MTQ4
-NDQyXX0=
+eyJoaXN0b3J5IjpbLTE0NTE1MjM1ODUsMTg0MzE0NDc3NSwzND
+g1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4
+NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LDE4MD
+Q4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5OTA3
+NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4NjY4NjYyMjksMT
+czMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMTY5Mzc4
+MTk0NV19
 -->
