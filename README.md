@@ -1664,7 +1664,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
   -  - **Titulo:** Esta etiqueta se cuenta entre las más importantes y suele ubicarse antes que cualquier otra etiqueta meta. Todos los motores de búsqueda la utilizan como encabezado en las páginas de resultados de búsqueda (SERP).
   
-      ```<title> Mejora tu producción con AgriPure </title>```
+      ```<title> Mejora tu producción con CropMaster</title>```
 
     - **Codificación de caracteres:** Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página. 
   
@@ -1681,15 +1681,15 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
   ###- 6.2.4. Searching Systems.
 
-    Hemos implementado los sistemas de búsqueda en el apartado de búsqueda de tipos de plantas.  Aquí el usuario escribirá y buscará dentro de una caja de texto la planta que desea sembrar. Entonces se deslizará una overlay hacia abajo mostrando las recomendaciones de tipo de planta que quizá esté buscando.
+   Hemos implementado los sistemas de búsqueda en el apartado de búsqueda de tipos de plantas.  Aquí el usuario escribirá y buscará dentro de una caja de texto la planta que desea sembrar. Entonces se deslizará una overlay hacia abajo mostrando las recomendaciones de tipo de planta que quizá esté buscando.
   ###- 6.2.5. Navigation Systems.
   -    - **Landing Page:** 
   
-    El usuario podrá direccionarse a otra frame por medio de realizar un click en los linklabel, cada uno con una dirección relacionada al contenido del label, que se encontraran en los encabezados o headers. Usaremos un encabezado de nuestros diseños para una breve demostración. Al dar click en “Comienza ya” y “Registrate”, los llevará a las secciones con sus temáticas correspondientes. Asimismo, se implementarán botones para facilitar la navegación del usuario en caso se hayan quedado interesados con algún bloque de la página principal.
+  El usuario podrá direccionarse a otra frame por medio de realizar un click en los linklabel, cada uno con una dirección relacionada al contenido del label, que se encontraran en los encabezados o headers. Usaremos un encabezado de nuestros diseños para una breve demostración. Al dar click en “Comienza ya” y “Registrate”, los llevará a las secciones con sus temáticas correspondientes. Asimismo, se implementarán botones para facilitar la navegación del usuario en caso se hayan quedado interesados con algún bloque de la página principal.
 
 ##- 6.3. Landing Page UI Design.
   
-    Para esta sección mostraremos el desarrollo visual de nuestro Landing Page. Para ello, utilizamos una herramienta de diseño web como Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin limitaciones. Asimismo, se evidenciará el uso de los Style Guidelines e Information Architecture.
+   Para esta sección mostraremos el desarrollo visual de nuestro Landing Page. Para ello, utilizamos una herramienta de diseño web como Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin limitaciones. Asimismo, se evidenciará el uso de los Style Guidelines e Information Architecture.
    
 ###  - 6.3.1. Landing Page Wireframe.
 
@@ -1816,11 +1816,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDc2OTE0NCwtMTkxNjM5NzEyMCwtMj
-AzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAy
-MjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5LC
-03NzYyODY5ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3ODYx
-NzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIsMT
-I4NDY5OTUwMywxNzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4ODg0
-Nzc2OV19
+eyJoaXN0b3J5IjpbLTEzMjcwNjQ1NjcsLTY2MDc2OTE0NCwtMT
+kxNjM5NzEyMCwtMjAzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzEx
+NjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1My
+wxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMTU1
+MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4My
+w3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMDc3
+OTY5MjBdfQ==
 -->
