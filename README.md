@@ -181,7 +181,7 @@ CropMasterse presenta como una solución revolucionaria que se concreta mediante
 
 Un aspecto destacado de ropMaster es su capacidad para conectar a los agricultores con el mundo exterior, superando las limitaciones geográficas y facilitando un acceso sencillo a información pertinente y servicios de alta calidad. A través de su presencia en una Aplicación Móvil, re pone al alcance de los agricultores una plataforma rica en contenido y herramientas que respaldan el desarrollo y el éxito de cada usuario.
 
-En consonancia con su misión, ropMaster se centra en asistir a las personas en sus esfuerzos por llevar a cabo una siembra eficaz, ya sea a gran escala o incluso en entornos domésticos. Esto se logra mediante una plataforma segura que ofrece recomendaciones y guías personalizadas de acuerdo a las necesidades individuales de cada agricultor.
+En consonancia con su misión, CropMaster se centra en asistir a las personas en sus esfuerzos por llevar a cabo una siembra eficaz, ya sea a gran escala o incluso en entornos domésticos. Esto se logra mediante una plataforma segura que ofrece recomendaciones y guías personalizadas de acuerdo a las necesidades individuales de cada agricultor.
  
 - 1.1.2 Perfiles de integrantes del equipo
 
@@ -1492,11 +1492,11 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc2MzY4NzYsNjY0Nzc3NzIzLDEzMz
-ExNjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1
-MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMT
-U1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4
-Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMD
-c3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIyOSwxNzMxNTY5
-NTMyXX0=
+eyJoaXN0b3J5IjpbMTE2MzczNzUzNyw2NjQ3Nzc3MjMsMTMzMT
+E2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUz
+LDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNT
+UxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0Nzgz
+LDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNz
+c5NjkyMCwxMTg4ODQ3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1
+MzJdfQ==
 -->
