@@ -1783,7 +1783,9 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ### 6.4.2. Applications Wireflow Diagrams.
  ### 6.4.3. Applications Mock-ups.
+ #### Web Application Mockups
  ![18.png (463×671) (ibb.co)](https://i.ibb.co/cFdVTh8/18.png)
+![19.png (1258×655) (ibb.co)](https://i.ibb.co/yP4VTnD/19.png)
 
  ### 6.4.4. Applications User Flow Diagrams
   
@@ -1825,7 +1827,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3ODU0NDA1LDE1MjIzOTUwNzYsLTQ0Mz
+eyJoaXN0b3J5IjpbMjIyMDk2NzY1LDE1MjIzOTUwNzYsLTQ0Mz
 k0NTY0MiwtNjYwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQz
 NjMzLDExNjM3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLD
 E4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4
