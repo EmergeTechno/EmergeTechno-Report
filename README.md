@@ -1732,10 +1732,10 @@ Mobile:
 
 En esta seccion, se muestra como se ve la landing  page en dispositivos moviles.
 
-![texto](https://media.discordapp.net/attachments/912089666939916348/1156442108987723878/image.png?ex=6514fc24&is=6513aaa4&hm=6dcc71d5183034dffe54e5af81defedf04e12c7f829015c67e28864f84cd8f55&=&width=171&height=668)
+![10.png (182×741) (ibb.co)](https://i.ibb.co/nPbWmCg/10.png)
 
 
-![texto](https://media.discordapp.net/attachments/912089666939916348/1156442170962739240/image.png?ex=6514fc33&is=6513aab3&hm=12ffea54bb6c41779b41d32396365519bdaa260b532eb2c39bbff2b42ffc89d9&=&width=142&height=669)
+![11.png (191×753) (ibb.co)](https://i.ibb.co/fqLVPwx/11.png)
 
 
 ![texto](https://media.discordapp.net/attachments/912089666939916348/1156442237845114901/image.png?ex=6514fc43&is=6513aac3&hm=4d59d56bcbb56884f14b051127e89ccc358a8c8d227b276ea029f38c33b82b60&=&width=177&height=669)	
@@ -1809,11 +1809,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTg2NTg2NSwtNDQzOTQ1NjQyLC02Nj
-A3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2Mzcz
-NzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0NDc3NS
-wzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMz
-MjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LD
-E4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5
-OTA3Nl19
+eyJoaXN0b3J5IjpbLTE1NDEwNTI2MjMsLTQ0Mzk0NTY0MiwtNj
+YwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3
+Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3Nz
+UsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUz
+MzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OC
+wxODA0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2
+OTkwNzZdfQ==
 -->
