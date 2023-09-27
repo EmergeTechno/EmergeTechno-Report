@@ -1777,13 +1777,13 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
  ## 6.4. Applications UX/UI Design.
 
  ### 6.4.1. Applications Wireframes.
-####  Web Application Wireframes
+#### Web Application Wireframes
 
 #### Mobile Application Wireframes
 
 ### 6.4.2. Applications Wireflow Diagrams.
- 6.4.3. Applications Mock-ups.
- 6.4.4. Applications User Flow Diagrams
+ ### 6.4.3. Applications Mock-ups.
+ ### 6.4.4. Applications User Flow Diagrams
   
    Es un tipo de diagrama utilizado en el diseño de aplicaciones y sitios web para visualizar cómo los usuarios interactúan con la interfaz y las funcionalidades de una aplicación. Estos diagramas representaran el camino que un usuario típico sigue mientras utiliza la aplicación, desde el inicio hasta la finalización de una tarea o proceso.
   
@@ -1823,7 +1823,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTc0NjQzOCwtNDQzOTQ1NjQyLC02Nj
+eyJoaXN0b3J5IjpbMTUyMjM5NTA3NiwtNDQzOTQ1NjQyLC02Nj
 A3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2Mzcz
 NzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0NDc3NS
 wzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMz
