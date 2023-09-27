@@ -1774,14 +1774,17 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![17.png (907×426) (ibb.co)](https://i.ibb.co/ZS0rhnT/17.png)
 
-- 6.4. Applications UX/UI Design.
+ 6.4. Applications UX/UI Design.
 
-	- 6.4.1. Applications Wireframes.
-	- 6.4.2. Applications Wireflow Diagrams.
-	- 6.4.3. Applications Mock-ups.
-	- 6.4.4. Applications User Flow Diagrams
+ 6.4.1. Applications Wireframes.
+	-####  Web Application Wireframes
+#### Mobile A
+
+### 6.4.2. Applications Wireflow Diagrams.
+ 6.4.3. Applications Mock-ups.
+ 6.4.4. Applications User Flow Diagrams
   
-     Es un tipo de diagrama utilizado en el diseño de aplicaciones y sitios web para visualizar cómo los usuarios interactúan con la interfaz y las funcionalidades de una aplicación. Estos diagramas representaran el camino que un usuario típico sigue mientras utiliza la aplicación, desde el inicio hasta la finalización de una tarea o proceso.
+   Es un tipo de diagrama utilizado en el diseño de aplicaciones y sitios web para visualizar cómo los usuarios interactúan con la interfaz y las funcionalidades de una aplicación. Estos diagramas representaran el camino que un usuario típico sigue mientras utiliza la aplicación, desde el inicio hasta la finalización de una tarea o proceso.
   
   | User Goal | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios.  |
   |-----------|-----------|
@@ -1819,11 +1822,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NjY0NzksLTQ0Mzk0NTY0MiwtNjYwNz
-Y5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3Mzc1
-MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3NzUsMz
-Q4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUzMzI0
-ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OCwxOD
-A0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2OTkw
-NzZdfQ==
+eyJoaXN0b3J5IjpbOTE4MDk1OTIzLC00NDM5NDU2NDIsLTY2MD
+c2OTE0NCwtMTkxNjM5NzEyMCwtMjAzNTk0MzYzMywxMTYzNzM3
+NTM3LDEzMzExNjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LD
+M0ODU5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMy
+NDg0NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMT
+gwNDgzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5
+MDc2XX0=
 -->
