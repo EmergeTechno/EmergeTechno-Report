@@ -31,9 +31,9 @@ Ciclo: 2023-2
 | Versión | Fecha | Autor | Descripción de la Modificación| 
 | ---------- | ---------- | ----------| ----| 
 | 1.0| 31/08/2023 |Enrique Postigo| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
-| 1.1| 03/09/2023 |Enrique Postigo| Se completaron los capítulos 1, 2 y 3
-| 1.2| 05/09/2023|Enrique Postigo| Se completo el capítulo 4
-| 1.3| 07/09/2023|Enrique Postigo| Se paso el trabajo a GitHub
+| 1.1| 03/09/2023 |Diego Talledo| Se completaron los capítulos 1, 2 y 3
+| 1.2| 05/09/2023|Bruno Palomino| Se completo el capítulo 4
+| 1.3| 07/09/2023|Rafael semanez| Se paso el trabajo a GitHub
 
 ## Project Report Collaboration Insights
 
