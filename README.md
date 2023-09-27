@@ -1554,7 +1554,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|URGENT|int|public|
 	|MEDIUM|string|public|
 		
-#### 4.2.6.2 Interface layer
+### 5.7.2 Interface layer
 - Nombre: Notification.controller
 - Categorìa: Controller
 - Propòsito: Controlar registro de notificaciones
@@ -1567,7 +1567,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| GetNotificationsUserId|Promise|public|Permite obtener una lista de los proyecto de un usuario|
 	| DeleteProject | Promise      | public      | Permite eliminar un proyecto  |
 
-#### 4.2.6.3 Application Layer
+### 5.7.3 Application Layer
 - Nombre: NotificationSendeed.event-handler
 - Categorìa: Event Handler
 - Propòsito: Gestionar el envío de una notificación
@@ -1578,7 +1578,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 			
-#### 4.2.6.4 Infrastructure Layer
+### 5.7.4 Infrastructure Layer
 - Nombre: NotificationRepository
 - Categoría: Repository
 - Propósito: Persistir las notificaciones
@@ -1590,7 +1590,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| DeleteProyect|void|public|Permite eliminar un proyecto|
 
  # Capítulo VI: Solution UI/UX Design
-## 6.1 Style Guidelines.
+
 ## 6.1. Style Guidelines.
   ###
   - 6.1.1. General Style Guidelines
@@ -1816,11 +1816,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3MjA4NjY5LC0xOTE2Mzk3MTIwLC0yMD
-M1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIy
-MDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLT
-c3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3
-MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4MiwxMj
-g0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMTg4ODQ3
-NzY5XX0=
+eyJoaXN0b3J5IjpbMjAwNjAxMzIwMywtMTkxNjM5NzEyMCwtMj
+AzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAy
+MjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5LC
+03NzYyODY5ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3ODYx
+NzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIsMT
+I4NDY5OTUwMywxNzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4ODg0
+Nzc2OV19
 -->
