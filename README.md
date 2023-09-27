@@ -1127,19 +1127,339 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| add  | void       | public      | Crear un plan      |
 	| delete | void |public|Eliminar un plan|
 				
-#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+#### .4.6. Bounded Context Software Architecture Component Level Diagrams
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. 
 ![Diagrama de componentes sUSCRIPTION](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_omponent_iotdevice.PNG?raw=true)
 
-#### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
+####  Bounded Context Software Architecture Code Level Diagrams
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
-##### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
+##### .4.7.1 Bounded Context Domain Layer Class Diagrams
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama clases](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_iot.PNG?raw=true)
-##### 4.2.1.6.2 Bounded Context Database Diagrams
+##### .4.7.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
 ![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
+
+## **4.2.4. Bounded Context: Crop Management**
+## **4.2.4.1. Crop.** 
+- Nombre: Crop
+- Categoria: Entity
+- Propósito: Almacenar los datos de los cultivos
+- Atributos
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	| Id | int       | private     | Id de identidad               |
+	| userId        | int          | private     | Id del usuario al que pertenece         |
+	|plantId|int|private|Id de planta que se está cultivando|
+	|createAt|date|private|Fecha de creación|
+	|updateAt|date|private|Última fecha de actualización|
+	|imageSrc|string|private|Enlace a la imagen del cultivo|
+- Métodos:
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| Crop       | Crop         | public      | Constructor de la identidad                   |
+	| addReport  | void       | public      | Añade un reporte al cultivo       |
+	| getReport      | String       | public      | Retorna un reporte del cultivo  |
+	| ModifyLastUpdate|void|private|Modifica la última fecha de actualizació
+- Nombre: Report
+- Categoría: Entity
+- Propósito: Almacenar los reportes de los cultivos
+- Atributos:
+	| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+	|-----------|--------------|-------------|----------------------------------------------|
+	| Id | int       | private     | Id de identidad               |
+	| createAt|date|private|Fecha de creacion|
+	| imageSrc|string|private|Enlace a la imagen del cultivo al momento de crear el reporte|
+	|Description|string|private|Descripción de como se encuentra el cultivo al momento de generar reporte|
+
+
+
+## **4.2.4.2 Interface layer**
+- Nombre: Crop.controller
+- Categorìa: Controller
+- Propòsito: Controlar registro de cultivos
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Register   | Promise      | public      | Registra un nuevo cultivo               |
+	| Modify | Promise      | public      | Permite modificar cultivo de un usuario |
+	| GetCropById|Promise|public|Permite obtener un cultivo|
+	| GetCropsByUserId|Promise|public|Permite obtener una lista de los cultivos de un usuario|
+	| DeleteCrop | Promise      | public      | Permite eliminar un cultivo  |
+			
+## **4.2.4.3 Application Layer**
+- Nombre: RegisterCrop.handler
+- Categorìa: Handler
+- Propòsito: Handler para registrar un cultivo
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| RegisterCrop.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite registrar un cultivo |	
+
+- Nombre: DisplayInformation.handler
+- Categorìa: Handler
+- Propòsito: Handler para mostrar la información delcultivo en tiempo real
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| DisplayInformation.handler | void         | public      | Constructor     |
+	| execute  | void         | public      | Permite mostrar información en tiempo real |	
+- Nombre: DisplayInformation.command
+- Categorìa: Command
+- Propòsito: Command para mostrar la información delcultivo en tiempo real
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| DisplayInformation.command | void         | public      | Constructor      |
+
+
+- Nombre: AddReport.handler
+- Categorìa: Handler
+- Propòsito: Handler para registrar un reporte de cultivo
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| AddReport.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite registrar un cultivo 
+- Nombre: AddReport.command
+- Categorìa: Command
+- Propòsito: Command para asignar una suscripción
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| AddReport.command | void         | public      | Constructor          
+
+
+- Nombre: DeleteCrop.handler
+- Categorìa: Handler
+- Propòsito: Handler para eliminar un cultivo
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| DeleteCrop.handler | void         | public      | Constructor     |
+	| execute  | void         | public      | Permite mostrar información en tiempo real 
+- Nombre: DeleteCrop.command
+- Categorìa: Command
+- Propòsito: Command para mostrar la información del cultivo en tiempo real
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| DeleteCrop.command | void         | public      | Constructor      |
+
+			
+#### 4.2.4.4 Infrastructure Layer
+- Nombre: CropRepository
+- Categoría: Repository
+- Propósito: Persistir los cultivos
+- Métodos: 
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| CropRepository       | CropRepository         | public      | Constructor de la identidad |
+	| add  | void       | public      | Crear un cultivo     |
+	| AddReport      | void       | public      | Permite actualizar un reporte al cultivo|
+	| DeleteCrip|void|public|Permite eliminar un cultivo|
+
+- Nombre: IoTRepository
+- Categoría: Repository
+- Propósito: Persistir los dispositivos
+- Métodos: 
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| IoTRepository      | IoTRepository         | public      | Constructor de la identidad                   |
+	| add  | void       | public      | Registrar un dispositivo      |
+	| FinByUserId  | array       | public      | Devuelve una lista de dispositivos IoT por Id del usuario |
+	| FinById  | IoTResource       | public      | Devuelve un IoT device |
+	| delete | void |public|Eliminar un dispositivo|
+				
+#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes Crop](https://cdn.discordapp.com/attachments/1149587894416183327/1153891010666053642/image.png)
+#### 4.2.4.6 Bounded Context Software Architecture Code Level Diagrams
+Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+##### 4.2.4.6.1 Bounded Context Domain Layer Class Diagrams
+Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
+##### 4.2.4.6.2 Bounded Context Database Diagrams
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
+![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
+
+### **4.2.4. Bounded Context: Advisory Management**
+#### **4.2.4.1. Domain Layer.** 
+- Nombre: Project
+- Categoria: Entity
+- Propósito: Almacenar los datos de los proyectos
+- Atributos :
+	| Nombre    | Tipo de dato | VisibilidadDescripción                                  |
+	|-----------|--------------|---------------------------------------------------------|
+	| Id | int       | private     | Id identidad               |
+	|cropId|int|private|Id del crop|
+	|title|string|private|Título del paso|
+
+- Nombre: Step
+- Categoría: Entity
+- Propósito: Almacenar los pasos de un proyecto
+- Atributos:
+	| Nombre    | Tipo de dato | VisibilidadDescripción                                  |
+	|-----------|--------------|---------------------------------------------------------|
+	| Id | int       | private     | Id identidad               |
+	|orderStep|int|private|Número de orden|
+	|title|string|private|Título del paso|
+	|description|string|private|Título|
+	|status|StepStatus|string|private|Estado del paso|
+	|deadLine|date|string|Fecha límite para cumplir el paso|
+
+- Nombre: StepStatus
+- Categoría: Enum
+- Propósito: Almacenar los estados de un paso
+- Atributos: 
+	| Nombre    | Tipo de dato | Visibilidad |
+	|-----------|--------------|-------------|
+	| IN_PROCESS | int       | public    | 
+	|ACCOMPLISHED|int|public|
+	|FAILED|string|public|
+		
+#### 4.2.5.2 Interface layer
+- Nombre: Project.controller
+- Categorìa: Controller
+- Propòsito: Controlar registro de proyectos
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Register   | Promise      | public      | Registra un nuevo proyecto     |
+	| Modify | Promise      | public      | Permite modificar proyecto de un cultivo |
+	| GetProjectById|Promise|public|Permite obtener un cultivo|
+	| GetProjectByUserId|Promise|public|Permite obtener una lista de los proyecto de un usuario|
+	| DeleteProject | Promise      | public      | Permite eliminar un proyecto  |
+
+#### 4.2.5.3 Application Layer
+- Nombre: CreateProject.event-handler
+- Categorìa: Event Handler
+- Propòsito: Gestionar la creaciòn de un proyecto
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| handle | void         | public      | Constructor             |
+- Nombre: CreateStep.event-handler
+- Categorìa: Event-Handler
+- Propòsito: GEstionar la creaciòn de un paso de proyecto
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| handler | void         | public      | Constructor             |	
+- Nombre: ASsigProject.event-handler
+- Categorìa: Event-Handler
+- Propòsito: GEstionar la asignaciòn de un proyecto
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| handler | void         | public      | Constructor             |	
+
+			
+#### 4.2.5.4 Infrastructure Layer
+- Nombre: ProjectRepository
+- Categoría: Repository
+- Propósito: Persistir los proyectos
+- Métodos: 
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| ProjectRepository       | CropRepository         | public      | Constructor de la identidad |
+	| add  | void       | public      | Crear un proyecto     |
+	| AddStep      | void       | public      | Permite aañadir un paso al proyecto|
+	| DeleteProyect|void|public|Permite eliminar un proyecto|
+	|DeleteStep|void|public|Permite eliminar un paso dle proyecto|
+	|ModifiStep|public|Permite modificar un paso del proyecto|
+
+				
+#### 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
+#### 4.2.5.6 Bounded Context Software Architecture Code Level Diagrams
+Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+##### 4.2.5.6.1 Bounded Context Domain Layer Class Diagrams
+Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+![Diagrama clases Suscription](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_crop.PNG?raw=true)
+##### 4.2.5.6.2 Bounded Context Database Diagrams
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
+![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_crop.PNG?raw=true)
+#### 4.2.6. Bounded Context: Notification
+#### 4.2.6.1. Domain Layer.
+- Nombre: Notification
+- Categoria: Entity
+- Propósito: Almacenar los datos de las notificaciones
+- Atributos
+	| Nombre    | Tipo de dato | VisibilidadDescripción                                  |
+	|-----------|--------------|---------------------------------------------------------|
+	| Id | int       | private     | Id identidad               |
+	| userId        | int          | private     | Id dusuario         |
+	|createAt|date|private|Fecha de creación|
+	|importance|NotificationImportane|private|Importancde la notificación|
+	|title|string|private|Título de la notificación|
+	|body|string|private|Cuerpo de la notificación|
+	
+- Métodos:
+	| Nombre       | Tipo de dato | VisibilidadDescripción                                   |
+	|--------------|--------------|----------------------------------------------------------|
+	| Notification       | Constructor       public      | Constructor de identidad                   |
+	| getTitle  | string   | public      | Obtiene titulo de la notificacion |
+	|getBody|string|public|Obtiene el cuerpo de notificación|
+
+- Nombre: NotificationImportance
+- Categoría: Entity
+- Propósito: Almacenar los pasos de un proyecto
+- Atributos:
+	| Nombre    | Tipo de dato | VisibilidadDescripción                                  |
+	|-----------|--------------|---------------------------------------------------------|
+	| Id | int       | private     | Id identidad               |
+	|orderStep|int|private|Número de orden|
+	|title|string|private|Título del paso|
+	|description|string|private|Título|
+	|status|StepStatus|string|private|Estado del paso|
+	|deadLine|date|string|Fecha límite para cumplir el paso|
+
+- Nombre: NotificationImportance
+- Categoría: Enum
+- Propósito: Almacenar la importancia de cada notificación
+- Atributos: 
+	| Nombre    | Tipo de dato | Visibilidad |
+	|-----------|--------------|-------------|
+	| LOW | int       | public    | 
+	|URGENT|int|public|
+	|MEDIUM|string|public|
+		
+#### 4.2.6.2 Interface layer
+- Nombre: Notification.controller
+- Categorìa: Controller
+- Propòsito: Controlar registro de notificaciones
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Register   | Promise      | public      | Registra un nuevo proyecto     |
+	| Modify | Promise      | public      | Permite modificar proyecto de un cultivo |
+	| GetNotificationById|Promise|public|Permite obtener un cultivo|
+	| GetNotificationsUserId|Promise|public|Permite obtener una lista de los proyecto de un usuario|
+	| DeleteProject | Promise      | public      | Permite eliminar un proyecto  |
+
+#### 4.2.6.3 Application Layer
+- Nombre: NotificationSendeed.event-handler
+- Categorìa: Event Handler
+- Propòsito: Gestionar el envío de una notificación
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| handle | void         | public      | Constructor             |
+
+
+			
+#### 4.2.6.4 Infrastructure Layer
+- Nombre: NotificationRepository
+- Categoría: Repository
+- Propósito: Persistir las notificaciones
+- Métodos: 
+	| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+	|--------------|--------------|-------------|-----------------------------------------------|
+	| NotificationRepository       | CropRepository         | public      | Constructor de la identidad |
+	| add  | void       | public      | Crear una notificación     |
+	| DeleteProyect|void|public|Permite eliminar un proyecto|
 
 # Capítulo VI: Solution UX Design
 
@@ -1172,7 +1492,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0Nzc3NzIzLC0xMjMyODMzODQ2LDEzMz
+eyJoaXN0b3J5IjpbLTIwOTc2MzY4NzYsNjY0Nzc3NzIzLDEzMz
 ExNjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1
 MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMT
 U1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4
