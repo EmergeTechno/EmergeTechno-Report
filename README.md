@@ -866,7 +866,7 @@ Los diagramas de nivel de código en la arquitectura de software son una herrami
 #### **5.1.6.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama clases User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_suscription.PNG?raw=true)
+![Diagrama clases user](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_suscription.PNG?raw=true)
 
 #### **5.1.6.2 Bounded Context Database Diagrams**
 
@@ -1783,6 +1783,8 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ### 6.4.2. Applications Wireflow Diagrams.
  ### 6.4.3. Applications Mock-ups.
+ ![18.png (463×671) (ibb.co)](https://i.ibb.co/cFdVTh8/18.png)
+
  ### 6.4.4. Applications User Flow Diagrams
   
    Es un tipo de diagrama utilizado en el diseño de aplicaciones y sitios web para visualizar cómo los usuarios interactúan con la interfaz y las funcionalidades de una aplicación. Estos diagramas representaran el camino que un usuario típico sigue mientras utiliza la aplicación, desde el inicio hasta la finalización de una tarea o proceso.
@@ -1823,11 +1825,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDYxNTQsMTUyMjM5NTA3NiwtNDQzOT
-Q1NjQyLC02NjA3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2
-MzMsMTE2MzczNzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMT
-g0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2
-OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LD
-E3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTMxNzgzNTA2MSwxNTIyMzk1MDc2LC00ND
+M5NDU2NDIsLTY2MDc2OTE0NCwtMTkxNjM5NzEyMCwtMjAzNTk0
+MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAyMjA1My
+wxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5LC03NzYy
+ODY5ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3ODYxNzA5MT
+csMTczMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIsMTI4NDY5
+OTUwM119
 -->
