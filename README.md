@@ -637,23 +637,113 @@ Diagrama de clases dentro del web services API Aplicationl
 
 # Capítulo V: Tactical-Level Software Design
 El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se centra en la representación del dominio y la estructuración de objetos en niveles específicos. Estos niveles abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
-### 5.1. Bounded Context: ### [User Acount Manager]
+### 
+### 5.1. Bounded Context: User Acount Manager
+#### 5.2.1.1. Domain Layer.
+- Nombre: User
+- Categoria: Entity
+- Propósito: Almacenar datos de nuestros usuarios
+- Atributos
+	| Nombre    | Tipo de dato | VisibilidadDescripción                                  |
+	|-----------|--------------|---------------------------------------------------------|
+	| id        | int          | private     | Id identidad                              |
+	| email     | string       | private     | Almacena email del usuario                |
+	| password  | string       | private     | Almacena contraseña de acceso del usuario |
+- Métodos:
+	| Nombre       | Tipo de dato | VisibilidadDescripción                                   |
+	|--------------|--------------|----------------------------------------------------------|
+	| User         | void         | public     |Constructor de la identidad                   |
+	| getFullName  | string       | public      | Obtieel nombre completo del usuario        |
+	| validPassword| bool  | public      | Valida la contraseña del usuario   |                
 
-#### 5.1.1 Domain Layer.
+#### 4.2.1.2 Interface layer
+- Nombre: Users.controller
+- Categorìa: Controller
+- Propòsito: Controlar registro de usuarios
+- Mètodos:
+	| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+	|------------|--------------|-------------|-----------------------------------------|
+	| Register   | Promise      | public      | Registra un usuario nuevo               |
+	| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
+	| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
+	| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
+#### 4.2.1.3 Application Layer
+- Nombre: CreateUser.handler
+- Categorìa: Handler
+- Propòsito: Handler para registrar un usuario
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| CreateUser.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite registrar al usuario |	
+- Nombre: CreateUser.command
+- Categorìa: Command
+- Propòsito: Command para registrar un usuario
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| CreateUser.command | void         | public      | Constructor          	|
+- Nombre: LogIn.handler
+- Categorìa: Handler
+- Propòsito: Handler para logear un usuario
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| LogIn.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite iniciar sesiòn al usuario |	
+- Nombre: LogIn.command
+- Categorìa: Command
+- Propòsito: Command para logear un usuario
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| LogIn.command | void         | public      | Constructor          	|
 
-#### 5.1.2 Interface Layer.
+- Nombre: DeleteUser.handler
+- Categorìa: Handler
+- Propòsito: Handler para eliminar un usuario
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| DeleteUser.handler | void         | public      | Constructor             |
+	| execute  | void         | public      | Permite elminar datos del usuario 
+- Nombre: ModifiUser.command
+- Categorìa: Command
+- Propòsito: Command para modificar un usuario
+- Mètodos: 
+	| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+	|----------|--------------|-------------|-----------------------------------|
+	| DeleteUser.command | void         | public      | Constructor          	|
+			
+## **4.2.1.4 Infrastructure Layer**
+- Nombre: UserRepository
+- Categorìa: Repository
+- Propòsito: Obtener datos del usuario
+- Mètodos: 
+	| Nombre  | Tipo de dato       | Visibilidad | Descripción                                   |
+	|---------|--------------------|-------------|-----------------------------------------------|
+	| getById | getUserResource    | public      | Devuelve los datos necesarios de un usuario   |
+	| getAll  | array              | public      | Devuelve todos los objetos en un arreglo      |
+	| create  | createUserResource | public      | Crea un nuevo objeto                          |
+	| update  | updateUserResource | public      | Actualiza o modifica los valores de un objeto |
+	| delete  | void               | public      | Elimina un objeto                             |
+## **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
-#### 5.1.3 Application Layer.
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_user.PNG?raw=true)
 
-#### 5.1.4 Infrastructure Layer.
+## **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
 
-#### 5.1.5.Bounded Context Software Architecture Component Level Diagrams.
+Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código			
 
-#### 5.1.6 Bounded Context Software Architecture Code Level Diagrams.
+## **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
 
-##### 5.1.6.1  Bounded Context Domain Layer Class Diagrams.
+Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+![Diagrama de clases user](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
 
-##### 5.1.6.2  Bounded Context Database Design Diagram.
+## **4.2.1.6.2 Bounded Context Database Diagrams**
+
+Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
+![Diagrama de base de datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
 
 ### 5.2. Bounded Context: "Specialist Contact".
 
@@ -794,11 +884,11 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTQ0MzkyMCwxMzMxMTYzMTEwLC05Mz
-kwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0
-OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNz
-g2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgy
-LDEyODQ2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExOD
-g4NDc3NjksLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIx
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTE0NzAzLDEzMzExNjMxMTAsLTkzOT
+AyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5
+LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3OD
+YxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIs
+MTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4OD
+g0Nzc2OSwtMTg2Njg2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEw
+NV19
 -->
