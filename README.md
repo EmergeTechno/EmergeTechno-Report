@@ -639,7 +639,7 @@ Diagrama de clases dentro del web services API Aplicationl
 El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se centra en la representación del dominio y la estructuración de objetos en niveles específicos. Estos niveles abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
 ### 
 ### 5.1. Bounded Context: User Acount Manager
-#### 5.2.1.1. Domain Layer.
+#### 5.1.1.Domain Layer.
 - Nombre: User
 - Categoria: Entity
 - Propósito: Almacenar datos de nuestros usuarios
@@ -656,7 +656,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| getFullName  | string       | public      | Obtieel nombre completo del usuario        |
 	| validPassword| bool  | public      | Valida la contraseña del usuario   |                
 
-#### 4.2.1.2 Interface layer
+#### 5.1.2 Interface layer
 - Nombre: Users.controller
 - Categorìa: Controller
 - Propòsito: Controlar registro de usuarios
@@ -884,11 +884,11 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTE0NzAzLDEzMzExNjMxMTAsLTkzOT
-AyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5
-LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3OD
-YxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIs
-MTI4NDY5OTUwMywxNzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4OD
-g0Nzc2OSwtMTg2Njg2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEw
-NV19
+eyJoaXN0b3J5IjpbLTE1NTc3NTAxMjQsMTMzMTE2MzExMCwtOT
+M5MDIyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0
+NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LD
+c4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4
+MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMT
+g4ODQ3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUy
+MTA1XX0=
 -->
