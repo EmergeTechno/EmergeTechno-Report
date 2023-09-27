@@ -673,7 +673,41 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 ##### 5.2.6.2  Bounded Context Database Design Diagram.
 
+### 5.3. Bounded Context: "Project".
 
+#### 5.3.1 Domain Layer.
+
+#### 5.3.2 Interface Layer.
+
+#### 5.3.3 Application Layer.
+
+#### 5.3.4 Infrastructure Layer.
+
+#### 5.3.5.Bounded Context Software Architecture Component Level Diagrams.
+
+#### 5.3.6 Bounded Context Software Architecture Code Level Diagrams.
+
+##### 5.3.6.1  Bounded Context Domain Layer Class Diagrams.
+
+##### 5.3.6.2  Bounded Context Database Design Diagram.
+
+### 5.4. Bounded Context: "Crop Management".
+
+#### 5.4.1 Domain Layer.
+
+#### 5.4.2 Interface Layer.
+
+#### 5.4.3 Application Layer.
+
+#### 5.4.4 Infrastructure Layer.
+
+#### 5.4.5.Bounded Context Software Architecture Component Level Diagrams.
+
+#### 5.4.6 Bounded Context Software Architecture Code Level Diagrams.
+
+##### 5.4.6.1  Bounded Context Domain Layer Class Diagrams.
+
+##### 5.4.6.2  Bounded Context Database Design Diagram.
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/ESSmpjDNBRlDtJYBF3z4dboBsd2J3a1q4ZJZwQ8N5skeLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hIqkK2) | 
 |-----------|-----------|
@@ -681,11 +715,11 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzY0NTE0NiwxODQzMTQ0Nzc1LDM0OD
-U5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0
-NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwND
-gzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2
-LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIyOSwxNz
-MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
-OTQ1XX0=
+eyJoaXN0b3J5IjpbLTEzMzgyOTUzMDMsMTg0MzE0NDc3NSwzND
+g1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4
+NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LDE4MD
+Q4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5OTA3
+NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4NjY4NjYyMjksMT
+czMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMTY5Mzc4
+MTk0NV19
 -->
