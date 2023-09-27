@@ -763,6 +763,12 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 ##### 5.7.6.2  Bounded Context Database Design Diagram.
 
+# Capítulo VI: Solution UX Design
+
+### 6.1. Style Guidelines
+#### 6.1.1 General Style Guidelines
+#### 6.1.2 General Style Guidelines
+
 
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/ESSmpjDNBRlDtJYBF3z4dboBsd2J3a1q4ZJZwQ8N5skeLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hIqkK2) | 
@@ -771,11 +777,11 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTAyMjA1MywxODQzMTQ0Nzc1LDM0OD
-U5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0
-NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwND
-gzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2
-LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIyOSwxNz
-MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
-OTQ1XX0=
+eyJoaXN0b3J5IjpbLTIxMjQwODg5ODMsLTkzOTAyMjA1MywxOD
+QzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5
+ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMT
+czMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUw
+MywxNzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMT
+g2Njg2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQw
+NjU0OV19
 -->
