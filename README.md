@@ -1790,6 +1790,8 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ![21.png (1267×521) (ibb.co)](https://i.ibb.co/QFBgPc9/21.png)
 ![22.png (1076×773) (ibb.co)](https://i.ibb.co/j6HTRmB/22.png)
 ![23.png (990×712) (ibb.co)](https://i.ibb.co/s3zrkgG/23.png)
+![24.png (741×671) (ibb.co)](https://i.ibb.co/Wf8n8Zf/24.png)
+![25.png (690×735) (ibb.co)](https://i.ibb.co/r2yV7yY/25.png)
 
 
  ### 6.4.4. Applications User Flow Diagrams
@@ -1832,11 +1834,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4Mz
-c4MSwxNTIyMzk1MDc2LC00NDM5NDU2NDIsLTY2MDc2OTE0NCwt
-MTkxNjM5NzEyMCwtMjAzNTk0MzYzMywxMTYzNzM3NTM3LDEzMz
-ExNjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1
-MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0NSwtMT
-U1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwNDgzNDc4
-M119
+eyJoaXN0b3J5IjpbMTA4ODQ5MTc4Myw1Njc5MzcyLDE2MDczMT
+QxMjMsMTQxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0Miwt
+NjYwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNj
+M3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3
+NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMD
+UzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5
+OF19
 -->
