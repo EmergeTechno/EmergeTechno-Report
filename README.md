@@ -637,7 +637,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 # Capítulo V: Tactical-Level Software Design
 El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se centra en la representación del dominio y la estructuración de objetos en niveles específicos. Estos niveles abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
-### 5.1. Bounded Context: "Bounded Context Name".
+### 5.1. Bounded Context: "IOT DeviceManage".
 
 #### 5.1.1 Domain Layer.
 
@@ -664,11 +664,11 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc0NDU5NzAsMTg0MzE0NDc3NSwzND
-g1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4
-NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LDE4MD
-Q4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5OTA3
-NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4NjY4NjYyMjksMT
-czMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1NDksMTY5Mzc4
-MTk0NV19
+eyJoaXN0b3J5IjpbLTEyNjE5MjgzNiwxODQzMTQ0Nzc1LDM0OD
+U5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0
+NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwND
+gzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2
+LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMTg2Njg2NjIyOSwxNz
+MxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQwNjU0OSwxNjkzNzgx
+OTQ1XX0=
 -->
