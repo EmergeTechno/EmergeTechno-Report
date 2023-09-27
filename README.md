@@ -637,7 +637,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 # Capítulo V: Tactical-Level Software Design
 
-### 5.1. Bounded Context:.
+### 5.1. Bounded Context: Bounded Context Name.
 
 
 **ANEXO C: Video de exposiciones**
@@ -647,7 +647,7 @@ Diagrama de clases dentro del web services API Aplicationl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjY1NzU0NywxODQzMTQ0Nzc1LDM0OD
+eyJoaXN0b3J5IjpbMTI5Mjk4MzY2OCwxODQzMTQ0Nzc1LDM0OD
 U5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMyNDg0
 NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMTgwND
 gzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5MDc2
