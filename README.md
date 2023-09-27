@@ -1823,7 +1823,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzU1MzQ0NSwtNDQzOTQ1NjQyLC02Nj
+eyJoaXN0b3J5IjpbMTIxNTc0NjQzOCwtNDQzOTQ1NjQyLC02Nj
 A3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2Mzcz
 NzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0NDc3NS
 wzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMz
