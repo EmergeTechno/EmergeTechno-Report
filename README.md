@@ -727,20 +727,20 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| create  | createUserResource | public      | Crea un nuevo objeto                          |
 	| update  | updateUserResource | public      | Actualiza o modifica los valores de un objeto |
 	| delete  | void               | public      | Elimina un objeto                             |
-## **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+## **5.1.6. Bounded Context Software Architecture Component Level Diagrams**
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_user.PNG?raw=true)
 
-## **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+## **5.1.7 Bounded Context Software Architecture Code Level Diagrams**
 
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código			
 
-## **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+## **5.1.7.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama de clases user](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
 
-## **4.2.1.6.2 Bounded Context Database Diagrams**
+## **5.1.7.2 Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Diagrama de base de datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
@@ -884,11 +884,11 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc4MDUxOTYsMTMzMTE2MzExMCwtOT
-M5MDIyMDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0
-NDksLTc3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LD
-c4NjE3MDkxNywxNzMyNTY5OCwxODA0ODM0NzgzLDc2MDg1ODk4
-MiwxMjg0Njk5NTAzLDE3MTE2OTkwNzYsMTIwNzc5NjkyMCwxMT
-g4ODQ3NzY5LC0xODY2ODY2MjI5LDE3MzE1Njk1MzIsOTM2MTUy
-MTA1XX0=
+eyJoaXN0b3J5IjpbLTY5MDE1NzI2NCwxMzMxMTYzMTEwLC05Mz
+kwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0
+OSwtNzc2Mjg2OTg2LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNz
+g2MTcwOTE3LDE3MzI1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgy
+LDEyODQ2OTk1MDMsMTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExOD
+g4NDc3NjksLTE4NjY4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIx
+MDVdfQ==
 -->
