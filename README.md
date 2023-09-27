@@ -766,8 +766,8 @@ Un diagrama de implementación de la arquitectura de software detalla cómo un s
 # Capítulo V: Tactical-Level Software Design
 El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se centra en la representación del dominio y la estructuración de objetos en niveles específicos. Estos niveles abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
 ### 
-### 5.1. Bounded Context: User Acount Manager
-#### 5.1.1.Domain Layer.
+## 5.1. Bounded Context: User Acount Manager
+### 5.1.1.Domain Layer.
 - Nombre: User
 - Categoria: Entity
 - Propósito: Almacenar datos de nuestros usuarios
@@ -784,7 +784,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| getFullName  | string       | public      | Obtieel nombre completo del usuario        |
 	| validPassword| bool  | public      | Valida la contraseña del usuario   |                
 
-#### 5.1.2 Interface layer
+### 5.1.2 Interface layer
 - Nombre: Users.controller
 - Categorìa: Controller
 - Propòsito: Controlar registro de usuarios
@@ -795,7 +795,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
 	| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
 	| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
-#### 5.1.3 Application Layer
+### 5.1.3 Application Layer
 - Nombre: CreateUser.handler
 - Categorìa: Handler
 - Propòsito: Handler para registrar un usuario
@@ -843,7 +843,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	|----------|--------------|-------------|-----------------------------------|
 	| DeleteUser.command | void         | public      | Constructor          	|
 			
-## **5.1.4 Infrastructure Layer**
+### **5.1.4 Infrastructure Layer**
 - Nombre: UserRepository
 - Categorìa: Repository
 - Propòsito: Obtener datos del usuario
@@ -855,26 +855,26 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| create  | createUserResource | public      | Crea un nuevo objeto                          |
 	| update  | updateUserResource | public      | Actualiza o modifica los valores de un objeto |
 	| delete  | void               | public      | Elimina un objeto                             |
-## **5.1.5. Bounded Context Software Architecture Component Level Diagrams**
+### **5.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_user.PNG?raw=true)
 
-## **5.1.6 Bounded Context Software Architecture Code Level Diagrams**
+### **5.1.6 Bounded Context Software Architecture Code Level Diagrams**
 
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código			
 
-## **5.1.6.1 Bounded Context Domain Layer Class Diagrams**
+#### **5.1.6.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama de clases user](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
 
-## **5.1.6.2 Bounded Context Database Diagrams**
+#### **5.1.6.2 Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Diagrama de base de datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
 
 ## **5.2. Bounded Context: Suscriptions and Payments**
-## **5.2.1 Domain Layer.** 
+### **5.2.1 Domain Layer.** 
 - Nombre: Suscription
 - Categoria: Entity
 - Propósito: Almacenar datos de las suscripciones de los usuarios
@@ -1816,7 +1816,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjAxMzIwMywtMTkxNjM5NzEyMCwtMj
+eyJoaXN0b3J5IjpbLTEyMjY0Njk1MSwtMTkxNjM5NzEyMCwtMj
 AzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAy
 MjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5LC
 03NzYyODY5ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3ODYx
