@@ -1803,6 +1803,8 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 #### Mobile Application Mockups
 ![30.png (781×747) (postimg.cc)](https://i.postimg.cc/FH4hcyTG/30.png)
 ![31.png (1137×722) (postimg.cc)](https://i.postimg.cc/T1gZYSvx/31.png)
+![32.png (1252×630) (postimg.cc)](https://i.postimg.cc/sg60yyGS/32.png)
+![33.png (1186×688) (postimg.cc)](https://i.postimg.cc/TYkc502v/33.png)
 
  ### 6.4.4. Applications User Flow Diagrams
   
@@ -1844,11 +1846,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTQ4ODEwNCwtNDA3NDE2ODkyLC0xMj
-A3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3OTM3Miwx
-NjA3MzE0MTIzLDE0MTg4Mzc4MSwxNTIyMzk1MDc2LC00NDM5ND
-U2NDIsLTY2MDc2OTE0NCwtMTkxNjM5NzEyMCwtMjAzNTk0MzYz
-MywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAyMjA1MywxOD
-QzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMT
+IwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIs
+MTYwNzMxNDEyMywxNDE4ODM3ODEsMTUyMjM5NTA3NiwtNDQzOT
+Q1NjQyLC02NjA3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2
+MzMsMTE2MzczNzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMT
+g0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2
+OTg2XX0=
 -->
