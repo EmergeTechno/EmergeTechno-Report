@@ -1777,6 +1777,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
  ## 6.4. Applications UX/UI Design.
 
  ### 6.4.1. Applications Wireframes.
+ 
 #### Web Application Wireframes
 
 ####  Mobile Application Wireframes
@@ -1854,11 +1855,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMT
-Y1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5
-MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4OD
-M3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1NjQyLC02NjA3NjkxNDQs
-LTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2MzczNzUzNywxMz
-MxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkx
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDY1NzgyODAsNjQ2OTM3MzU0LC04Nj
+M3MjIzMTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIy
+MTY1OCw4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNz
+MxNDEyMywxNDE4ODM3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1NjQy
+LC02NjA3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMT
+E2MzczNzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0
+NDc3NV19
 -->
