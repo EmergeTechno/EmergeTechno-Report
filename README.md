@@ -30,9 +30,9 @@ Ciclo: 2023-2
 ## Registro de Versiones del Informe
 | Versión | Fecha | Autor | Descripción de la Modificación| 
 | ---------- | ---------- | ----------| ----| 
-| 1.0| 31/08/2023 |Enrique Postigo| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
+| 1.0| 31/08/2023 |o| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
 | 1.1| 03/09/2023 |Diego Talledo| Se completaron los capítulos 1, 2 y 3
-| 1.2| 05/09/2023|Bruno Palomino| Se completo el capítulo 4
+| 1.2| 05/09/2023|Bruno PalominEnrique Postigo| Se completo el capítulo 4
 | 1.3| 07/09/2023|Rafael semanez| Se paso el trabajo a GitHub
 
 ## Project Report Collaboration Insights
@@ -1774,11 +1774,12 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![17.png (907×426) (ibb.co)](https://i.ibb.co/ZS0rhnT/17.png)
 
- 6.4. Applications UX/UI Design.
+ ## 6.4. Applications UX/UI Design.
 
- 6.4.1. Applications Wireframes.
-	-####  Web Application Wireframes
-#### Mobile A
+ ### 6.4.1. Applications Wireframes.
+####  Web Application Wireframes
+
+#### Mobile Application Wireframes
 
 ### 6.4.2. Applications Wireflow Diagrams.
  6.4.3. Applications Mock-ups.
@@ -1822,11 +1823,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MDk1OTIzLC00NDM5NDU2NDIsLTY2MD
-c2OTE0NCwtMTkxNjM5NzEyMCwtMjAzNTk0MzYzMywxMTYzNzM3
-NTM3LDEzMzExNjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0Nzc1LD
-M0ODU5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5ODYsMjA1MzMy
-NDg0NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMTczMjU2OTgsMT
-gwNDgzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUwMywxNzExNjk5
-MDc2XX0=
+eyJoaXN0b3J5IjpbLTU4MzU1MzQ0NSwtNDQzOTQ1NjQyLC02Nj
+A3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2Mzcz
+NzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0NDc3NS
+wzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2LDIwNTMz
+MjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3MzI1Njk4LD
+E4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMsMTcxMTY5
+OTA3Nl19
 -->
