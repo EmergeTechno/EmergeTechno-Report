@@ -1809,6 +1809,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ![35.png (991×737) (postimg.cc)](https://i.postimg.cc/Lsm6dtfh/35.png)
 ![36.png (1062×718) (postimg.cc)](https://i.postimg.cc/FscLNxfx/36.png)
 ![37.png (1043×740) (postimg.cc)](https://i.postimg.cc/7ZHYd1Sh/37.png)
+![38.png (1071×763) (postimg.cc)](https://i.postimg.cc/8PD1fdK4/38.png)
 
  ### 6.4.4. Applications User Flow Diagrams
   
@@ -1850,11 +1851,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODE2NzEzMywtMTExNjUwNTY5MSwtND
-A3NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTcz
-NTcsNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4Mzc4MSwxNTIyMz
-k1MDc2LC00NDM5NDU2NDIsLTY2MDc2OTE0NCwtMTkxNjM5NzEy
-MCwtMjAzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLT
-kzOTAyMjA1MywxODQzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3
-NDQ5XX0=
+eyJoaXN0b3J5IjpbLTEyNzU5MDMzNTksLTExMTY1MDU2OTEsLT
+QwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3
+MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEsMTUyMj
+M5NTA3NiwtNDQzOTQ1NjQyLC02NjA3NjkxNDQsLTE5MTYzOTcx
+MjAsLTIwMzU5NDM2MzMsMTE2MzczNzUzNywxMzMxMTYzMTEwLC
+05MzkwMjIwNTMsMTg0MzE0NDc3NSwzNDg1OTkxNTMsMTEyNzIx
+NzQ0OV19
 -->
