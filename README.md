@@ -996,19 +996,19 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| create  | createSuscriptionResource | public      | Crea ususcripción                          |
 	| update  | updateSuscriptionResource | public      | Actualiza una suscripción |
 	| delete  | void               | public      | Elimina una suscripción                          |
-## **5.2.6 . Bounded Context Software Architecture Component Level Diagrams**
+## **5.2.5 . Bounded Context Software Architecture Component Level Diagrams**
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_suscription.PNG?raw=true)
-## **5.2.7 Bounded Context Software Architecture Code Level Diagrams**
+## **5.2.6 Bounded Context Software Architecture Code Level Diagrams**
 
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código		
 
-## **5.2.7.1 Bounded Context Domain Layer Class Diagrams**
+## **5.2.6.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama clases User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_suscription.PNG?raw=true)
 
-## **5.2.7.2 Bounded Context Database Diagrams**
+## **5.2.6.2 Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![Database diagram](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_suscription.PNG?raw=true)
@@ -1125,20 +1125,20 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	|update|void|public|Modifica un perfil|
 	|delete|void|public|Elimina un perfil|
 		
-## **5.3.6. Bounded Context Software Architecture Component Level Diagrams**
+## **5.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes ](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_profile.PNG?raw=true)
 
-## **5.3.7. Bounded Context Software Architecture Code Level Diagrams**
+## **5.3.6. Bounded Context Software Architecture Code Level Diagrams**
 
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
 
-## **5.3.7.1. Bounded Context Domain Layer Class Diagrams**
+## **5.3.6.1. Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
 ![Diagrama clases PLantas](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_profile.PNG?raw=true)
 
-## **5.3.7.1. Bounded Context Database Diagrams**
+## **5.3.6.2. Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
 ![DC profile](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_profile.PNG?raw=true)
@@ -1816,7 +1816,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIwNjEwLC0xOTE2Mzk3MTIwLC0yMD
+eyJoaXN0b3J5IjpbNzE4Njk3NzU5LC0xOTE2Mzk3MTIwLC0yMD
 M1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIy
 MDUzLDE4NDMxNDQ3NzUsMzQ4NTk5MTUzLDExMjcyMTc0NDksLT
 c3NjI4Njk4NiwyMDUzMzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3
