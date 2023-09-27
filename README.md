@@ -393,7 +393,7 @@ es:
 
 **Perfil del Producto**
 
-| Startup | AgriPure | Agri | Farmlogs | Strider |
+| Startup | CropMaster | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Caracteristicas y servicios | - **Búsqueda de terreno**, permite a los usuarios elegir el tipo de planta que desea sembrar, y a partir de ello, dar información de que tipo de tierra se tiene que sembrar, nivel de acidez adecuada (ph), distancia de siembra entre planta y planta, profundidad adecuada. - **Fertilización**, permite a los usuarios tener acceso a recomendación de que y cuanto fertilizante se debe utilizar en las plantas. - **Clima**, permite ver el clima y cuál es la probabilidad de que haya lluvias. De esta manera, no desperdiciar fertilizante en vano. **- Control de cultivo,** ayuda a los agricultores a agendar sus riegos, podas y limpieza de maleza. | - **Control de faenas**, permite a los usuarios llevar el detalle de las faenas. - **Ordenes de aplicación**, permite a los usuarios controlar los costos de sus campos. - **Premium**, los usuarios pueden tener más de 300 hectáreas. - **Cuaderno de campo y notas**, los usuarios pueden planificar su presupuesto y llevar un control detallado para disminuir costos. | -  Historial de lluvias y calor -  Pérdidas y ganancias - Gestor de operaciones con informes sobre actividades - Notificaciones por correo electrónico. | - Strider Protect, permite el control y protección de plagas. - Strider Base, ayuda en la monitorización durante todo el año. - Strider Space, sirve para la detección de áreas críticas con imágenes espaciales. - Strider Tracker, realiza el seguimiento de maquinaria. |
 | Precios y costos | Precio personalizado para cada plan | Precio personalizado para cada servicio | Precio personalizado para cada servicio | Precio personalizado para cada servicio |
@@ -401,7 +401,7 @@ es:
 
 **Analisis SWOT**
 
-| Startup | AgriPure | Agri | Farmlogs | Strider |
+| Startup | CropMaster | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Fortalezas | - Tiene un costo en el mercado mucho más accesible que el de sus competidores - Producto único diferenciador - Interfaz amigable y ágil | - Domina el mercado chileno de apps enfocados a la agricultura. - Cuenta con alto nivel de investigación y desarrollo | - Cuenta con grandes logros y avances en la tecnología hacia la agricultura. - Tiene un costo en el mercado de software accesible | - Domina el mercado estadounidense de apps enfocados a la agricultura. - Tiene un costo en el mercado de software accesible |
 | Debilidades | - Poco tiempo en el mercado - Poco tiempo en el desarrollo, mantenimiento y mejora de tecnologías en la agricultura | Su uso se centraliza generalmente en usuarios chilenos | - Poco desarrollo en sus modelos de marketing - Su uso se centraliza en usuarios estadounidenses y noruegos | - Pocas actualizaciones en la interfaz de usuario - Poca expansión hacia otros países |
@@ -592,17 +592,17 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 ### 3.1 To-Be Scenario Mapping
 ***Segmento 1: Agricultores***
 
-| Steps | Busca informacion sobre agricultura | Ingresa a la app de AgriPure | Se reigstra en AgriPure | Obtiene la informacion deseada | 
+| Steps | Busca informacion sobre agricultura | Ingresa a la app de CropMaster | Se reigstra en CropMaster | Obtiene la informacion deseada | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | Investiga sobre superficies y cultivos e ingresa desde anuncios publicitarios | La informacion se adecua a sus necesidades | Se suscribe a AgriPure para mejorar en su cultivo | Mejorar el cuidado de su cultivo |
+| Doing | Investiga sobre superficies y cultivos e ingresa desde anuncios publicitarios | La informacion se adecua a sus necesidades | Se suscribe a CropMaster para mejorar en su cultivo | Mejorar el cuidado de su cultivo |
 | Thinking | Donde puedo dejar crecer mis cultivos? | Funcionara lo que encontre en internet? | Valdra la pena pagar por ese servicio? | Como puedo seguir aprendiendo en esta app? | 
 | Feeling | Concentrado | Seguro | Satisfecho | Motivado | 
 
 ***Segmento 2: Especialistas***
 
-| Steps | Descubrimiento e interes | Descubrimiento de AgriPure | Adopcion y uso inicial | Integracion continua | 
+| Steps | Descubrimiento e interes | Descubrimiento de CropMaster | Adopcion y uso inicial | Integracion continua | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista ve que en AgriPure puede ofrecerse para ayudar a otros | El especialista agrega sus datos y se postula como especialista de la aplicacion | El especialista es contactado multiples veces por los usuarios de AgriPure|
+| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista ve que en CropMaster puede ofrecerse para ayudar a otros | El especialista agrega sus datos y se postula como especialista de la aplicacion | El especialista es contactado multiples veces por los usuarios de CropMaster|
 | Thinking | Como sere capaz de apoyar a otros agricultores? | Sera esta mi oportunidad? | Espero que alguien me contacte | Me encanta este servicio, y mucho mas el hecho de ayudar a los demas. | 
 | Feeling | Curiosidad | Emocion y Anticipacion | Entusiasmo | Satisfaccion | 
 ### 3.2 User Stories
@@ -669,7 +669,7 @@ Para los especialistas, consideramos de como es que ellos tienen ganas de mostra
 | 13   | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | 5   |
 | 14   | US017   | Aceptar mensajes de otros agricultores   | Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   |  5  |
 | 15   | US018   | Usar la camara para registrar cultivos   | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil   |  5  |
-| 16   | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure   | 8   |
+| 16   | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece CropMaster   | 8   |
 | 17   | US020   | Mejorar su Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades   | 5   |
 | 18   | US021   | Coordinar fechas con especialista   | Como usuario de la aplicacion, me gustaria coordinar una fecha unica con el especialista para que pueda apoyarme por llamada o presencialmente   | 8   |
 | 19   | US022   | Establecer horarios de disponibilidad   | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad  | 8   |
@@ -857,7 +857,7 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 	| delete  | void               | public      | Elimina un objeto                             |
 ### **5.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
-El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_user.PNG?raw=true)
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_user.PNG?raw=true)
 
 ### **5.1.6 Bounded Context Software Architecture Code Level Diagrams**
 
@@ -866,12 +866,12 @@ Los diagramas de nivel de código en la arquitectura de software son una herrami
 #### **5.1.6.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama de clases user](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
+![Diagrama de clases user](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_user.PNG?raw=true)
 
 #### **5.1.6.2 Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
-![Diagrama de base de datos](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
+![Diagrama de base de datos](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_user.PNG?raw=true)
 
 ## **5.2. Bounded Context: Suscriptions and Payments**
 ### **5.2.1 Domain Layer.** 
@@ -998,7 +998,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 	| delete  | void               | public      | Elimina una suscripción                          |
 ### **5.2.5 . Bounded Context Software Architecture Component Level Diagrams**
 
-El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_suscription.PNG?raw=true)
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_suscription.PNG?raw=true)
 ### **5.2.6 Bounded Context Software Architecture Code Level Diagrams**
 
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código		
@@ -1006,12 +1006,12 @@ Los diagramas de nivel de código en la arquitectura de software son una herrami
 #### **5.2.6.1 Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama clases User](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_suscription.PNG?raw=true)
+![Diagrama clases User](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_suscription.PNG?raw=true)
 
 #### **5.2.6.2 Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
-![Database diagram](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_suscription.PNG?raw=true)
+![Database diagram](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_suscription.PNG?raw=true)
 ## **5.3. Bounded Context: Profile Management**
 ### **5.3.1. Domain Layer.** 
 - Nombre: Profile
@@ -1127,7 +1127,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 		
 ### **5.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
-El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes ](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_profile.PNG?raw=true)
+El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes ](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_component_profile.PNG?raw=true)
 
 ### **5.3.6. Bounded Context Software Architecture Code Level Diagrams**
 
@@ -1136,12 +1136,12 @@ Los diagramas de nivel de código en la arquitectura de software son una herrami
 #### **5.3.6.1. Bounded Context Domain Layer Class Diagrams**
 
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama clases PLantas](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_profile.PNG?raw=true)
+![Diagrama clases PLantas](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_profile.PNG?raw=true)
 
 #### **5.3.6.2. Bounded Context Database Diagrams**
 
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. 
-![DC profile](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_profile.PNG?raw=true)
+![DC profile](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_profile.PNG?raw=true)
 
 
 ## **5.4. Bounded Context: IoT Asset Management**
@@ -1258,16 +1258,16 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 ### 5.4.5. Bounded Context Software Architecture Component Level Diagrams
 
 El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. 
-![Diagrama de componentes sUSCRIPTION](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_omponent_iotdevice.PNG?raw=true)
+![Diagrama de componentes sUSCRIPTION](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/c4_omponent_iotdevice.PNG?raw=true)
 
 ### 5.4.6  Bounded Context Software Architecture Code Level Diagrams
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
 #### 5.4.6.1 Bounded Context Domain Layer Class Diagrams
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama clases](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_iot.PNG?raw=true)
+![Diagrama clases](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_iot.PNG?raw=true)
 #### 5.4.6.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
-![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
+![BD iot](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
 
 ## **5.5. Bounded Context: Crop Management**
 ### 5.5.1 Domain Layer.** 
@@ -1410,7 +1410,7 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 ![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
 #### 5.5.6.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
-![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
+![BD iot](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
 
 ## **5.6. Bounded Context: Advisory Management**
 ### 5.6.1 Domain Layer.** 
@@ -1505,10 +1505,10 @@ El diagrama de componentes C4 nos permite visualizar como se estructura un siste
 Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
 #### 5.6.6.1 Bounded Context Domain Layer Class Diagrams
 Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
-![Diagrama clases Suscription](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_crop.PNG?raw=true)
+![Diagrama clases Suscription](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/diagram_class_crop.PNG?raw=true)
 #### 5.6.6.2 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
-![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_crop.PNG?raw=true)
+![BD iot](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_crop.PNG?raw=true)
 ## 5.7. Bounded Context: Notification
 #### 5.7.1 Domain Layer.
 - Nombre: Notification
@@ -1599,7 +1599,7 @@ Los diagramas de estratificación de dominio facilitan la representación visual
 ![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
 ##### 5.7.8 Bounded Context Database Diagrams
 Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos.
-![BD iot](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
+![BD iot](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-4/images/bcArchitecture/database_diagram_iot.PNG?raw=true)
 
  # Capítulo VI: Solution UI/UX Design
 
@@ -1615,7 +1615,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
 	**Branding**
 	El siguiente logo combina bien con la propuesta de nuestra aplicación. El logo tiene un parecido a una planta, y los colores son los correctos.
-	![https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/AgripureBrand.jpeg?raw=true)
+	![https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-5/images/CropMasterBrand.jpeg?raw=true](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-5/images/CropMasterBrand.jpeg?raw=true)
 
 	- **Color primario**
   
@@ -1637,7 +1637,7 @@ Un diagrama de base de datos es una representación visual de la estructura de u
 
   - **Navegación:**
 	- Navigation Options: 
-		![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-5/images/NavigationImage.PNG?raw=true)
+		![](https://github.com/DevIOT-CropMaster/Project-Report/blob/feature/capitulo-5/images/NavigationImage.PNG?raw=true)
 
     
   - **Espaciado o Spacing:**
