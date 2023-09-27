@@ -1757,10 +1757,10 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ![15.png (576×713) (ibb.co)](https://i.ibb.co/DCwnSWB/15.png)
 
 		
-![texto](https://media.discordapp.net/attachments/912089666939916348/1156442556452847636/image.png?ex=6514fc8f&is=6513ab0f&hm=2e77e44c1eff37b0905f802ddacf14beb6be7cb945f0c6e924326e657e9417f8&=&width=661&height=669)
+![16.png (583×481) (ibb.co)](https://i.ibb.co/Qj4xV64/16.png)
 
 
-![texto](https://media.discordapp.net/attachments/912089666939916348/1156442606868381696/image.png?ex=6514fc9b&is=6513ab1b&hm=03d9bbdd620c128dc240130afa9489dd0bfd78bd6e3c4855e096e1b130b5a6e6&=&width=903&height=426)
+![17.png (907×426) (ibb.co)](https://i.ibb.co/ZS0rhnT/17.png)
 
 - 6.4. Applications UX/UI Design.
 
@@ -1807,11 +1807,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAwMzIwNjcsLTQ0Mzk0NTY0MiwtNj
-YwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3
-Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3Nz
-UsMzQ4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUz
-MzI0ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OC
-wxODA0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2
-OTkwNzZdfQ==
+eyJoaXN0b3J5IjpbODM2NjY0NzksLTQ0Mzk0NTY0MiwtNjYwNz
+Y5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3Mzc1
+MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3NzUsMz
+Q4NTk5MTUzLDExMjcyMTc0NDksLTc3NjI4Njk4NiwyMDUzMzI0
+ODQ1LC0xNTUxMzE2ODI0LDc4NjE3MDkxNywxNzMyNTY5OCwxOD
+A0ODM0NzgzLDc2MDg1ODk4MiwxMjg0Njk5NTAzLDE3MTE2OTkw
+NzZdfQ==
 -->
