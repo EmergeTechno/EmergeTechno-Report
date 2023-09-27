@@ -767,8 +767,13 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 ### 6.1. Style Guidelines
 #### 6.1.1 General Style Guidelines
-#### 6.1.2 General Style Guidelines
+#### 6.1.2 Web, Mobile & Devices Style Guidelines
 
+### 6.2. Information Architecture
+#### 6.2.1 Labeling Systems
+#### 6.2.2 Searching Systems
+#### 6.2.3 SEO Tags and Meta Tags
+#### 6.2.4 Navigation Systems
 
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/ESSmpjDNBRlDtJYBF3z4dboBsd2J3a1q4ZJZwQ8N5skeLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hIqkK2) | 
@@ -777,11 +782,11 @@ El Tactical-Level Domain-Driven Design es una metodología de diseño de softwar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQwODg5ODMsLTkzOTAyMjA1MywxOD
-QzMTQ0Nzc1LDM0ODU5OTE1MywxMTI3MjE3NDQ5LC03NzYyODY5
-ODYsMjA1MzMyNDg0NSwtMTU1MTMxNjgyNCw3ODYxNzA5MTcsMT
-czMjU2OTgsMTgwNDgzNDc4Myw3NjA4NTg5ODIsMTI4NDY5OTUw
-MywxNzExNjk5MDc2LDEyMDc3OTY5MjAsMTE4ODg0Nzc2OSwtMT
-g2Njg2NjIyOSwxNzMxNTY5NTMyLDkzNjE1MjEwNSwtMTk5MzQw
-NjU0OV19
+eyJoaXN0b3J5IjpbOTU2NDYzNzEzLC05MzkwMjIwNTMsMTg0Mz
+E0NDc3NSwzNDg1OTkxNTMsMTEyNzIxNzQ0OSwtNzc2Mjg2OTg2
+LDIwNTMzMjQ4NDUsLTE1NTEzMTY4MjQsNzg2MTcwOTE3LDE3Mz
+I1Njk4LDE4MDQ4MzQ3ODMsNzYwODU4OTgyLDEyODQ2OTk1MDMs
+MTcxMTY5OTA3NiwxMjA3Nzk2OTIwLDExODg4NDc3NjksLTE4Nj
+Y4NjYyMjksMTczMTU2OTUzMiw5MzYxNTIxMDUsLTE5OTM0MDY1
+NDldfQ==
 -->
