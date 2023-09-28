@@ -1817,6 +1817,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![59.png (688×468) (postimg.cc)](https://i.postimg.cc/ZnNLdBHt/59.png)
 
+![63.png (975×678) (postimg.cc)](https://i.postimg.cc/xCD8dXXb/63.png)
+
+![64.png (987×651) (postimg.cc)](https://i.postimg.cc/Tw626BsV/64.png)
+
+
 -US02 Cerrar sesión de usuario
 ![60.png (1070×566) (postimg.cc)](https://i.postimg.cc/43KHyCwj/60.png)
 -US04 Selección de planta a sembrar
@@ -1903,7 +1908,7 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MjI4OTM1LDE5MDc3NTg5NzYsLTE1MT
+eyJoaXN0b3J5IjpbODI4OTU4NjI4LDE5MDc3NTg5NzYsLTE1MT
 E4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2
 OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNj
 A4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEs
