@@ -1802,6 +1802,8 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![54.png (648×461) (postimg.cc)](https://i.postimg.cc/fy92Zg0N/54.png)
 
+![57.png (1112×460) (postimg.cc)](https://i.postimg.cc/9FPbp9dJ/57.png)
+
 
 
 ![56.png (928×510) (postimg.cc)](https://i.postimg.cc/3wfnGHXh/56.png)
@@ -1810,6 +1812,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 ###  6.4.2. Applications Wireflow Diagrams
+
 
  ### 6.4.3. Applications Mock-ups.
  #### Web Application Mockups
@@ -1882,11 +1885,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NjkxMjMyLDY0NjkzNzM1NCwtODYzNz
-IyMzEyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2
-NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMT
-QxMjMsMTQxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0Miwt
-NjYwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNj
-M3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04Nj
+M3MjIzMTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIy
+MTY1OCw4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNz
+MxNDEyMywxNDE4ODM3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1NjQy
+LC02NjA3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMT
+E2MzczNzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0
+NDc3NV19
 -->
