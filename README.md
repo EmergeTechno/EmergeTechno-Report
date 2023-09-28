@@ -1812,6 +1812,13 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 ###  6.4.2. Applications Wireflow Diagrams
+-US01 Registro de usuario
+![58.png (513×540) (postimg.cc)](https://i.postimg.cc/0QrcXqbG/58.png)
+
+![59.png (688×468) (postimg.cc)](https://i.postimg.cc/ZnNLdBHt/59.png)
+
+-US02 Cerrar sesión de usuario
+-US4 Selección de planta a sembrar
 
 
  ### 6.4.3. Applications Mock-ups.
@@ -1887,11 +1894,11 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2ND
-Y5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2
-ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcsNT
-Y3OTM3MiwxNjA3MzE0MTIzLDE0MTg4Mzc4MSwxNTIyMzk1MDc2
-LC00NDM5NDU2NDIsLTY2MDc2OTE0NCwtMTkxNjM5NzEyMCwtMj
-AzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAy
-MjA1M119
+eyJoaXN0b3J5IjpbMTM1Nzg1MDQyNCwxOTA3NzU4OTc2LC0xNT
+ExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1
+NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLD
+YwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgzNzgx
+LDE1MjIzOTUwNzYsLTQ0Mzk0NTY0MiwtNjYwNzY5MTQ0LC0xOT
+E2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2
+MzExMF19
 -->
