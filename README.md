@@ -164,7 +164,7 @@ En el siguiente recuadro describiremos todas las acciones realizadas, criterios 
 
 | Criterio especfico |Acciones realizadas | Conclusiones |
 |  ----------  |  ----------  |  ----------  | 
-| Comunica oralmente con efectividad a diferentes rangos de audiencia| **Enrique Postigo (TB1):** Después de avanzar en la entrega de la TB1, se estableció una comunicación efectiva a través de reuniones grupales y presentaciones, lo que facilitó la compartición e intercambio de ideas entre los diferentes compañeros. **Bruno Palomino (TB1):** Después de llevar a cabo la exposición para esta entrega TB1, logramos una comunicación efectiva para transmitir las ideas sobre el proyecto tanto al profesor como a nuestros compañeros. **Diego Talledo (TB1):** En nuestra primera entrega, realizamos las distribuciones y planificaciones de las sesiones en las trabajamos en equipo principalmente en el eventStorming. **Rafael Samanez(TB1):** Definimos el alcance del proyecto, la tecnología ,y como esta beneficia a la empresa monetariamente proponiendo ideas innovadoras para el mercado de la agricultura.| En esta entrega de la TB1, se elaboraron los capítulos 1, 2, 3 y 4, que incluyeron el análisis de los requisitos de nuestro público objetivo. A través de este proceso, se fueron planteando las historias de usuario relacionadas con estos requisitos y se organizaron en un backlog, ordenándolas de menor a mayor importancia y un avance de como seria la arquitectura del proyecto. Al final, logramos comunicar de manera oral eficaz tanto al profesor como a nuestros compañeros. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia| **Enrique Postigo (TB1):** Después de avanzar en la entrega de la TB1, se estableció una comunicación efectiva a través de reuniones grupales y presentaciones, lo que facilitó la compartición e intercambio de ideas entre los diferentes compañeros. **Bruno Palomino (TB1):** Después de llevar a cabo la exposición para esta entrega TB1, logramos una comunicación efectiva para transmitir las ideas sobre el proyecto tanto al profesor como a nuestros compañeros. **Diego Talledo (TB1):** En nuestra primera entrega, realizamos las distribuciones y planificaciones de las sesiones en las trabajamos en equipo principalmente en el eventStorming. **Rafael Samanez(TB1):** Definimos el alcance del proyecto, la tecnología ,y como esta beneficia a la empresa monetariamente proponiendo ideas innovadoras para el mercado de la agricultura.| En esta entrega de la TB1, se elaboraron los capítulos 1, 2, 3 y 4, que incluyeron el análisis de los requisitos de nuestro público objetivo. A través de este proceso, se fueron planteando las historias de usuario relacionadas con estos requisitos y se organizaron en un backlog, ordenándolas de menor a mayor importancia y un avance de como seria la arquitectura del proyecto. Al final, logramos comunicar de manera oral eficaz tanto al profesor como a nuestros compañeros.**Enrique(TP1):** |
 |Comunica por escrito con efectividad a diferentes rangos de audiencia | **Enrique Postigo(TB1):** En esta entrega de la TB1, se empleó una comunicación escrita eficaz con el profesor a través del desarrollo del informe o documento.**Bruno Palomino(TB1):** Se han creado los artefactos asignados para esta entrega de acuerdo a lo acordado en las reuniones y siguiendo una comunicación escrita efectiva.**Diego Talledo (TB1):** Al realizar las entrevistas logramos identificar a nuestros usuarios, analizar sus requerimientos y sus espectativas. **Rafael Samanez(TB1):** De acuerdo a las reuniones hemos analizado las necesidades mediante las entrevistas e historias de usuarios y se han determinado la tecnología a implementar para resolver el problema de la agricultura en Lima, | Para la entrega de la TB1, se elaboró un informe que incluyó todos los requisitos recopilados de los usuarios, lo que proporciona al equipo una abundante información sobre ellos. Esto nos permite utilizar diversas herramientas para organizar esta información. En consecuencia, el informe desarrollado proporciona una comunicación escrita efectiva para el docente. 
 |
 
@@ -1916,11 +1916,11 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTg1ODg0NSwxOTA3NzU4OTc2LC0xNT
-ExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1
-NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLD
-YwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgzNzgx
-LDE1MjIzOTUwNzYsLTQ0Mzk0NTY0MiwtNjYwNzY5MTQ0LC0xOT
-E2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2
-MzExMF19
+eyJoaXN0b3J5IjpbLTgzOTExOTc2LDE5MDc3NTg5NzYsLTE1MT
+E4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2
+OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNj
+A4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEs
+MTUyMjM5NTA3NiwtNDQzOTQ1NjQyLC02NjA3NjkxNDQsLTE5MT
+YzOTcxMjAsLTIwMzU5NDM2MzMsMTE2MzczNzUzNywxMzMxMTYz
+MTEwXX0=
 -->
