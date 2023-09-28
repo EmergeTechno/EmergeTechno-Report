@@ -1802,6 +1802,13 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![54.png (648×461) (postimg.cc)](https://i.postimg.cc/fy92Zg0N/54.png)
 
+
+
+![56.png (928×510) (postimg.cc)](https://i.postimg.cc/3wfnGHXh/56.png)
+
+![55.png (1166×563) (postimg.cc)](https://i.postimg.cc/htrCSmhf/55.png)
+
+
 ###  6.4.2. Applications Wireflow Diagrams
 
  ### 6.4.3. Applications Mock-ups.
@@ -1875,7 +1882,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTMzNjg5LDY0NjkzNzM1NCwtODYzNz
+eyJoaXN0b3J5IjpbNTU5NjkxMjMyLDY0NjkzNzM1NCwtODYzNz
 IyMzEyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2
 NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMT
 QxMjMsMTQxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0Miwt
