@@ -1782,6 +1782,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![43.png (1172×358) (postimg.cc)](https://i.postimg.cc/wv2hgRJh/43.png)
 ![45.png (942×615) (postimg.cc)](https://i.postimg.cc/L8TZw67k/45.png)
+![46.png (927×602) (postimg.cc)](https://i.postimg.cc/150gV39x/46.png)
 
 ![44.png (1027×651) (postimg.cc)](https://i.postimg.cc/hG2PbXYw/44.png)
 ####  Mobile Application Wireframes
@@ -1859,7 +1860,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDMwODAzNiw2NDY5MzczNTQsLTg2Mz
+eyJoaXN0b3J5IjpbLTMzMDczMjQ1NCw2NDY5MzczNTQsLTg2Mz
 cyMjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIx
 NjU4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3Mz
 E0MTIzLDE0MTg4Mzc4MSwxNTIyMzk1MDc2LC00NDM5NDU2NDIs
