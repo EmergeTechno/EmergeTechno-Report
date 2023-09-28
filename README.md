@@ -1875,7 +1875,9 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
   | User Flow | ![texto](https://media.discordapp.net/attachments/1063259243727306824/1155583194188480554/image.png) |    
 
 ##- 6.5. Applications Prototyping.
-	Enlace: https://www.figma.com/proto/Mhmi5BLMyg93FsEgdl1Cwx/Mobile-App?type=design&node-id=95-4&t=8icZvZMkEscT3mrz-1&scaling=scale-down&page-id=95%3A3&starting-point-node-id=95%3A4&show-proto-sidebar=1&mode=design 
+	Enlace: https://www.figma.com/proto/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&node-id=57-113&t=fu5VUsA4i4QADmyu-0&scaling=min-zoom&page-id=57%3A113&starting-point-node-id=67%3A171
+
+Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&node-id=57%3A113&mode=design&t=fu5VUsA4i4QADmyu-1 
 
 
 **ANEXO C: Video de exposiciones**
@@ -1885,11 +1887,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04Nj
-M3MjIzMTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIy
-MTY1OCw4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNz
-MxNDEyMywxNDE4ODM3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1NjQy
-LC02NjA3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMT
-E2MzczNzUzNywxMzMxMTYzMTEwLC05MzkwMjIwNTMsMTg0MzE0
-NDc3NV19
+eyJoaXN0b3J5IjpbMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2ND
+Y5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2
+ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcsNT
+Y3OTM3MiwxNjA3MzE0MTIzLDE0MTg4Mzc4MSwxNTIyMzk1MDc2
+LC00NDM5NDU2NDIsLTY2MDc2OTE0NCwtMTkxNjM5NzEyMCwtMj
+AzNTk0MzYzMywxMTYzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAy
+MjA1M119
 -->
