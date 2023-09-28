@@ -32,8 +32,10 @@ Ciclo: 2023-2
 | ---------- | ---------- | ----------| ----| 
 | 1.0| 31/08/2023 |o| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
 | 1.1| 03/09/2023 |Diego Talledo| Se completaron los capítulos 1, 2 y 3
-| 1.2| 05/09/2023|Bruno PalominEnrique Postigo| Se completo el capítulo 4
+| 1.2| 05/09/2023|Bruno Palomino Enrique Postigo| Se completo el capítulo 4
 | 1.3| 07/09/2023|Rafael semanez| Se paso el trabajo a GitHub
+| 2.0| 23/09/2023|Rafael semanez Enrique Postigo| Se completo el capítulo 5|
+| 2.1| 23/09/2023|Diego Talledo Bruno Palomino| Se completo el capítulo 6|
 
 ## Project Report Collaboration Insights
 
@@ -1916,11 +1918,11 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk3MTk4MTksMTAwMDgyMDIxMiwxOT
-A3NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIy
-MzEyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NT
-gsODA4ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQx
-MjMsMTQxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0MiwtNj
-YwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3
-Mzc1MzddfQ==
+eyJoaXN0b3J5IjpbMTMyNzU4Njg3OCwxMDAwODIwMjEyLDE5MD
+c3NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIz
+MTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OC
+w4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEy
+MywxNDE4ODM3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1NjQyLC02Nj
+A3NjkxNDQsLTE5MTYzOTcxMjAsLTIwMzU5NDM2MzMsMTE2Mzcz
+NzUzN119
 -->
