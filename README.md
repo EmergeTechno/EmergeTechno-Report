@@ -30,9 +30,9 @@ Ciclo: 2023-2
 ## Registro de Versiones del Informe
 | Versión | Fecha | Autor | Descripción de la Modificación| 
 | ---------- | ---------- | ----------| ----| 
-| 1.0| 31/08/2023 |o| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
+| 1.0| 31/08/2023 |Enrique Postigo| Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable.
 | 1.1| 03/09/2023 |Diego Talledo| Se completaron los capítulos 1, 2 y 3
-| 1.2| 05/09/2023|Bruno Palomino Enrique Postigo| Se completo el capítulo 4
+| 1.2| 05/09/2023|Bruno Palomino | Se completo el capítulo 4
 | 1.3| 07/09/2023|Rafael semanez| Se paso el trabajo a GitHub
 | 2.0| 23/09/2023|Rafael semanez Enrique Postigo| Se completo el capítulo 5|
 | 2.1| 26/09/2023|Diego Talledo Bruno Palomino| Se completo el capítulo 6|
