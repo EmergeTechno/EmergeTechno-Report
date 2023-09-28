@@ -1818,7 +1818,14 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 ![59.png (688×468) (postimg.cc)](https://i.postimg.cc/ZnNLdBHt/59.png)
 
 -US02 Cerrar sesión de usuario
--US4 Selección de planta a sembrar
+
+-US04 Selección de planta a sembrar
+-US05 Guía de elección de tierra de sembrado
+-US06 Distancia de siembra entre las plantas
+-US07 Distancia de profundidad de siembra
+-US08 Y US09 Fechas de fertilización   Fechas de fumigación
+-US10 Contacto a Especialista
+
 
 
  ### 6.4.3. Applications Mock-ups.
@@ -1894,7 +1901,7 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Nzg1MDQyNCwxOTA3NzU4OTc2LC0xNT
+eyJoaXN0b3J5IjpbLTQyMzI5MDg4OSwxOTA3NzU4OTc2LC0xNT
 ExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1
 NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLD
 YwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgzNzgx
