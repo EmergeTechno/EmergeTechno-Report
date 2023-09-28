@@ -1798,6 +1798,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![44.png (1027×651) (postimg.cc)](https://i.postimg.cc/hG2PbXYw/44.png)
 ####  Mobile Application Wireframes
+![53.png (433×443) (postimg.cc)](https://i.postimg.cc/HL6Xcs9W/53.png)
 
 ###  6.4.2. Applications Wireflow Diagrams
 
@@ -1872,11 +1873,11 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NDM1MTU0LDY0NjkzNzM1NCwtODYzNz
-IyMzEyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2
-NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMT
-QxMjMsMTQxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0Miwt
-NjYwNzY5MTQ0LC0xOTE2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNj
-M3Mzc1MzcsMTMzMTE2MzExMCwtOTM5MDIyMDUzLDE4NDMxNDQ3
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTk4NTE1Niw2NDY5MzczNTQsLTg2Mz
+cyMjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIx
+NjU4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3Mz
+E0MTIzLDE0MTg4Mzc4MSwxNTIyMzk1MDc2LC00NDM5NDU2NDIs
+LTY2MDc2OTE0NCwtMTkxNjM5NzEyMCwtMjAzNTk0MzYzMywxMT
+YzNzM3NTM3LDEzMzExNjMxMTAsLTkzOTAyMjA1MywxODQzMTQ0
+Nzc1XX0=
 -->
