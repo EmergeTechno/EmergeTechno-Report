@@ -1827,10 +1827,15 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 -US04 Selección de planta a sembrar
 ![62.png (997×567) (postimg.cc)](https://i.postimg.cc/BQMjCZVd/62.png)
 -US05 Guía de elección de tierra de sembrado
-
+![65.png (742×527) (postimg.cc)](https://i.postimg.cc/43Cs6rsD/65.png)
 -US06 Distancia de siembra entre las plantas
+![66.png (741×538) (postimg.cc)](https://i.postimg.cc/PxTHcYLK/66.png)
 -US07 Distancia de profundidad de siembra
+![67.png (771×572) (postimg.cc)](https://i.postimg.cc/1R01pG19/67.png)
+
+![68.png (717×613) (postimg.cc)](https://i.postimg.cc/Z5nktXBR/68.png)
 -US08 Y US09 Fechas de fertilización   Fechas de fumigación
+
 -US10 Contacto a Especialista
 
 
@@ -1908,11 +1913,11 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4OTU4NjI4LDE5MDc3NTg5NzYsLTE1MT
-E4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2
-OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNj
-A4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEs
-MTUyMjM5NTA3NiwtNDQzOTQ1NjQyLC02NjA3NjkxNDQsLTE5MT
-YzOTcxMjAsLTIwMzU5NDM2MzMsMTE2MzczNzUzNywxMzMxMTYz
-MTEwXX0=
+eyJoaXN0b3J5IjpbMTY0Mzg5MjcwMSwxOTA3NzU4OTc2LC0xNT
+ExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1
+NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLD
+YwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgzNzgx
+LDE1MjIzOTUwNzYsLTQ0Mzk0NTY0MiwtNjYwNzY5MTQ0LC0xOT
+E2Mzk3MTIwLC0yMDM1OTQzNjMzLDExNjM3Mzc1MzcsMTMzMTE2
+MzExMF19
 -->
