@@ -35,7 +35,7 @@ Ciclo: 2023-2
 | 1.2| 05/09/2023|Bruno Palomino Enrique Postigo| Se completo el capítulo 4
 | 1.3| 07/09/2023|Rafael semanez| Se paso el trabajo a GitHub
 | 2.0| 23/09/2023|Rafael semanez Enrique Postigo| Se completo el capítulo 5|
-| 2.1| 23/09/2023|Diego Talledo Bruno Palomino| Se completo el capítulo 6|
+| 2.1| 26/09/2023|Diego Talledo Bruno Palomino| Se completo el capítulo 6|
 
 ## Project Report Collaboration Insights
 
@@ -1918,7 +1918,7 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzU4Njg3OCwxMDAwODIwMjEyLDE5MD
+eyJoaXN0b3J5IjpbMTE3MTQ4NjkxMywxMDAwODIwMjEyLDE5MD
 c3NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIz
 MTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OC
 w4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEy
