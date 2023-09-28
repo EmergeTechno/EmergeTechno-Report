@@ -1835,9 +1835,9 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 ![68.png (717×613) (postimg.cc)](https://i.postimg.cc/Z5nktXBR/68.png)
 -US08 Y US09 Fechas de fertilización   Fechas de fumigación
-
+![71.png (798×568) (postimg.cc)](https://i.postimg.cc/g2Q79jbS/71.png)
 -US10 Contacto a Especialista
-
+![70.png (900×722) (postimg.cc)](https://i.postimg.cc/GhMNQz71/70.png)
 
 
  ### 6.4.3. Applications Mock-ups.
@@ -1913,7 +1913,7 @@ Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mzg5MjcwMSwxOTA3NzU4OTc2LC0xNT
+eyJoaXN0b3J5IjpbMTU1NzEyNzAyMCwxOTA3NzU4OTc2LC0xNT
 ExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1
 NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLD
 YwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgzNzgx
