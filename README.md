@@ -2236,35 +2236,35 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 ## Problema #1
 
-## Severidad:  2
+### Severidad:  2
 
-## Problema:
+###Problema:
 Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
-## Recomendación:
+### Recomendación:
 Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
 ## Problema #2
 
-## Severidad:  3
+### Severidad:  3
 
-## Problema:
+### Problema:
 Notificaciones al gmail, cuando el usuario solicita un especialista, no le llega la notificacion al gmail.
-## Recomendación:
+### Recomendación:
 Asegurarse de implementar adecuadamente la función de notificaciones por gmail y permite que los usuarios configuren sus preferencias de notificación.
 ## Problema #3
 
-## Severidad:  2
+### Severidad:  2
 
-## Problema:
-Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
-## Recomendación:
+### Problema:
+Diseño perfiles, no tiene mucha informaci
+### Recomendación:
 Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
 ## Problema #4
 
-## Severidad:  3
+### Severidad:  3
 
-## Problema:
+### Problema:
 Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
-## Recomendación:
+### Recomendación:
 Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
 ## 6.4 Video About-the-Product
 
@@ -2284,7 +2284,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk1NzMyNTIsLTE0MTAxMTc0MTIsLT
+eyJoaXN0b3J5IjpbLTE0ODQxNDMwMDQsLTE0MTAxMTc0MTIsLT
 g3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3
 MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nz
 g0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2
