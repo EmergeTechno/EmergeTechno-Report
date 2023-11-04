@@ -2193,7 +2193,7 @@ Entrevista 2: Fernando Garay
 Timing: 8 min
 
 Resumen: El entrevistada cuenta que la aplicación le pareció muy útil, como especialista se vio muy intuitiva, además que los colores le parecieron correctos, comentando que le gustaría un color verdoso también; nos aclara que le gustaría que se agreguen más vegetales a la categoría y que puedan llegar notificaciones al correo cuando un farmer quiera solicitarlo, cuando haga alguna tarea de su proyecto o cuando le envia un mensaje.
-
+Link : https://upcedupe-my.sharepoint.com/:v:/g/personal/u201720027_upc_edu_pe/Ea26IRvf69pHjL46lUIgO2UBs42fWnce0TvFrw3KqGUZUA?e=vOPnWI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 ### 6.3.3 Evaluación según heurísticas
 
@@ -2284,11 +2284,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MT
-AxMTc0MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2
-ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC
-0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUx
-MTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNT
-Y5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2
-MDg0NTczNTddfQ==
+eyJoaXN0b3J5IjpbMTk3Mzk4MDg4LDE0NDUyMTU3NywxODU0Mz
+k0MDk0LC0xNDEwMTE3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUx
+NjAsMTM1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNTI5Mzk1MjgsLT
+E2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3
+NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMT
+IsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4
+MDg4Mzg5MzNdfQ==
 -->
