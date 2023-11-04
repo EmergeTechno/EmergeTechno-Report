@@ -2069,7 +2069,7 @@ Vista de buscar especialistas:
 ![7.png (1228×852) (ibb.co)](https://i.ibb.co/5hPbh0f/7.png)
 
 Vista de proyectos asignados a farmer:
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
+![8.png (1706×850) (ibb.co)](https://i.ibb.co/nDy1Xgc/8.png)
 nlace l rontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
 
 **Enlace al video:** ![https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview](https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
@@ -2281,11 +2281,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTU4MjgyOCwxMzU2MzU2ODk2LDMyMz
-Y3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1
-Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMC
-w2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3
-NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNT
-csNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4Mzc4MSwxNTIyMzk1
-MDc2XX0=
+eyJoaXN0b3J5IjpbLTEyODAzOTUxNjAsMTM1NjM1Njg5NiwzMj
+M2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5
+NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MD
+AsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQw
+NzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3Mz
+U3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEsMTUyMjM5
+NTA3Nl19
 -->
