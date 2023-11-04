@@ -1910,7 +1910,332 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&node-id=57%3A113&mode=design&t=fu5VUsA4i4QADmyu-1 
 
+# Capítulo VI: Product implementation, Validation & Deployment
+## 6.1 Software Configuration Management
 
+Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo y colaboración que nos permitirá llevarlo a cabo de mejor manera.
+    
+### 6.1.1 Software Development EnviromentConfiguration
+  En esta sección vamos a definir las líneas base del sistema de la gestión de la configuración. A continuación, se definirán las aplicaciones que serán utilizadas para el desarrollo de nuestro proyecto.
+
+  - **LucidChart:** Aplicación web que se utilizará para creación de diagramas de clases. Podemos accedertravés del siguiente enlace: [https://www.lucidchacom/](https://www.lucidchart.com/)
+  - **Structurizr:** Aplicación web que se utilizará pala creación del diagrama c4. Podemos acceder a travdel siguiente enlace: [https://structurizr.com](https://structurizr.com)
+  - **UXPressia:** Aplicación web que se utilizará pala creación de artefactos Lean UX como User PersonUser Journey Maps, Empathy Maps, Impact Maps. Podemacceder a través de: [https://uxpressia.com/](httpsuxpressia.com)
+  - **Trello:** Aplicación web que se utilizará para seguimiento de las historias de usuario en cada sprinPodemos acceder a través de: [https://trello.com](https://trello.com)
+  - **Figma:** Aplicación web que se utilizará para creación de Wireframes y Mockups. También servirá pala creación de prototipos de nuestra aplicación wresponsive. Podemos acceder a través de: [https://figcom/](https://figma.com)
+  - **Visual Studio Code:** Entorno de desarrollo IDL que utilizaremos para trabajar en nuestro front-end nuestra aplicación web. Podemos descargarlo a travde: [https://code.visualstudio.com/](https://covisualstudio.com)
+  - **Intellij Idea Ultima:** Entorno de desarrol(IDLE) que utilizaremos para trabajar en nuestback-end de nuestra aplicación web. Podemos descargara través de: [https://www.jetbrains.com/idea/downloasection=windows](https://www.jetbrains.com/iddownload/?section=window)
+  - **VueJs:** Framework de javascript que utilizarempara desarrollar nuestro front-end de nuestaplicación web. Requiere instalar previamente NodeJPodemos descargar NodeJs a través de: [https://nodeorg/es/](https://nodejs.org/es/). Luego, podreminstalar VueJs siguiendo las instrucciones instalación dadas en el siguiente enlace: [https://vuejs.org/v2/guide/installation.html](https://es.vueorg/v2/guide/installation.html)
+  - **GitHub:** Aplicación web que utilizaremos para control de versiones de nuestro proyecto. Podemacceder a sus servicios a través de: [https://githcom/](https://github.com)
+  - **Android Studio:** Entorno de desarrollo (IDLE) qutilizaremos para desarrollar nuestra aplicación móviPodemos acceder a través de: [https://developer.androcom/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds](https://developer.android.com/studgclid=CjwKCAjwmbqoBhAgEiwACIjzEALGhH7IKxVPgvmi7rUWtPaD-Bw3QZAltOFF2JEIJvrA-ftw-hRoCfvsQAvD_BwE&gclsrc=aw.ds)
+
+### 6.1.2. Source Code Management
+
+  Como se mencionó anteriormente, se utilizará GitHcomo sistema de control de versiones. Se han crearepositorios dentro de nuestra organización de GitHu
+  - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Page](https://github.com/DevIOT-AgriPuAgriPure-Landing-Page)
+  - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Application)
+  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService)- [Capítulo VI: Product implementation, Validation \& Deployment](#capítulo-vi-product-implementation-validation--deployment)
+  - [6.1 Software Configuration Management](#61-software-configuration-management)
+    - [6.1.1 Software Development EnviromentConfiguration](#611-software-development-enviromentconfiguration)
+    - [6.1.2. Source Code Management](#612-source-code-management)
+    - [6.1.3. Source Code Style Guide \& Conventions](#613-source-code-style-guide--conventions)
+    - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
+ - [6.2 Landing Page, Services \& Applications Implementation.](#62-landing-page-services--applications-implementation)
+	### 6.2.2. Sprint 2
+    
+  Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
+
+#### 6.2.2.1 Sprint Planning 2
+
+- Sprint #: 2
+- Spring Planning Background
+    | Date                            | 23/10/2023                                                   |
+    |---------------------------------|--------------------------------------------------------------|
+    | Time                            | 5pm                                                          |
+    | Location                        | Llamada en discord                                           |
+    | Prepared By                     | Talledo, Diego                                               |
+    | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
+- Sprint Goal & User Stories
+    | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
+    |---------------------------------| ------------------------------------------------------------------------------------------------|
+    | Sprint 2  Velocity               |     42                                                                  |
+    | Sum of story  points             |      42                                                                   |
+#### 6.2.2.2 Sprint Backlog 2
+        
+- Sprint #: 2
+    | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
+	|-------|----------|---------|------------------|-----------------|-------------|--------|
+    |US017|Aceptar mensajes de otros agricultores|ST009|Diseño e implementación del chat|8 horas|Diego|Done|
+	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Franchesco|Done|
+	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Andrés|Done|
+	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas|Bruno|Done|
+	|TS007|Visualización de datos en la interfaz de usuario|ST013|Diseñar e implementar la sección de visualización de datos|8 horas|Frank|Done|
+	|TS008|Notificaciones y alertas|ST014|Diseño e implemetación de las notificaciones|8 horas|Diego|Done|
+
+        
+
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+|------------|--------|-----------|----------------|----------------------|--------------|
+|AgriPure-BackEnd|feat/account|bbc3414b6bb918c0bd1c052c2fb1602ee61b7aa8|feat(account):add jwt||18/10/2023|
+|AgriPure-BackEnd|feat/notifications|32a5848dd4442e2d32b35e475f638caba877fab4|feat(notification): created NotificationRepository||19/10/2023|
+|AgriPure-BackEnd|feat/profile|e0ab1386a6c8eaa83b6528e3958fd806a494e26c|Fixed estructure||19/10/2023|
+|AgriPure-BackEnd|feat/notification|30d795ad5303eb158c143caf21e5ecad4621fa3a|feat(notification): created NotificationCommand||19/10/2023|
+|AgriPure-BackEnd|feat/crop|82fdf3099974b1e410f42ccac996d0af6784c0b7|feat(crop):add crop entity||20/10/2023|
+|AgriPure-BackEnd|feat/crop|4e691868f5bf5dfe60a458a1a45452a82a41e793|feat(crop):add crop services||20/10/2023|
+|AgriPure-BackEnd|feat/profile|b055848cbf4e5ed4bcffe850a36acad8c5f1a31c|Fixed estructure, has errors||23/10/2023|
+|AgriPure-BackEnd|feat/crop|8ed8f883b21d2506f253ea25e7ae2e16c8a80e7b|Add crop controller||23/10/2023|
+|AgriPure-BackEnd|feat/profile|ef7b0a341a15e918e300b8ce1ee0ae2b62dac137|Service Fixed||24/10/2023|
+|AgriPure-BackEnd|feat/notification|86ad4d63db6ce5907b144ed85f07c225c6da2e10|feat(notification): add queries methods||27/10/2023|
+|AgriPure-BackEnd|feat/advisory|4cbe43be4935876aac97fdbc89b64e7a3e2d0ff6|feat(advisory):add project entity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0742cc185fe97221c6d35c3791d7e139adfdf511|feat(advisory):add project activity entitty||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|dd107e9bc50208c1617c9bf3a6fcc21290e59b09|feat(advisory):add commands for project and activity||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|bb6493a5fca47f2f034e054f81bde3f4a1ada743|feat(advisory-management): message comand interfaces created||28/10/2023|
+|AgriPure-BackEnd|feat/advisory|0c031ff3d2d24e75f483d9acc806ca7571d1024f|feat(advisory):add service interfaces for activity and project||28/10/2023|
+|AgriPure-BackEnd|develop|6c7f67f1a8a90d6060d6fbb0e27d8b105e35075a|add dependencies security||28/10/2023|
+|AgriPure-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: Added Call to Action||10/10/2023|
+|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: Update index.html||10/10/2023|
+|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos||31/10/2023|
+
+
+
+
+####  6.2.2.4. Testing Suite Evidence for Sprint Review
+
+  | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
+  |------------|--------|-----------|----------------|---------------------|---------------|
+  | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
+  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
+    
+####  6.2.2.5. Execution Evidence for Sprint Review
+
+Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
+
+Inicio de sesión:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/AgriPureFrontSignIn.PNG?raw=true)
+
+Escoger tipo de usuario:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/chosePlan.PNG?raw=true)
+
+Primera vista de crops:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/dashboardFarmer.PNG?raw=true)
+
+Vista de buscar especialistas:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/findSpecialist.PNG?raw=true)
+
+Vista de proyectos asignados a farmer:
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
+nlace l rontEnd:**[https://agripure-web.netlify.app](https://agripure-web.netlify.app)
+
+**Enlace al video:** ![https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview](https://upcedupe-my.sharepoint.com/personal/u202017388_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202017388%5Fupc%5Fedu%5Fpe%2FDocuments%2FaboutTheProduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+BackEnd
+Se logró implementar la mayoría de endpoints acordados, a continuación se muestra la documentación implementada con la herramienta de Swagger:
+
+|Controlador|Variable que usa|Retorno|
+|-----------|----------------|-------|
+|Account|Un formulario de registro|Mensaje si la cuenta fue creada|
+|Account|Formulario de logeo|Token para la autenticación|
+|Crop|Formulario de creación de un crop|Mensaje si fue creado exitosamente|
+|Crop|Id de un cultivador|Lista de crops de acuerdo al id dado|
+|CropReport|Formulario de creación de crop report|Mensaje de confirmación|
+|CropReport|Id del crop|Retornar una lista de crop reports que pertenecen a un crop|
+|CropReport|Id del crop report|Retornar un crop report de acuerdo al Id dado|
+
+
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger1.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
+
+**Documentacion del BackEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
+**Enlace al repositorio del BackEnd:** [https://github.com/DevIOT-AgriPure/AgriPure-BackEnd](https://github.com/DevIOT-AgriPure/AgriPure-BackEnd)
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el presente Sprint, se logró desplegar la segunda version de nuestra Landing Page y de nuestro FrontEnd. 
+
+**Landing Page:**
+  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://media.discordapp.net/attachments/973358848159133696/1170136724509302906/image.png?ex=6557f1bf&is=65457cbf&hm=7ed72ed084022f3a05d6bc5956b535f8e65bfc54441f1dab5f2b8a8fa5c38ed5&=&width=1357&height=669)
+  - **Nos va a configuración, a la sección de page** [Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
+  - **Esperamos unos instantes y la landing page esta desplegada** 
+
+	![Landing Deployed](https://media.discordapp.net/attachments/973358848159133696/1170135535868706916/image.png?ex=6557f0a3&is=65457ba3&hm=00be33f22838a7beebabd467a28da4e035ca8a3a676257b651b204606d1d2d38&=&width=1254&height=669)
+
+
+ -  **Web application**
+
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+
+ - **BackEnd Services**
+
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
+
+	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
+
+	Creamos una instancia MySql:
+	![](hhttps://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreateSchemab.jpg?raw=true)
+
+	Esperamos a que se cree la instancia:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreatingSchema.jpg?raw=true)
+
+	Creamos nuestra base de datos:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CrearBaseDatos.jpg?raw=true)
+
+	Hacemos una conexión desde nuestro MySql para ver si la base de datos fue creada:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/ConexionConMySql.jpg?raw=true)
+
+	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
+	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
+
+
+#### 6.2.2.8. Team Collaboration Insights During Sprint
+
+Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/InsightBackend.PNG?raw=true)
+
+
+## 6.3 Validation Interviews
+
+### 6.3.1 Diseño de entrevistas
+
+ - **Sector agricultores**
+	- ¿En general, que te ha parecido la aplicación?
+	- ¿Crees que cumple el propósito para el que fue creada?
+	- ¿Crees que la elección de colores es la correcta?
+	- ¿Qué función crees que debemos mejorar?
+	- ¿Crees que te resultaría más fácil llevar un control sobre tus cultivos?
+	- ¿Qué nuevas funciones agregarías? 
+
+- **Sector especialistas**
+	- ¿En general, que te ha parecido la aplicación?
+	- ¿Crees que cumple el propósito para el que fue creada?
+	- ¿Crees que la elección de colores es la correcta?
+	- ¿Qué función crees que debemos mejorar?
+	- ¿Crees que te resultaría más fácil encontrar y asignar un proyecto a un cultivo?
+	- ¿Qué nuevas funciones agregarías? 
+
+### 6.3.2 Registro de entrevistas
+
+Agricultores:
+- Entrevista 1: Alejandro Rojas
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/AlejandroRojas.PNG?raw=true)
+	- Edad: 20
+	- Timing: 0:00
+	- Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
+
+
+Entrevista 2: Edery Vicente
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/EderyEspecialista.PNG?raw=true)
+- Edad: 25
+- Timing: 4:21
+- Resumen: Edery nos comenta que cambiaría la paleta de colores ya que siente que es muy oscura en comparación a los cultivos que son verdes y llenos de vida. También nos indica añadir una función de fechas, específicamente una alerta sobre la fecha de cuando terminará un proyecto.
+
+
+Entrevista 3: Kayacza Molero
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/kayaczaAgricultora.PNG?raw=true)
+- Edad: 25
+- Timing: 8:44
+- Resumen: Kayacza nos comenta que cambiaría la paleta de colores por más verdes y claros. Nos indica que quisiera añadir una función de que al momento de añadir un cultivo, salga una advertencia de cuales son las estaciones que se recomiendan plantar.
+
+Entrevista 4:Erick Joaquin
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/erick.PNG?raw=true)
+- Edad: 26
+- Timing: 14:40
+- Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
+
+Entrevista 5: Richard Romero
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/richard.PNG?raw=true)
+- Edad: 29
+- Timing: 18:12
+- Resumen: Richard nos comenta que la aplicación le parece genial. Lo que más le fascina es poder revisar los proyectos asignados a sus cultivos y saber las fechas en las que debería realizar ciertas actividades. Recomienda que el usuario pueda personalizar los colores de la aplicación.
+
+Entrevista 6: Jhan
+![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/jhan.PNG?raw=true)
+- Edad: 31
+- Timing: 28:30
+- Resumen: Nos comenta que la aplicación le parece genial, los colores son neutrales y le parecen correctos. Mejorar la bista de proyectos del lado de los agricultores, que sea más entendible y amigable.
+
+
+### 6.3.3 Evaluación según heurísticas
+
+**Carrera:** Ingenieria de Software
+**Curso:** Desarrollo de soluciones IoT
+**Sección:** SW71
+**Profesor:** Angel Augusto Velasquez Núñez
+**Auditor:** DevIoT Team
+**Clientes:**
+
+**Site o App a evaluar**
+AgriPure
+
+**Tareas a evaluar:**
+- Vista de cultivos
+- Vista de especialistas
+- Chat
+
+**Escala de severidad**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+|-----|-----------|
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
+
+**Tabla de resumen**
+
+|#|Problema|Escala de severidad|Heurística/Principio Violado|
+|-|--------|-------------------|----------------------------|
+|1|Colores muy oscuros|2|Cambio de paleta de colores|
+
+
+
+
+**Descripción de problemas:**
+
+## Problema #1
+
+## Severidad:  2
+
+## Problema:
+Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+## Recomendación:
+Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
+
+
+## 6.4 Video About-the-Product
+
+A continuacion, se hara presente el video sobre el producto desarrollado.
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EZVsfhRYANJPvaYVoukXz7gBXOVAyg3cGCnz3JaWfDRESg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yhmgl3 )
+
+## Conclusiones
+
+- La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programacion.
+- Las entrevistas de validación son esenciales para que el equipo de desarrollo pueda identificar errores que solo son perceptibles para personas externas al proceso de desarrollo, como los posibles usuarios.
+- Mejorar la comunicación es una de las ventajas de utilizar herramientas colaborativas, ya que facilitan la interacción efectiva y fluida entre los integrantes del equipo, lo que simplifica la discusión de ideas, la resolución de problemas y la toma de decisiones.
+- Es bueno dividir la colaboración del código en ramas para evitar futuros conflictos en el desarrollo del proyecto.
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 |  | 
 |-----------|-----------|
