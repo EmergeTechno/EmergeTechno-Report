@@ -1932,7 +1932,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 ### 6.1.2. Source Code Management
 
   Como se mencionó anteriormente, se utilizará GitHcomo sistema de control de versiones. Se han crearepositorios dentro de nuestra organización de GitHu
-  - Enlace al repositorio de la landing page: [httpsgithub.com/DevIOT-AgriPure/AgriPure-Landing-Page](https://github.com/DevIOT-AgriPuAgriPure-Landing-Page)
+  - Enlace al repositorio de la landing page: [https://github.com/EmergeTechno/EmergeTechno-Landing-Page](https://github.com/EmergeTechno/EmergeTechno-Landing-Page)
   - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Application)
   - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService)- [Capítulo VI: Product implementation, Validation \& Deployment](#capítulo-vi-product-implementation-validation--deployment)
   - [6.1 Software Configuration Management](#61-software-configuration-management)
