@@ -2149,7 +2149,10 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 #### 6.2.2.8. Team Collaboration Insights During Sprint
 
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
+Backend: 
 ![8.PNG (1759×726) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/8.PNG?raw=true)
+Frontend:
+![9.png (1666×752) (ibb.co)](https://i.ibb.co/ry14Bgw/9.png)
 
 
 ## 6.3 Validation Interviews
@@ -2281,7 +2284,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTM1NjYwNSwtMTI4MDM5NTE2MCwxMz
+eyJoaXN0b3J5IjpbMTQ4NTgzMTA0NSwtMTI4MDM5NTE2MCwxMz
 U2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3
 NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3Ni
 wtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTEx
