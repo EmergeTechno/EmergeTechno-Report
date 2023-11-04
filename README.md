@@ -1956,7 +1956,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page estadesplegada** 
 
-	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+	![tercero.png (640×349) (ibb.co)](https://i.ibb.co/JvCR0wv/tercero.png)
 
 
  -  **Web application**
@@ -1979,7 +1979,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://githcom/DevIOT-AgriPure/Project-Report/blob/featucapitulo-6/images/software-deploy-configuratiladingdeploybranch.PNG?raw=tru
   - **Esperamos unos instantes y la landing page estadesplegada** 
 
-![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+![tercero.png (640×349) (ibb.co)](https://i.ibb.co/JvCR0wv/tercero.png)
 
    **Web application**
 
@@ -2292,11 +2292,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTgyNTQ4NCwtMTA1MjkzOTUyOCwtMT
-YwMDg3NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1
-ODk3NiwtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMi
-wtMTExNjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNjU4LDgw
-ODgzODkzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3MzE0MTIzLD
-E0MTg4Mzc4MSwxNTIyMzk1MDc2LC00NDM5NDU2NDIsLTY2MDc2
-OTE0NF19
+eyJoaXN0b3J5IjpbMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNj
+AwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4
+OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC
+0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4
+ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMT
+QxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0MiwtNjYwNzY5
+MTQ0XX0=
 -->
