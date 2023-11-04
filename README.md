@@ -36,7 +36,8 @@ Ciclo: 2023-2
 | 1.3| 07/09/2023|Rafael semanez| Se paso el trabajo a GitHub
 | 2.0| 23/09/2023|Rafael semanez Enrique Postigo| Se completo el capítulo 5|
 | 2.1| 26/09/2023|Diego Talledo Bruno Palomino| Se completo el capítulo 6|
-| 3.0| 01/11/2023|Diego Talledo Bruno Palomino| Se completo el capítulo 6|
+| 3.0| 01/11/2023|Diego Talledo Bruno Palomino| Se completo el sprint y documentación|
+| 3.1| 03/11/2023|Rafael semanez Enrique Postigo| Se completo entrevistas y validaciones|
 
 ## Project Report Collaboration Insights
 
@@ -2260,11 +2261,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMyNTY4MDgsLTg3ODE3MDUzOCwtMT
-I4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3MjY2MCwtMTA1Mjkz
-OTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMT
-IsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2
-MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3Mj
-IxNjU4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3
-MzE0MTIzXX0=
+eyJoaXN0b3J5IjpbLTEwMTYzOTY2NSwtODc4MTcwNTM4LC0xMj
+gwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5
+NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMi
+wxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYz
+NzIyMzEyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMj
+E2NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDcz
+MTQxMjNdfQ==
 -->
