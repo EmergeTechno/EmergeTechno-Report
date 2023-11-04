@@ -2184,7 +2184,7 @@ Entrevista 1:Erick Joaquin
 - Edad: 26
 - Timing: 14:40
 - Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
-
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201720027_upc_edu_pe/Ed5QSpzXmgZIlzk076PfNHIB76kDacn0W2KeHvp8dR3MHQ?e=1fW0rq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
 
 Entrevista 2: Fernando Garay
 
@@ -2284,11 +2284,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mzk4MDg4LDE0NDUyMTU3NywxODU0Mz
-k0MDk0LC0xNDEwMTE3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUx
-NjAsMTM1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNTI5Mzk1MjgsLT
-E2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3
-NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMT
-IsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4
-MDg4Mzg5MzNdfQ==
+eyJoaXN0b3J5IjpbMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1ND
+M5NDA5NCwtMTQxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1
+MTYwLDEzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC
+0xNjAwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3
+NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMz
+EyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgs
+ODA4ODM4OTMzXX0=
 -->
