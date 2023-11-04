@@ -2121,7 +2121,7 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
 		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
 	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
-		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+		![deploySETWA.PNG (1887×822) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/deploySETWA.PNG?raw=true)
 
  - **BackEnd Services**
 
@@ -2143,13 +2143,13 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	![6.PNG (426×515) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/6.PNG?raw=true)
 
 	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
-	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
+	![7.PNG (423×478) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/7.PNG?raw=true)
 
 
 #### 6.2.2.8. Team Collaboration Insights During Sprint
 
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/InsightBackend.PNG?raw=true)
+![8.PNG (1759×726) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/8.PNG?raw=true)
 
 
 ## 6.3 Validation Interviews
@@ -2281,11 +2281,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzOTUxNjc5LC0xMjgwMzk1MTYwLDEzNT
-YzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1
-MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC
-0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2
-NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OT
-MzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgz
-NzgxXX0=
+eyJoaXN0b3J5IjpbMTM0OTM1NjYwNSwtMTI4MDM5NTE2MCwxMz
+U2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3
+NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3Ni
+wtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTEx
+NjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzOD
+kzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4
+Mzc4MV19
 -->
