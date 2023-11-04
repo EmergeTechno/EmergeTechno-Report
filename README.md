@@ -2228,6 +2228,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |#|Problema|Escala de severidad|Heurística/Principio Violado|
 |-|--------|-------------------|----------------------------|
 |1|Colores muy oscuros|2|Cambio de paleta de colores|
+|1|Colores muy oscuros|2|Cambio de paleta de colores|
 
 
 
@@ -2262,11 +2263,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODczMTg4MSwtMTQxMDExNzQxMiwtOD
-c4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcy
-NjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3OD
-QsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0
-NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1NjkxLC00MDc0MT
-Y4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1
-Njc5MzcyXX0=
+eyJoaXN0b3J5IjpbLTEwMzI3Njg4MjcsLTE0MTAxMTc0MTIsLT
+g3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3
+MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nz
+g0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2
+NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3ND
+E2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcs
+NTY3OTM3Ml19
 -->
