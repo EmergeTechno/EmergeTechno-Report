@@ -2063,7 +2063,7 @@ Escoger tipo de usuario:
 ![quinta.png (775×505) (ibb.co)](https://i.ibb.co/5GXXR3N/quinta.png)
 
 Primera vista de crops:
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/dashboardFarmer.PNG?raw=true)
+![sexto.png (1392×867) (ibb.co)](https://i.ibb.co/txQ867V/sexto.png)
 
 Vista de buscar especialistas:
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/findSpecialist.PNG?raw=true)
@@ -2281,11 +2281,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE0NDE0MzIsMTM1NjM1Njg5NiwzMj
-M2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5
-NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MD
-AsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQw
-NzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3Mz
-U3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEsMTUyMjM5
-NTA3Nl19
+eyJoaXN0b3J5IjpbMTAyNTAzNTg0NiwxMzU2MzU2ODk2LDMyMz
+Y3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1
+Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMC
+w2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3
+NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNT
+csNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4Mzc4MSwxNTIyMzk1
+MDc2XX0=
 -->
