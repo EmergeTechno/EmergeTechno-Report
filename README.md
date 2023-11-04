@@ -2242,8 +2242,30 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
 ## Recomendación:
 Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
+## Problema #2
 
+## Severidad:  3
 
+## Problema:
+Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+## Recomendación:
+Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
+## Problema #1
+
+## Severidad:  2
+
+## Problema:
+Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+## Recomendación:
+Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
+## Problema #1
+
+## Severidad:  2
+
+## Problema:
+Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+## Recomendación:
+Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
 ## 6.4 Video About-the-Product
 
 A continuacion, se hara presente el video sobre el producto desarrollado.
@@ -2262,11 +2284,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3Nzg1MTgsLTE0MTAxMTc0MTIsLTg3OD
-E3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3MjY2
-MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nzg0LD
-EwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2NDY5
-MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2OD
-kyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3
-OTM3Ml19
+eyJoaXN0b3J5IjpbLTk0MjU3OTkzMCwtMTQxMDExNzQxMiwtOD
+c4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcy
+NjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3OD
+QsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0
+NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1NjkxLC00MDc0MT
+Y4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1
+Njc5MzcyXX0=
 -->
