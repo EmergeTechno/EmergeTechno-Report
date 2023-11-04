@@ -2174,25 +2174,22 @@ Frontend:
 
 ### 6.3.2 Registro de entrevistas
 
-Agricultores:
+Especialistas:
 
-Entrevista 4:Erick Joaquin
+Entrevista 1:Erick Joaquin
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/erick.PNG?raw=true)
 - Edad: 26
 - Timing: 14:40
 - Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
 
-Entrevista 5: Richard Romero
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/richard.PNG?raw=true)
-- Edad: 29
-- Timing: 18:12
-- Resumen: Richard nos comenta que la aplicación le parece genial. Lo que más le fascina es poder revisar los proyectos asignados a sus cultivos y saber las fechas en las que debería realizar ciertas actividades. Recomienda que el usuario pueda personalizar los colores de la aplicación.
 
-Entrevista 6: Jhan
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/jhan.PNG?raw=true)
-- Edad: 31
-- Timing: 28:30
-- Resumen: Nos comenta que la aplicación le parece genial, los colores son neutrales y le parecen correctos. Mejorar la bista de proyectos del lado de los agricultores, que sea más entendible y amigable.
+Entrevista 2: Fernando Garay
+
+![11.png (1227×572) (ibb.co)](https://i.ibb.co/G5Bq5RS/11.png)                                                                                                                                                                   Edad: 26
+
+Timing: 8 min
+
+Resumen: El entrevistada cuenta que la aplicación le pareció muy útil, como especialista se vio muy intuitiva, además que los colores le parecieron correctos, comentando que le gustaría un color verdoso también; nos aclara que le gustaría que se agreguen más vegetales a la categoría y que puedan llegar notificaciones al correo cuando un farmer quiera solicitarlo, cuando haga alguna tarea de su proyecto o cuando le envia un mensaje.
 
 
 ### 6.3.3 Evaluación según heurísticas
@@ -2262,11 +2259,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMz
-U2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3
-NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3Ni
-wtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTEx
-NjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzOD
-kzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4
-Mzc4MV19
+eyJoaXN0b3J5IjpbMjc4MjczNjIsLTg3ODE3MDUzOCwtMTI4MD
+M5NTE2MCwxMzU2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUy
+OCwtMTYwMDg3NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMT
+kwNzc1ODk3NiwtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2Mzcy
+MjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNj
+U4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3MzE0
+MTIzXX0=
 -->
