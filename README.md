@@ -2247,10 +2247,10 @@ Hacer un cambio en la paleta de colores, de modo que se sientas colores más viv
 ## Severidad:  3
 
 ## Problema:
-Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+Notificaciones al gmail, cuando el usuario solicita un especialista, no le llega la notificacion al gmail.
 ## Recomendación:
-Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
-## Problema #1
+Asegurarse de implementar adecuadamente la función de notificaciones por gmail y permite que los usuarios configuren sus preferencias de notificación.
+## Problema #3
 
 ## Severidad:  2
 
@@ -2258,9 +2258,9 @@ Hacer un cambio en la paleta de colores, de modo que se sientas colores más viv
 Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
 ## Recomendación:
 Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
-## Problema #1
+## Problema #4
 
-## Severidad:  2
+## Severidad:  3
 
 ## Problema:
 Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
@@ -2284,11 +2284,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjU3OTkzMCwtMTQxMDExNzQxMiwtOD
-c4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcy
-NjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3OD
-QsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0
-NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1NjkxLC00MDc0MT
-Y4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1
-Njc5MzcyXX0=
+eyJoaXN0b3J5IjpbLTE2OTk1NzMyNTIsLTE0MTAxMTc0MTIsLT
+g3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3
+MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nz
+g0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2
+NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3ND
+E2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcs
+NTY3OTM3Ml19
 -->
