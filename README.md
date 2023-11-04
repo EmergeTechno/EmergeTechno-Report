@@ -1910,7 +1910,7 @@ En esta seccion, se muestra como se ve la landing  page en los navegadores web.
 
 Figma: https://www.figma.com/file/X67xxb7wpu8b6z9iOoX1ZS/CropMaster?type=design&node-id=57%3A113&mode=design&t=fu5VUsA4i4QADmyu-1 
 
-# Capítulo VI: Product implementation, Validation & Deployment
+# Capítulo VII: Product implementation, Validation & Deployment
 ## 6.1 Software Configuration Management
 
 Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo y colaboración que nos permitirá llevarlo a cabo de mejor manera.
@@ -1933,14 +1933,10 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 
   Como se mencionó anteriormente, se utilizará GitHcomo sistema de control de versiones. Se han crearepositorios dentro de nuestra organización de GitHu
   - Enlace al repositorio de la landing page: [https://github.com/EmergeTechno/EmergeTechno-Landing-Page](https://github.com/EmergeTechno/EmergeTechno-Landing-Page)
-  - Enlace al repositorio de Front-End: [https://githcom/DevIOT-AgriPure/Agripure-Web-Application](httpsgithub.com/DevIOT-AgriPure/Agripure-Web-Application)
-  - Enlace al repositorio de Back-End: [https://githcom/DevIOT-AgriPure/AgriPure-WebServices](httpsgithub.com/DevIOT-AgriPure/AgriPure-WebService)- [Capítulo VI: Product implementation, Validation \& Deployment](#capítulo-vi-product-implementation-validation--deployment)
-  - [6.1 Software Configuration Management](#61-software-configuration-management)
-    - [6.1.1 Software Development EnviromentConfiguration](#611-software-development-enviromentconfiguration)
-    - [6.1.2. Source Code Management](#612-source-code-management)
-    - [6.1.3. Source Code Style Guide \& Conventions](#613-source-code-style-guide--conventions)
-    - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
- - [6.2 Landing Page, Services \& Applications Implementation.](#62-landing-page-services--applications-implementation)
+  - Enlace al repositorio de Front-End: [https://github.com/EmergeTechno/Cropmaster-frontend](https://github.com/EmergeTechno/Cropmaster-frontend)
+  - Enlace al repositorio de Back-End: [https://github.com/EmergeTechno/Cropmaster-backend](https://github.com/EmergeTechno/Cropmaster-backend)
+
+
 	### 6.2.2. Sprint 2
     
   Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
