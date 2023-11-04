@@ -1952,7 +1952,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   **Landing Page:
   Para el despliegue de nuestra landing page se utiliza"GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
   - **Accedemos al repositorio de nuestra landing page:![primero.png (640×320) (ibb.co)](https://i.ibb.co/g3NQNWW/primero.png)
-  - **Nos vamos a configuración, a la sección de page** ![Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page** ![segundo.png (1446×740) (ibb.co)](https://i.ibb.co/NCxYj8d/segundo.png)
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
   - **Esperamos unos instantes y la landing page estadesplegada** 
 
@@ -2292,11 +2292,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMT
-I5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4
-MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2OT
-EsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4
-NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEsMT
-UyMjM5NTA3NiwtNDQzOTQ1NjQyLC02NjA3NjkxNDQsLTE5MTYz
-OTcxMjBdfQ==
+eyJoaXN0b3J5IjpbMTExMTgyNTQ4NCwtMTA1MjkzOTUyOCwtMT
+YwMDg3NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1
+ODk3NiwtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMi
+wtMTExNjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNjU4LDgw
+ODgzODkzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3MzE0MTIzLD
+E0MTg4Mzc4MSwxNTIyMzk1MDc2LC00NDM5NDU2NDIsLTY2MDc2
+OTE0NF19
 -->
