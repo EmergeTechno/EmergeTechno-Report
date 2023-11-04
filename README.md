@@ -2101,7 +2101,7 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 
 **Landing Page:**
   Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
-  - **Accedemos al repositorio de nuestra landing page:**![Landing page deploy](https://media.discordapp.net/attachments/973358848159133696/1170136724509302906/image.png?ex=6557f1bf&is=65457cbf&hm=7ed72ed084022f3a05d6bc5956b535f8e65bfc54441f1dab5f2b8a8fa5c38ed5&=&width=1357&height=669)
+  - **Accedemos al repositorio de nuestra landing page:**![10.png (639×289) (ibb.co)](https://i.ibb.co/r3hpNPx/10.png)
   - **Nos va a configuración, a la sección de page** [Landing page deploy conf]![segundo.png (1446×740) (ibb.co)](https://i.ibb.co/NCxYj8d/segundo.png)
 
   - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
@@ -2175,25 +2175,6 @@ Frontend:
 ### 6.3.2 Registro de entrevistas
 
 Agricultores:
-- Entrevista 1: Alejandro Rojas
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/AlejandroRojas.PNG?raw=true)
-	- Edad: 20
-	- Timing: 0:00
-	- Resumen: Alejandro nos ha comeentado que le ha gustado la paleta utilizada en la aplicacion, ya que le agradan los colores oscuros. Ademas, nos indica que la aplicacion cumple con el proposito creado, ademas que es muy intuitiva para los usuarios. Nos dice que hay que pulir mejor las funcionalidades que ya eestan implmentadas y que si le parece muy facil el uso de la aplicacion. Por ultimo, nos indica que las funciones agregadas y por agregar son suficientes para la aplicacion.
-
-
-Entrevista 2: Edery Vicente
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/EderyEspecialista.PNG?raw=true)
-- Edad: 25
-- Timing: 4:21
-- Resumen: Edery nos comenta que cambiaría la paleta de colores ya que siente que es muy oscura en comparación a los cultivos que son verdes y llenos de vida. También nos indica añadir una función de fechas, específicamente una alerta sobre la fecha de cuando terminará un proyecto.
-
-
-Entrevista 3: Kayacza Molero
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/heuristicas/kayaczaAgricultora.PNG?raw=true)
-- Edad: 25
-- Timing: 8:44
-- Resumen: Kayacza nos comenta que cambiaría la paleta de colores por más verdes y claros. Nos indica que quisiera añadir una función de que al momento de añadir un cultivo, salga una advertencia de cuales son las estaciones que se recomiendan plantar.
 
 Entrevista 4:Erick Joaquin
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/erick.PNG?raw=true)
@@ -2281,11 +2262,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY5Njk2NTUsLTEyODAzOTUxNjAsMT
-M1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4
-NzUwMCwtMTI5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5Nz
-YsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTEx
-MTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mz
-g5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4
-ODM3ODFdfQ==
+eyJoaXN0b3J5IjpbLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMz
+U2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3
+NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3Ni
+wtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTEx
+NjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNjU4LDgwODgzOD
+kzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3MzE0MTIzLDE0MTg4
+Mzc4MV19
 -->
