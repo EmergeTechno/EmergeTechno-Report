@@ -2057,10 +2057,10 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
 
 Inicio de sesión:
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/AgriPureFrontSignIn.PNG?raw=true)
+![cuarta.png (917×702) (ibb.co)](https://i.ibb.co/3zQGdV0/cuarta.png)
 
 Escoger tipo de usuario:
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/chosePlan.PNG?raw=true)
+![quinta.png (775×505) (ibb.co)](https://i.ibb.co/5GXXR3N/quinta.png)
 
 Primera vista de crops:
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/dashboardFarmer.PNG?raw=true)
@@ -2281,11 +2281,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNT
-I5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAwODIw
-MjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC
-04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIw
-NzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMT
-YwNzMxNDEyMywxNDE4ODM3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1
-NjQyXX0=
+eyJoaXN0b3J5IjpbLTE4MTE0NDE0MzIsMTM1NjM1Njg5NiwzMj
+M2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5
+NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MD
+AsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQw
+NzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3Mz
+U3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEsMTUyMjM5
+NTA3Nl19
 -->
