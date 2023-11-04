@@ -2255,17 +2255,17 @@ Asegurarse de implementar adecuadamente la función de notificaciones por gmail 
 ### Severidad:  2
 
 ### Problema:
-Diseño perfiles, no tiene mucha informaci
+Diseño perfiles, no tiene mucha información los perfiles y no son muy vistosos
 ### Recomendación:
-Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
+Simplificar el diseño de perfiles, manteniendo la información esencial visible y organizada de manera intuitiva para facilitar la navegación y la gestión de perfiles.
 ## Problema #4
 
 ### Severidad:  3
 
 ### Problema:
-Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
+Poca variedad de vegetales, no hay mucha cantidad de vegetales a escoger
 ### Recomendación:
-Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
+Amplíar la gama de opciones de vegetales disponibles para ofrecer una selección más diversa y adaptada a las preferencias de los usuarios, mejorando así su experiencia de elección y satisfacción.
 ## 6.4 Video About-the-Product
 
 A continuacion, se hara presente el video sobre el producto desarrollado.
@@ -2284,11 +2284,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQxNDMwMDQsLTE0MTAxMTc0MTIsLT
-g3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3
-MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nz
-g0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2
-NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3ND
-E2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcs
-NTY3OTM3Ml19
+eyJoaXN0b3J5IjpbMTg1NDM5NDA5NCwtMTQxMDExNzQxMiwtOD
+c4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcy
+NjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3OD
+QsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0
+NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1NjkxLC00MDc0MT
+Y4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1
+Njc5MzcyXX0=
 -->
