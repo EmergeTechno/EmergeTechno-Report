@@ -1967,7 +1967,7 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
 		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
 	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
-		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+		![deploySETWA.PNG (1887×822) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/deploySETWA.PNG?raw=true)
 
 
    **Web application**
@@ -2177,7 +2177,7 @@ Frontend:
 Especialistas:
 
 Entrevista 1:Erick Joaquin
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/entrevistas/erick.PNG?raw=true)
+![12.png (639×300) (ibb.co)](https://i.ibb.co/tJQYTX9/12.png)
 - Edad: 26
 - Timing: 14:40
 - Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
@@ -2185,7 +2185,7 @@ Entrevista 1:Erick Joaquin
 
 Entrevista 2: Fernando Garay
 
-![11.png (1227×572) (ibb.co)](https://i.ibb.co/G5Bq5RS/11.png)                                                                                                                                                                   Edad: 26
+![11.png (1227×572) (ibb.co)](https://i.ibb.co/G5Bq5RS/11.png)                                                                                                                                                                   Edad: 27
 
 Timing: 8 min
 
@@ -2259,7 +2259,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODQ1NzE0NCwtODc4MTcwNTM4LC0xMj
+eyJoaXN0b3J5IjpbLTUyNDY2OTI4MiwtODc4MTcwNTM4LC0xMj
 gwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5
 NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMi
 wxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYz
