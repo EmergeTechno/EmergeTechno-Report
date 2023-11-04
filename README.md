@@ -2207,7 +2207,7 @@ CropMaster
 - Vista de cultivos
 - Vista de especialistas
 - Chat
-- Creacion proyecto
+- Creación proyecto
 
 **Escala de severidad**
 
@@ -2259,7 +2259,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzkwNTEwMCwtODc4MTcwNTM4LC0xMj
+eyJoaXN0b3J5IjpbMTg3ODQ1NzE0NCwtODc4MTcwNTM4LC0xMj
 gwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5
 NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMi
 wxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYz
