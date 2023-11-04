@@ -2128,13 +2128,13 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
 
 	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
-	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/createProjectGooggleCloud.jpg?raw=true)
+	![2.PNG (946×733) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/2.PNG?raw=true)
 
 	Creamos una instancia MySql:
 	![](hhttps://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreateSchemab.jpg?raw=true)
 
 	Esperamos a que se cree la instancia:
-	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreatingSchema.jpg?raw=true)
+	![3.PNG (1899×570) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/3.PNG?raw=true)
 
 	Creamos nuestra base de datos:
 	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CrearBaseDatos.jpg?raw=true)
@@ -2281,11 +2281,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAzOTUxNjAsMTM1NjM1Njg5NiwzMj
-M2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5
-NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MD
-AsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQw
-NzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3Mz
-U3LDU2NzkzNzIsMTYwNzMxNDEyMywxNDE4ODM3ODEsMTUyMjM5
-NTA3Nl19
+eyJoaXN0b3J5IjpbOTM0NzEyMjAzLC0xMjgwMzk1MTYwLDEzNT
+YzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1
+MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC
+0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2
+NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OT
+MzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMTQxODgz
+NzgxXX0=
 -->
