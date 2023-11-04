@@ -1994,7 +1994,7 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
     | Time                            | 5pm                                                          |
     | Location                        | Llamada en discord                                           |
     | Prepared By                     | Talledo, Diego                                               |
-    | Attendees (to planning meeting) |  |Diego, Bruno, Enrique
+    | Attendees (to planning meeting) |  Diego, Bruno, Enrique|
 - Sprint Goal & User Stories
     | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
