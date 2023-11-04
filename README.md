@@ -2092,7 +2092,7 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger2.PNG?raw=true)
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
 
-**Documentacion del BackEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln) 
+
 **Enlace al repositorio del BackEnd:** [https://github.com/EmergeTechno/Cropmaster-backend](https://github.com/EmergeTechno/Cropmaster-backend)
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
@@ -2280,7 +2280,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODQzNjI0NywtMTI4MDM5NTE2MCwxMz
+eyJoaXN0b3J5IjpbMjA4ODkyMzc1NCwtMTI4MDM5NTE2MCwxMz
 U2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3
 NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3Ni
 wtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTEx
