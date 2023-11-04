@@ -2195,19 +2195,19 @@ Resumen: El entrevistada cuenta que la aplicación le pareció muy útil, como e
 ### 6.3.3 Evaluación según heurísticas
 
 **Carrera:** Ingenieria de Software
-**Curso:** Desarrollo de soluciones IoT
-**Sección:** SW71
-**Profesor:** Angel Augusto Velasquez Núñez
-**Auditor:** DevIoT Team
-**Clientes:**
+**Curso:** Arquitecturas De Software Emergentes
+**Sección:** WS82
+**Profesor:** Royer Edelwer Rojas Malasquez
+
 
 **Site o App a evaluar**
-AgriPure
+CropMaster
 
 **Tareas a evaluar:**
 - Vista de cultivos
 - Vista de especialistas
 - Chat
+- Creacion proyecto
 
 **Escala de severidad**
 
@@ -2259,11 +2259,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MjczNjIsLTg3ODE3MDUzOCwtMTI4MD
-M5NTE2MCwxMzU2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUy
-OCwtMTYwMDg3NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMT
-kwNzc1ODk3NiwtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2Mzcy
-MjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2ODkyLC0xMjA3MjIxNj
-U4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3OTM3MiwxNjA3MzE0
-MTIzXX0=
+eyJoaXN0b3J5IjpbLTQ4NzkwNTEwMCwtODc4MTcwNTM4LC0xMj
+gwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5
+NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMi
+wxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYz
+NzIyMzEyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMj
+E2NTgsODA4ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDcz
+MTQxMjNdfQ==
 -->
