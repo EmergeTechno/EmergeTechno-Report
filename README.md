@@ -2227,13 +2227,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 |#|Problema|Escala de severidad|Heurística/Principio Violado|
 |-|--------|-------------------|----------------------------|
-|1|Colores muy oscuros|2|Cambio de paleta de colores|
-|2|Notificaciones al gmail|3|Cambio de paleta de colores|
-|3|Diseño perfiles|2|Cambio de paleta de colores|
-|4|Poca variedad de vegetales|3|Cambio de paleta de colores|
-
-
-
+|1|Colores muy oscuros|2|Contraste y Legibilidad|
+|2|Notificaciones al gmail|3|Entrega de Información y Comunicación|
+|3|Diseño perfiles|2|Facilidad de Uso y Experiencia del Usuario|
+|4|Poca variedad de vegetales|3|Diversidad y Elección|
 
 **Descripción de problemas:**
 
@@ -2265,11 +2262,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM5OTE0OTksLTE0MTAxMTc0MTIsLT
-g3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3
-MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nz
-g0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2
-NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3ND
-E2ODkyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcs
-NTY3OTM3Ml19
+eyJoaXN0b3J5IjpbOTg3Nzg1MTgsLTE0MTAxMTc0MTIsLTg3OD
+E3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3MjY2
+MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nzg0LD
+EwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2NDY5
+MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3NDE2OD
+kyLC0xMjA3MjIxNjU4LDgwODgzODkzMyw2MDg0NTczNTcsNTY3
+OTM3Ml19
 -->
