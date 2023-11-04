@@ -2230,7 +2230,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |1|Colores muy oscuros|2|Cambio de paleta de colores|
 |2|Notificaciones al gmail|3|Cambio de paleta de colores|
 |3|Diseño perfiles|2|Cambio de paleta de colores|
-|4|Diseño perfiles|2|Cambio de paleta de colores|
+|4|Poca variedad de vegetales|3|Cambio de paleta de colores|
 
 
 
@@ -2265,7 +2265,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEwMzUxMzEsLTE0MTAxMTc0MTIsLT
+eyJoaXN0b3J5IjpbLTIxMjM5OTE0OTksLTE0MTAxMTc0MTIsLT
 g3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3
 MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nz
 g0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2
