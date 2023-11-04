@@ -2066,7 +2066,7 @@ Primera vista de crops:
 ![sexto.png (1392×867) (ibb.co)](https://i.ibb.co/txQ867V/sexto.png)
 
 Vista de buscar especialistas:
-![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/findSpecialist.PNG?raw=true)
+![7.png (1228×852) (ibb.co)](https://i.ibb.co/5hPbh0f/7.png)
 
 Vista de proyectos asignados a farmer:
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/projectFarmer.PNG?raw=true)
@@ -2281,7 +2281,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTAzNTg0NiwxMzU2MzU2ODk2LDMyMz
+eyJoaXN0b3J5IjpbMTk3NTU4MjgyOCwxMzU2MzU2ODk2LDMyMz
 Y3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1
 Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMC
 w2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwtNDA3
