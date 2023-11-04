@@ -2008,7 +2008,7 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
     |US017|Aceptar mensajes de otros agricultores|ST009|Diseño e implementación del chat|8 horas|Enrique|Done|
 	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Bruno|Done|
 	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Rafael|Done|
-	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas||Done|
+	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas|Diego|Done|
 	|TS007|Visualización de datos en la interfaz de usuario|ST013|Diseñar e implementar la sección de visualización de datos|8 horas|Diego|Done|
 	|TS008|Notificaciones y alertas|ST014|Diseño e implemetación de las notificaciones|8 horas|Diego|Done|
 
@@ -2284,11 +2284,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NzcyNjIsMTg1NDM5NDA5NCwtMTQxMD
-ExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4
-OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLT
-EyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTEx
-ODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2NTA1Nj
-kxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4ODM4OTMzLDYw
-ODQ1NzM1N119
+eyJoaXN0b3J5IjpbMjA1MTYzMjk3OCwxODU0Mzk0MDk0LC0xND
+EwMTE3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUxNjAsMTM1NjM1
+Njg5NiwzMjM2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4NzUwMC
+wtMTI5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5NzYsLTE1
+MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTExMTY1MD
+U2OTEsLTQwNzQxNjg5MiwtMTIwNzIyMTY1OCw4MDg4Mzg5MzMs
+NjA4NDU3MzU3XX0=
 -->
