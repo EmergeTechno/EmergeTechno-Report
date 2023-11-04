@@ -2131,16 +2131,16 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	![2.PNG (946×733) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/2.PNG?raw=true)
 
 	Creamos una instancia MySql:
-	![](hhttps://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CreateSchemab.jpg?raw=true)
+	![4.PNG (1900×826) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/4.PNG?raw=true)
 
 	Esperamos a que se cree la instancia:
 	![3.PNG (1899×570) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/3.PNG?raw=true)
 
 	Creamos nuestra base de datos:
-	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/CrearBaseDatos.jpg?raw=true)
+	![5.PNG (911×628) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/5.PNG?raw=true)
 
 	Hacemos una conexión desde nuestro MySql para ver si la base de datos fue creada:
-	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/ConexionConMySql.jpg?raw=true)
+	![6.PNG (426×515) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/6.PNG?raw=true)
 
 	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
 	![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/BackendDeploy/EjecutamoslaApi.jpg?raw=true)
@@ -2281,7 +2281,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NzEyMjAzLC0xMjgwMzk1MTYwLDEzNT
+eyJoaXN0b3J5IjpbNzkzOTUxNjc5LC0xMjgwMzk1MTYwLDEzNT
 YzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1
 MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC
 0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0xMTE2
