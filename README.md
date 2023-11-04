@@ -2175,9 +2175,6 @@ Frontend:
 	- ¿Qué nuevas funciones agregarías? 
 
 ### 6.3.2 Registro de entrevistas
-Farmers:
-
-Specialist:
 
 Entrevista 1:Erick Joaquin
 ![12.png (639×300) (ibb.co)](https://i.ibb.co/tJQYTX9/12.png)
@@ -2284,11 +2281,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1ND
-M5NDA5NCwtMTQxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1
-MTYwLDEzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC
-0xNjAwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3
-NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMz
-EyLC0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgs
-ODA4ODM4OTMzXX0=
+eyJoaXN0b3J5IjpbLTk0MjEyNzYzMSwyMTI2MzgyODcyLDE0ND
+UyMTU3NywxODU0Mzk0MDk0LC0xNDEwMTE3NDEyLC04NzgxNzA1
+MzgsLTEyODAzOTUxNjAsMTM1NjM1Njg5NiwzMjM2NzI2NjAsLT
+EwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAw
+ODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3Mz
+U0LC04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5Miwt
+MTIwNzIyMTY1OF19
 -->
