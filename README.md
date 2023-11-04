@@ -1970,17 +1970,6 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
 
 
-
-
- 	**Web Services**
-
- 	DevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploy.Praw=tru
-  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.cDevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploycoPNG?raw=tru
-  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://githcom/DevIOT-AgriPure/Project-Report/blob/featucapitulo-6/images/software-deploy-configuratiladingdeploybranch.PNG?raw=tru
-  - **Esperamos unos instantes y la landing page estadesplegada** 
-
-![tercero.png (640×349) (ibb.co)](https://i.ibb.co/JvCR0wv/tercero.png)
-
    **Web application**
 
 Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
@@ -2014,9 +2003,9 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 - Sprint #: 2
     | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
 	|-------|----------|---------|------------------|-----------------|-------------|--------|
-    |US017|Aceptar mensajes de otros agricultores|ST009|Diseño e implementación del chat|8 horas|Diego|Done|
-	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Diego|Done|
-	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Diego|Done|
+    |US017|Aceptar mensajes de otros agricultores|ST009|Diseño e implementación del chat|8 horas|Enrique|Done|
+	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Bruno|Done|
+	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Rafael|Done|
 	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas||Done|
 	|TS007|Visualización de datos en la interfaz de usuario|ST013|Diseñar e implementar la sección de visualización de datos|8 horas|Diego|Done|
 	|TS008|Notificaciones y alertas|ST014|Diseño e implemetación de las notificaciones|8 horas|Diego|Done|
@@ -2292,11 +2281,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNj
-AwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4
-OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC
-0xMTE2NTA1NjkxLC00MDc0MTY4OTIsLTEyMDcyMjE2NTgsODA4
-ODM4OTMzLDYwODQ1NzM1Nyw1Njc5MzcyLDE2MDczMTQxMjMsMT
-QxODgzNzgxLDE1MjIzOTUwNzYsLTQ0Mzk0NTY0MiwtNjYwNzY5
-MTQ0XX0=
+eyJoaXN0b3J5IjpbMTM1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNT
+I5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAwODIw
+MjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC
+04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5MiwtMTIw
+NzIyMTY1OCw4MDg4Mzg5MzMsNjA4NDU3MzU3LDU2NzkzNzIsMT
+YwNzMxNDEyMywxNDE4ODM3ODEsMTUyMjM5NTA3NiwtNDQzOTQ1
+NjQyXX0=
 -->
