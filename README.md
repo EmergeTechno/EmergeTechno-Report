@@ -1935,37 +1935,90 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
   - Enlace al repositorio de la landing page: [https://github.com/EmergeTechno/EmergeTechno-Landing-Page](https://github.com/EmergeTechno/EmergeTechno-Landing-Page)
   - Enlace al repositorio de Front-End: [https://github.com/EmergeTechno/Cropmaster-frontend](https://github.com/EmergeTechno/Cropmaster-frontend)
   - Enlace al repositorio de Back-End: [https://github.com/EmergeTechno/Cropmaster-backend](https://github.com/EmergeTechno/Cropmaster-backend)
+  ### 6.1.3. Source Code Style Guide & Conventions
+ Para el desarrollo del código adoptamos convencionesestilos presentes en diversas tecnologías a nivmundia
+  - Front-End: Vue y Vuetify
+  - Back-End: Java y Spring Boot
+  - Landing-Page: HTML, CSS y Javascript
+  - Base de datos: MySQL
+  - Convenciones de idioma: Se empleará el idioma inglpara desarrollar el código, sea en nuestra landipage, front end services o back end services. Tambilos títulos de los commits se encontrarán en el misidioma.
+  - Convenciones de tecnología: Cada nombre de una tablaen nuestra base de datos iniciará con minayúscula, y esta se compone de dos o más palabras, se separará cauna con un "_" y seguirá una mayúscula.
+  - Cada Unit Test deberá ser escrito en lenguaje Gherky sus convenciones. Podremos revisarlos en el siguienenlace: [https://specflow.org/gherkgherkin-conventions-for-readable-specification](https://specflow.org/gherkgherkin-conventions-for-readable-specifications/)
+  - Para escribir el título de los commits, utilizaremoConventional Commits. Podemos revisar la documentacien el siguiente enlace: [https://wconventionalcommits.org/en/v1.0.0/](https://wconventionalcommits.org/en/v1.0.0/)
+  - Para trabajar con JavaScript, se utilizarán lconvenciones "Google Javascript Style Guide". Podemacceder a estas a través del siguiente enlace: [httpsgoogle.github.io/styleguide/jsguide.html](httpsgoogle.github.io/styleguide/jsguide.html)
+  - Para trabajar con Java y Spring Boot, se utilizarlas convenciones que el fabricante brinda y por comunidad de desarrollo. Podremos observar estconvenciones en el siguiente enlace: [https://googgithub.io/styleguide/javaguide.html](https://googgithub.io/styleguide/javaguide.html)
+### 6.1.4. Software Deployment Configuration
+  En esta sección observaremos como desplegamos cada ude nuestros servicios en la nub
+  **Landing Page:
+  Para el despliegue de nuestra landing page se utiliza"GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Pallevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:![Landing page deploy](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+  - **Nos vamos a configuración, a la sección de page** ![Landing page deploy conf](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/landingdeployconf.PNG?raw=true)
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
+  - **Esperamos unos instantes y la landing page estadesplegada** 
+
+	![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
 
 
-	### 6.2.2. Sprint 2
+ -  **Web application**
+
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![front](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/FrontDeployed.jpeg?raw=true)
+
+
+
+
+ 	**Web Services**
+
+ 	DevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploy.Praw=tru
+  - **Nos vamos a configuración, a la sección de page*[Landing page deploy conf](https://github.cDevIOT-AgriPure/Project-Report/blob/feature/capituloimages/software-deploy-configuration/landingdeploycoPNG?raw=tru
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://githcom/DevIOT-AgriPure/Project-Report/blob/featucapitulo-6/images/software-deploy-configuratiladingdeploybranch.PNG?raw=tru
+  - **Esperamos unos instantes y la landing page estadesplegada** 
+
+![Landing Deployed](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/LandingDeployed.PNG?raw=true)
+
+   **Web application**
+
+Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+
+ **Web Services**
+
+ Para el despliegue de nuestro back-end service se utilizarà "Railway", es ideal para subir soluciones y crear esquemas
+
+
+### 6.2.2. Sprint 1
     
   Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
 
-#### 6.2.2.1 Sprint Planning 2
+#### 6.2.2.1 Sprint Planning 1
 
-- Sprint #: 2
+- Sprint #: 1
 - Spring Planning Background
     | Date                            | 23/10/2023                                                   |
     |---------------------------------|--------------------------------------------------------------|
     | Time                            | 5pm                                                          |
     | Location                        | Llamada en discord                                           |
     | Prepared By                     | Talledo, Diego                                               |
-    | Attendees (to planning meeting) | Soto, Franchesco Reynoso, Andrés Palomino, Bruno Alva, Frank |
+    | Attendees (to planning meeting) |  |
 - Sprint Goal & User Stories
     | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 2  Velocity               |     42                                                                  |
+    | Sprint 1  Velocity               |     42                                                                  |
     | Sum of story  points             |      42                                                                   |
-#### 6.2.2.2 Sprint Backlog 2
+#### 6.2.2.2 Sprint Backlog 1
         
 - Sprint #: 2
     | US Id | US Title | Task Id | Task Description | Task Estimation | Assigned To | Status |
 	|-------|----------|---------|------------------|-----------------|-------------|--------|
     |US017|Aceptar mensajes de otros agricultores|ST009|Diseño e implementación del chat|8 horas|Diego|Done|
-	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Franchesco|Done|
-	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Andrés|Done|
-	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas|Bruno|Done|
-	|TS007|Visualización de datos en la interfaz de usuario|ST013|Diseñar e implementar la sección de visualización de datos|8 horas|Frank|Done|
+	|US021|Coordinar fechas con especialista|ST010|Diseñar el apartado de creación de pasos de un proyecto fijando fechas consultadas con el agricultor|8 horas|Diego|Done|
+	|US001|Registro de usuario|ST011|Diseñar e implementar el registro de usuario|8 horas|Diego|Done|
+	|TS001|Implementación de seguridad|ST012|Implementación de JWT|8 horas||Done|
+	|TS007|Visualización de datos en la interfaz de usuario|ST013|Diseñar e implementar la sección de visualización de datos|8 horas|Diego|Done|
 	|TS008|Notificaciones y alertas|ST014|Diseño e implemetación de las notificaciones|8 horas|Diego|Done|
 
         
@@ -1977,28 +2030,28 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
 |------------|--------|-----------|----------------|----------------------|--------------|
-|AgriPure-BackEnd|feat/account|bbc3414b6bb918c0bd1c052c2fb1602ee61b7aa8|feat(account):add jwt||18/10/2023|
-|AgriPure-BackEnd|feat/notifications|32a5848dd4442e2d32b35e475f638caba877fab4|feat(notification): created NotificationRepository||19/10/2023|
-|AgriPure-BackEnd|feat/profile|e0ab1386a6c8eaa83b6528e3958fd806a494e26c|Fixed estructure||19/10/2023|
-|AgriPure-BackEnd|feat/notification|30d795ad5303eb158c143caf21e5ecad4621fa3a|feat(notification): created NotificationCommand||19/10/2023|
-|AgriPure-BackEnd|feat/crop|82fdf3099974b1e410f42ccac996d0af6784c0b7|feat(crop):add crop entity||20/10/2023|
-|AgriPure-BackEnd|feat/crop|4e691868f5bf5dfe60a458a1a45452a82a41e793|feat(crop):add crop services||20/10/2023|
-|AgriPure-BackEnd|feat/profile|b055848cbf4e5ed4bcffe850a36acad8c5f1a31c|Fixed estructure, has errors||23/10/2023|
-|AgriPure-BackEnd|feat/crop|8ed8f883b21d2506f253ea25e7ae2e16c8a80e7b|Add crop controller||23/10/2023|
-|AgriPure-BackEnd|feat/profile|ef7b0a341a15e918e300b8ce1ee0ae2b62dac137|Service Fixed||24/10/2023|
-|AgriPure-BackEnd|feat/notification|86ad4d63db6ce5907b144ed85f07c225c6da2e10|feat(notification): add queries methods||27/10/2023|
-|AgriPure-BackEnd|feat/advisory|4cbe43be4935876aac97fdbc89b64e7a3e2d0ff6|feat(advisory):add project entity||28/10/2023|
-|AgriPure-BackEnd|feat/advisory|0742cc185fe97221c6d35c3791d7e139adfdf511|feat(advisory):add project activity entitty||28/10/2023|
-|AgriPure-BackEnd|feat/advisory|dd107e9bc50208c1617c9bf3a6fcc21290e59b09|feat(advisory):add commands for project and activity||28/10/2023|
-|AgriPure-BackEnd|feat/advisory|bb6493a5fca47f2f034e054f81bde3f4a1ada743|feat(advisory-management): message comand interfaces created||28/10/2023|
-|AgriPure-BackEnd|feat/advisory|0c031ff3d2d24e75f483d9acc806ca7571d1024f|feat(advisory):add service interfaces for activity and project||28/10/2023|
-|AgriPure-BackEnd|develop|6c7f67f1a8a90d6060d6fbb0e27d8b105e35075a|add dependencies security||28/10/2023|
-|AgriPure-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
-|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
-|AgriPure-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
-|AgriPure-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: Added Call to Action||10/10/2023|
-|AgriPure-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: Update index.html||10/10/2023|
-|AgriPure-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos||31/10/2023|
+|CropMaster-BackEnd|feat/account|bbc3414b6bb918c0bd1c052c2fb1602ee61b7aa8|feat(account):add jwt||18/10/2023|
+|CropMaster-BackEnd|feat/notifications|32a5848dd4442e2d32b35e475f638caba877fab4|feat(notification): created NotificationRepository||19/10/2023|
+|CropMaster-BackEnd|feat/profile|e0ab1386a6c8eaa83b6528e3958fd806a494e26c|Fixed estructure||19/10/2023|
+|CropMaster-BackEnd|feat/notification|30d795ad5303eb158c143caf21e5ecad4621fa3a|feat(notification): created NotificationCommand||19/10/2023|
+|CropMaster-BackEnd|feat/crop|82fdf3099974b1e410f42ccac996d0af6784c0b7|feat(crop):add crop entity||20/10/2023|
+|CropMaster-BackEnd|feat/crop|4e691868f5bf5dfe60a458a1a45452a82a41e793|feat(crop):add crop services||20/10/2023|
+|CropMaster-BackEnd|feat/profile|b055848cbf4e5ed4bcffe850a36acad8c5f1a31c|Fixed estructure, has errors||23/10/2023|
+|CropMaster-BackEnd|feat/crop|8ed8f883b21d2506f253ea25e7ae2e16c8a80e7b|Add crop controller||23/10/2023|
+|CropMaster-BackEnd|feat/profile|ef7b0a341a15e918e300b8ce1ee0ae2b62dac137|Service Fixed||24/10/2023|
+|CropMaster-BackEnd|feat/notification|86ad4d63db6ce5907b144ed85f07c225c6da2e10|feat(notification): add queries methods||27/10/2023|
+|CropMaster-BackEnd|feat/advisory|4cbe43be4935876aac97fdbc89b64e7a3e2d0ff6|feat(advisory):add project entity||28/10/2023|
+|CropMaster-BackEnd|feat/advisory|0742cc185fe97221c6d35c3791d7e139adfdf511|feat(advisory):add project activity entitty||28/10/2023|
+|CropMaster-BackEnd|feat/advisory|dd107e9bc50208c1617c9bf3a6fcc21290e59b09|feat(advisory):add commands for project and activity||28/10/2023|
+|CropMaster-BackEnd|feat/advisory|bb6493a5fca47f2f034e054f81bde3f4a1ada743|feat(advisory-management): message comand interfaces CropMaster||28/10/2023|
+|CropMaster-BackEnd|feat/advisory|0c031ff3d2d24e75f483d9acc806ca7571d1024f|feat(advisory):add service interfaces for activity and project||28/10/2023|
+|CropMaster-BackEnd|develop|6c7f67f1a8a90d6060d6fbb0e27d8b105e35075a|add dependencies security||28/10/2023|
+|CropMaster-BackEnd|develop|2b34bb0a325106c0da0b2ddb54be8933ab116355|add new dependencies||28/10/2023|
+|CropMaster-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|CropMaster-BackEnd|develop|e64614c0c8aff44831ae62744ab410d76a6573de|feat: add cors configuration for all||1/11/2023|
+|CropMaster-Landing-Page|main|132a4b1d162d1b6262ea8fb6c0a10f49d8fe9b59|feat: Added Call to Action||10/10/2023|
+|CropMaster-Landing-Page|main|7ac50b1163e8a10e09d3701ca46ca9761484f611|feat: Update index.html||10/10/2023|
+|CropMaster-Landing-Page|main|55c1a05f0385489384e21aba24c64782f913663a|feat: Added Multilanguage feature, as well as adding spaces for videos||31/10/2023|
 
 
 
@@ -2007,8 +2060,8 @@ Para el desarrollo de proyecto se utilizarán diferentes herramientas de trabajo
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
-  | Agripure-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
-  |Agripure-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
+  | CropMaster-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|first scenario|| 25/09/2023|
+  |CropMaster-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
     
 ####  6.2.2.5. Execution Evidence for Sprint Review
 
