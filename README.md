@@ -2165,12 +2165,12 @@ Frontend:
     | Time                            | 7pm                                                          |
     | Location                        | Llamada en discord                                           |
     | Prepared By                     | Talledo, Diego                                               |
-    | Attendees (to planning meeting) |  Diego, Bruno, Enrique|
+    | Attendees (to planning meeting) |  Diego, Bruno, Enrique,Rafael|
 - Sprint Goal & User Stories
     | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 1  Velocity               |     42                                                                  |
-    | Sum of story  points             |      42                                                                   |
+    | Sprint 2  Velocity               |     42                                                                  |
+    | Sum of story  points             |      33|
 
 
 
@@ -2302,11 +2302,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjUwOTE4MywyMTI2MzgyODcyLDE0ND
-UyMTU3NywxODU0Mzk0MDk0LC0xNDEwMTE3NDEyLC04NzgxNzA1
-MzgsLTEyODAzOTUxNjAsMTM1NjM1Njg5NiwzMjM2NzI2NjAsLT
-EwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAw
-ODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4MDU0MDAsNjQ2OTM3Mz
-U0LC04NjM3MjIzMTIsLTExMTY1MDU2OTEsLTQwNzQxNjg5Miwt
-MTIwNzIyMTY1OF19
+eyJoaXN0b3J5IjpbMTk3MDcxMDQ5OSwxNzUyNTA5MTgzLDIxMj
+YzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MTAxMTc0
+MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LD
+MyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkz
+NDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNT
+QwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwt
+NDA3NDE2ODkyXX0=
 -->
