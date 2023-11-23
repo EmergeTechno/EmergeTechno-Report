@@ -2154,10 +2154,23 @@ Frontend:
 ![9.png (1666×752) (ibb.co)](https://i.ibb.co/ry14Bgw/9.png)
 
 ### 6.2.3. Sprint 2
-#### 6.2.3.1 Sprint Planning 3
+  Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
 
-**Sprint Planning Background**
+#### 6.2.2.1 Sprint Planning 2
 
+- Sprint #: 2
+- Spring Planning Background
+    | Date                            | 10/11/2023                                                   |
+    |---------------------------------|--------------------------------------------------------------|
+    | Time                            | 5pm                                                          |
+    | Location                        | Llamada en discord                                           |
+    | Prepared By                     | Talledo, Diego                                               |
+    | Attendees (to planning meeting) |  Diego, Bruno, Enrique|
+- Sprint Goal & User Stories
+    | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
+    |---------------------------------| ------------------------------------------------------------------------------------------------|
+    | Sprint 1  Velocity               |     42                                                                  |
+    | Sum of story  points             |      42                                                                   |
 
 
 
@@ -2289,7 +2302,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODg2MTM0OCwyMTI2MzgyODcyLDE0ND
+eyJoaXN0b3J5IjpbMTAwNzY5NDg0NSwyMTI2MzgyODcyLDE0ND
 UyMTU3NywxODU0Mzk0MDk0LC0xNDEwMTE3NDEyLC04NzgxNzA1
 MzgsLTEyODAzOTUxNjAsMTM1NjM1Njg5NiwzMjM2NzI2NjAsLT
 EwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAw
