@@ -2162,7 +2162,7 @@ Frontend:
 - Spring Planning Background
     | Date                            | 10/11/2023                                                   |
     |---------------------------------|--------------------------------------------------------------|
-    | Time                            | 5pm                                                          |
+    | Time                            | 7pm                                                          |
     | Location                        | Llamada en discord                                           |
     | Prepared By                     | Talledo, Diego                                               |
     | Attendees (to planning meeting) |  Diego, Bruno, Enrique|
@@ -2302,7 +2302,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzY5NDg0NSwyMTI2MzgyODcyLDE0ND
+eyJoaXN0b3J5IjpbMTc1MjUwOTE4MywyMTI2MzgyODcyLDE0ND
 UyMTU3NywxODU0Mzk0MDk0LC0xNDEwMTE3NDEyLC04NzgxNzA1
 MzgsLTEyODAzOTUxNjAsMTM1NjM1Njg5NiwzMjM2NzI2NjAsLT
 EwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMTI5MzQ5NTc4NCwxMDAw
