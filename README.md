@@ -2175,8 +2175,8 @@ Frontend:
 #### 6.2.3.2 Sprint Backlog 2
         
 - Sprint #: 2
-|US ID|US TITLE|TASK ID|TASK DESCRIPTION|TASK ESTIMATION|ASSIGNED TO|STATUS|
-|US ID|US TITLE|TASK ID|TASK DESCRIPTION|TASK ESTIMATION|ASSIGNED TO|STATUS|
+| US ID | US TITLE | TASK ID | TASK DESCRIPTION | TASK ESTIMATION | ASSIGNED TO | STATUS |
+|--------|------------|-------------|--------------------------|------------------------|-------------------|-----------|
 #### 6.2.3.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
@@ -2442,11 +2442,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjk3ODEzNyw2MjcwNjA3OTEsNjc2OT
-A5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkxODMs
-MjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMTQxMD
-ExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4
-OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLT
-EyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTEx
-ODA1NDAwXX0=
+eyJoaXN0b3J5IjpbLTE5Njc3MzIzNDMsNjI3MDYwNzkxLDY3Nj
+kwOTM4MSw0MTQwMzg2OTMsMTk3MDcxMDQ5OSwxNzUyNTA5MTgz
+LDIxMjYzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MT
+AxMTc0MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2
+ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC
+0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUx
+MTgwNTQwMF19
 -->
