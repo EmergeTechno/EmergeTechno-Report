@@ -2183,9 +2183,9 @@ Frontend:
 |https://github.com/EmergeTechno/Cropmaster-backend|feature/device-management|982589e473cc187f97749d3da1099e7a6701eae5|feat(device): adding glocud||23/11/2023|
 |https://github.com/EmergeTechno/Cropmaster-backend|feature/device-management|59d43d3c160efc0227a58ca9223e24ec0e42e4c6|feat(device): change distribution to DDD||23/11/2023|
 |https://github.com/EmergeTechno/Cropmaster-frontend|develop|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
-|https://github.com/EmergeTechno/Cropmaster-frontend|develop|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
-|https://github.com/EmergeTechno/Cropmaster-frontend|develop|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
-|https://github.com/EmergeTechno/Cropmaster-frontend|develop|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
+|https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
+|https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
+|https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -2441,11 +2441,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMDMwNjU3LDYyNzA2MDc5MSw2NzY5MD
-kzODEsNDE0MDM4NjkzLDE5NzA3MTA0OTksMTc1MjUwOTE4Mywy
-MTI2MzgyODcyLDE0NDUyMTU3NywxODU0Mzk0MDk0LC0xNDEwMT
-E3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUxNjAsMTM1NjM1Njg5
-NiwzMjM2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4NzUwMCwtMT
-I5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5NzYsLTE1MTE4
-MDU0MDBdfQ==
+eyJoaXN0b3J5IjpbLTYyNTQ4MjU4Myw2MjcwNjA3OTEsNjc2OT
+A5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkxODMs
+MjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMTQxMD
+ExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4
+OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLT
+EyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTEx
+ODA1NDAwXX0=
 -->
