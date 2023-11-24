@@ -2195,6 +2195,8 @@ Frontend:
 |https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
 |https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|1cc5abee00c316b8b45ef31d3bffdcca26334970|feat(IOT): adding real time data connection||23/11/2023|
 |https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|d018e702605ec83df807b11b274f235e5fc2c3f8|feat(IOT): modified endpoints||23/11/2023|
+#### 6.2.3.4. Testing Suite Evidence for Sprint Review
+
 #### 6.2.3.5. Execution Evidence for Sprint Review
 
 
@@ -2447,11 +2449,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA5MTEwMjEsNDA2Mzg5NDk0LC0yNz
-M5MTQzMjIsNjI3MDYwNzkxLDY3NjkwOTM4MSw0MTQwMzg2OTMs
-MTk3MDcxMDQ5OSwxNzUyNTA5MTgzLDIxMjYzODI4NzIsMTQ0NT
-IxNTc3LDE4NTQzOTQwOTQsLTE0MTAxMTc0MTIsLTg3ODE3MDUz
-OCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3MjY2MCwtMT
-A1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nzg0LDEwMDA4
-MjAyMTJdfQ==
+eyJoaXN0b3J5IjpbLTYyMzU0Mjc0OCwtMTA1MDkxMTAyMSw0MD
+YzODk0OTQsLTI3MzkxNDMyMiw2MjcwNjA3OTEsNjc2OTA5Mzgx
+LDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkxODMsMjEyNj
+M4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMTQxMDExNzQx
+MiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4OTYsMz
+IzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLTEyOTM0
+OTU3ODRdfQ==
 -->
