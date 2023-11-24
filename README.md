@@ -2051,9 +2051,8 @@ Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que 
 
   | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
   |------------|--------|-----------|----------------|---------------------|---------------|
-  | CropMaster-Landing-Page|main| 20b77b8dd8623a1e07229f741926404efe09806a|featura(testing): test for login done|| 25/09/2023|
-  |CropMaster-Landing-Page|main|7ff27918981f92c6ed9717d5a03cc22849865d83|add: 2 ,3 ,4 scenarios|26/09/2023           |        |           |                |                     |               |
-    
+  | CrosMaster-Backend| feature/testing | 96750817491747e33a234073cd6e30a701af8a60 |feature(testing): test for logIn done|| 23/11/2023|
+  | CrosMaster-Backend| feature/testing | b3cbf1ca5f7217a646062aa5cbea76fb65d27fe7 |feature(testing): test for register done|          |   23/11/2023      |           |                |                     |               |    
 ####  6.2.2.5. Execution Evidence for Sprint Review
 
 Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
