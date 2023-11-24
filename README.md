@@ -2177,8 +2177,14 @@ Frontend:
 - Sprint #: 2
 - 
 #### 6.2.3.3. Development Evidence for Sprint Review
+
+
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
+
+
 #### 6.2.3.5. Execution Evidence for Sprint Review
+
+
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 BackEnd
 
@@ -2294,8 +2300,11 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights:
 
 -   **Backend**
+![8.PNG (1759×726) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/8.PNG?raw=true)
 
 -  **Frontend**
+![9.png (1666×752) (ibb.co)](https://i.ibb.co/ry14Bgw/9.png)
+
 
 
 ### 6.3.1 Diseño de entrevistas
@@ -2424,11 +2433,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0MDM4NjkzLDE5NzA3MTA0OTksMTc1Mj
-UwOTE4MywyMTI2MzgyODcyLDE0NDUyMTU3NywxODU0Mzk0MDk0
-LC0xNDEwMTE3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUxNjAsMT
-M1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4
-NzUwMCwtMTI5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5Nz
-YsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTEx
-MTY1MDU2OTFdfQ==
+eyJoaXN0b3J5IjpbNjc2OTA5MzgxLDQxNDAzODY5MywxOTcwNz
+EwNDk5LDE3NTI1MDkxODMsMjEyNjM4Mjg3MiwxNDQ1MjE1Nzcs
+MTg1NDM5NDA5NCwtMTQxMDExNzQxMiwtODc4MTcwNTM4LC0xMj
+gwMzk1MTYwLDEzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5
+NTI4LC0xNjAwODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMi
+wxOTA3NzU4OTc2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYz
+NzIyMzEyXX0=
 -->
