@@ -510,7 +510,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 - Residencia: Arequipa
 - Duracion:2:21
 - Tecnologías: Windows, Android. 
-- Álvaro tiene familia en Arequipa, su principal actividad es administrar un hotel pero su familia tiene cultivos y tierras de palta pero no sabe como producir de forma rentable, por eso necesita administrar sus cultivos de forma rapida y precisa.Probo la aplicacion y le gusto ya que facilita el objetivo de 
+- Álvaro tiene familia en Arequipa, su principal actividad es administrar un hotel pero su familia tiene cultivos y tierras de palta pero no sabe como producir de forma rentable, por eso necesita administrar sus cultivos de forma rápida y precisa. Probo la aplicación y le gusto ya que facilita el objetivo de poder 
 
   
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EVsD1LlRbgZAkM8D64ggtrwBVzRKyYDOqHM9_AjzZqdPww?e=JBlIll&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
@@ -2375,11 +2375,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc5MjYyMzgsMTgyNDI4MDIxMCwtNz
-g2MjM5MzUxLC0xNTcxOTA3NDM2LC02MjM1NDI3NDgsLTEwNTA5
-MTEwMjEsNDA2Mzg5NDk0LC0yNzM5MTQzMjIsNjI3MDYwNzkxLD
-Y3NjkwOTM4MSw0MTQwMzg2OTMsMTk3MDcxMDQ5OSwxNzUyNTA5
-MTgzLDIxMjYzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLT
-E0MTAxMTc0MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2
-MzU2ODk2XX0=
+eyJoaXN0b3J5IjpbLTIwNTcyNzU1OCwxODI0MjgwMjEwLC03OD
+YyMzkzNTEsLTE1NzE5MDc0MzYsLTYyMzU0Mjc0OCwtMTA1MDkx
+MTAyMSw0MDYzODk0OTQsLTI3MzkxNDMyMiw2MjcwNjA3OTEsNj
+c2OTA5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkx
+ODMsMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMT
+QxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYz
+NTY4OTZdfQ==
 -->
