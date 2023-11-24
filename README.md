@@ -504,6 +504,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 - Tecnologías: Windows, Android. 
 - Resumen:
 - Carmen es una administradora que vive en huaral, una ciudad agricola, ella trabaja alquilando departamentos y tiene una sembrio en el que realiza el cultivo de vainitas, ella dedica 3 dias a la semana para trabajar en la chacra.Ella tiene buena señal movil, tambien nos explica que el suelo arenoso y los climas propicios en Huaral le son de mucha ayuda. Nos comenta que tuvo un previo asesoramiento en su cultivo y no realiza podas por la naturaleza de sus plantas.
+
+
   
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EVsD1LlRbgZAkM8D64ggtrwBVzRKyYDOqHM9_AjzZqdPww?e=JBlIll&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
 
@@ -527,6 +529,10 @@ Entrevista #2:
 - Tecnologías: Windows, Android. 
 - Resumen: Entrevistamos a un experto en asesoramiento agrícola con experiencia en diversas áreas. El experto se enfoca en evaluar las necesidades de los agricultores y proporcionar recomendaciones específicas para mejorar la producción. Los desafíos actuales incluyen la falta de acceso a información actualizada y la adaptación a las tendencias agrícolas. El experto aconseja formación previa para nuevos proyectos. No está familiarizado con dispositivos IoT, y su interés en una aplicación móvil para asesorar depende de su eficacia y beneficios.
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201720027_upc_edu_pe/EchUMnhyOTdJohEd0jXEsZUB8_y6hFEgEwryAjkw6zWurQ?e=02ejMr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+
+
+
 
 - 2.2.3. Análisis de entrevistas.
 
@@ -2363,11 +2369,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjIzOTM1MSwtMTU3MTkwNzQzNiwtNj
-IzNTQyNzQ4LC0xMDUwOTExMDIxLDQwNjM4OTQ5NCwtMjczOTE0
-MzIyLDYyNzA2MDc5MSw2NzY5MDkzODEsNDE0MDM4NjkzLDE5Nz
-A3MTA0OTksMTc1MjUwOTE4MywyMTI2MzgyODcyLDE0NDUyMTU3
-NywxODU0Mzk0MDk0LC0xNDEwMTE3NDEyLC04NzgxNzA1MzgsLT
-EyODAzOTUxNjAsMTM1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNTI5
-Mzk1MjhdfQ==
+eyJoaXN0b3J5IjpbMTk0NjU3ODQ2MSwtNzg2MjM5MzUxLC0xNT
+cxOTA3NDM2LC02MjM1NDI3NDgsLTEwNTA5MTEwMjEsNDA2Mzg5
+NDk0LC0yNzM5MTQzMjIsNjI3MDYwNzkxLDY3NjkwOTM4MSw0MT
+QwMzg2OTMsMTk3MDcxMDQ5OSwxNzUyNTA5MTgzLDIxMjYzODI4
+NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MTAxMTc0MTIsLT
+g3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3
+MjY2MF19
 -->
