@@ -2180,7 +2180,7 @@ Frontend:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited Date |
 |------------|--------|-----------|----------------|----------------------|--------------|
-|------------|--------|-----------|----------------|----------------------|--------------|
+|------------|feature/device-management|-----------|----------------|----------------------|--------------|
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -2436,11 +2436,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MDYwNzkxLDY3NjkwOTM4MSw0MTQwMz
-g2OTMsMTk3MDcxMDQ5OSwxNzUyNTA5MTgzLDIxMjYzODI4NzIs
-MTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MTAxMTc0MTIsLTg3OD
-E3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LDMyMzY3MjY2
-MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkzNDk1Nzg0LD
-EwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNTQwMCw2NDY5
-MzczNTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjE3NDQ0MjIsNjI3MDYwNzkxLDY3Nj
+kwOTM4MSw0MTQwMzg2OTMsMTk3MDcxMDQ5OSwxNzUyNTA5MTgz
+LDIxMjYzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MT
+AxMTc0MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2
+ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC
+0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUx
+MTgwNTQwMF19
 -->
