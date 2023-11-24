@@ -504,7 +504,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 - Tecnologías: Windows, Android. 
 - Resumen:
 - Carmen es una administradora que vive en huaral, una ciudad agricola, ella trabaja alquilando departamentos y tiene una sembrio en el que realiza el cultivo de vainitas, ella dedica 3 dias a la semana para trabajar en la chacra.Ella tiene buena señal movil, tambien nos explica que el suelo arenoso y los climas propicios en Huaral le son de mucha ayuda. Nos comenta que tuvo un previo asesoramiento en su cultivo y no realiza podas por la naturaleza de sus plantas.
-
+![entrevista3]
+()
 
   
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EVsD1LlRbgZAkM8D64ggtrwBVzRKyYDOqHM9_AjzZqdPww?e=JBlIll&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
@@ -2369,7 +2370,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjU3ODQ2MSwtNzg2MjM5MzUxLC0xNT
+eyJoaXN0b3J5IjpbLTc1NTU1MTk0NSwtNzg2MjM5MzUxLC0xNT
 cxOTA3NDM2LC02MjM1NDI3NDgsLTEwNTA5MTEwMjEsNDA2Mzg5
 NDk0LC0yNzM5MTQzMjIsNjI3MDYwNzkxLDY3NjkwOTM4MSw0MT
 QwMzg2OTMsMTk3MDcxMDQ5OSwxNzUyNTA5MTgzLDIxMjYzODI4
