@@ -2291,6 +2291,12 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
 	![7.PNG (423×478) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/7.PNG?raw=true)
 #### 6.2.3.8. Team Collaboration Insights During Sprint## 6.3 Validation Interviews
+Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights:
+
+-   **Backend**
+
+-  **Frontend**
+
 
 ### 6.3.1 Diseño de entrevistas
 
@@ -2418,11 +2424,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTA4MTAzNywxOTcwNzEwNDk5LDE3NT
-I1MDkxODMsMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5
-NCwtMTQxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLD
-EzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAw
-ODc1MDAsLTEyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OT
-c2LC0xNTExODA1NDAwLDY0NjkzNzM1NCwtODYzNzIyMzEyLC0x
-MTE2NTA1NjkxXX0=
+eyJoaXN0b3J5IjpbNDE0MDM4NjkzLDE5NzA3MTA0OTksMTc1Mj
+UwOTE4MywyMTI2MzgyODcyLDE0NDUyMTU3NywxODU0Mzk0MDk0
+LC0xNDEwMTE3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUxNjAsMT
+M1NjM1Njg5NiwzMjM2NzI2NjAsLTEwNTI5Mzk1MjgsLTE2MDA4
+NzUwMCwtMTI5MzQ5NTc4NCwxMDAwODIwMjEyLDE5MDc3NTg5Nz
+YsLTE1MTE4MDU0MDAsNjQ2OTM3MzU0LC04NjM3MjIzMTIsLTEx
+MTY1MDU2OTFdfQ==
 -->
