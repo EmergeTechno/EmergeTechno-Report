@@ -2169,10 +2169,13 @@ Frontend:
 - Sprint Goal & User Stories
     | Sprint Goal 2                  | Implementar mejoras del Front End, implementación del BackEnd |
     |---------------------------------| ------------------------------------------------------------------------------------------------|
-    | Sprint 2  Velocity               |     42                                                                  |
+    | Sprint 2  Velocity               |     33|
     | Sum of story  points             |      33|
-
-
+    
+#### 6.2.2.2 Sprint Backlog 2
+        
+- Sprint #: 2
+- 
 
 ## 6.3 Validation Interviews
 
@@ -2302,11 +2305,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDcxMDQ5OSwxNzUyNTA5MTgzLDIxMj
-YzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MTAxMTc0
-MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2ODk2LD
-MyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC0xMjkz
-NDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUxMTgwNT
-QwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwtMTExNjUwNTY5MSwt
-NDA3NDE2ODkyXX0=
+eyJoaXN0b3J5IjpbLTE4OTc1MTA4NjksMTk3MDcxMDQ5OSwxNz
+UyNTA5MTgzLDIxMjYzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQw
+OTQsLTE0MTAxMTc0MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MC
+wxMzU2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYw
+MDg3NTAwLC0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1OD
+k3NiwtMTUxMTgwNTQwMCw2NDY5MzczNTQsLTg2MzcyMjMxMiwt
+MTExNjUwNTY5MV19
 -->
