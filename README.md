@@ -511,8 +511,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 - Residencia: Arequipa
 - Duracion:2:21
 - Tecnologías: Windows, Android. 
-- Álvaro tiene familia en Arequipa, su principal actividad es administrar un hotel pero su familia tiene cultivos y tierras de palta pero no sabe como producir de forma rentable, por eso necesita administrar sus cultivos de forma rápida y precisa. Probo la aplicación y le gusto ya que facilita el objetivo de poder controlar sus cultivos por primera vez.Pero no le gusta el color y tampoco el diseño del sistema web.
-- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EVsD1LlRbgZAkM8D64ggtrwBVzRKyYDOqHM9_AjzZqdPww?e=JBlIll&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
+- Álvaro tiene familia en Arequipa, su principal actividad es administrar un hotel pero su familia tiene cultivos y tierras de palta pero no sabe como producir de forma rentable, por eso necesita administrar sus cultivos de forma rápida y precisa. Probo la aplicación y le gusto ya que facilita el objetivo de poder controlar sus cultivos por primera vez. Pero no le gusto el color y tampoco el diseño del sistema web.
+- Enlace:[entrevista 3 farmer.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201311688_upc_edu_pe/EW5toxKYictNig_rqz3IUdcB2rsXskYBNZtayA1epuaufQ?e=fFEt9A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ***Segmento 2: Specialist***
 Entrevista #1: 
@@ -2374,11 +2374,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzkyMzQwLDE4MjQyODAyMTAsLTc4Nj
-IzOTM1MSwtMTU3MTkwNzQzNiwtNjIzNTQyNzQ4LC0xMDUwOTEx
-MDIxLDQwNjM4OTQ5NCwtMjczOTE0MzIyLDYyNzA2MDc5MSw2Nz
-Y5MDkzODEsNDE0MDM4NjkzLDE5NzA3MTA0OTksMTc1MjUwOTE4
-MywyMTI2MzgyODcyLDE0NDUyMTU3NywxODU0Mzk0MDk0LC0xND
-EwMTE3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUxNjAsMTM1NjM1
-Njg5Nl19
+eyJoaXN0b3J5IjpbMTUxNjk0ODk1NywxODI0MjgwMjEwLC03OD
+YyMzkzNTEsLTE1NzE5MDc0MzYsLTYyMzU0Mjc0OCwtMTA1MDkx
+MTAyMSw0MDYzODk0OTQsLTI3MzkxNDMyMiw2MjcwNjA3OTEsNj
+c2OTA5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkx
+ODMsMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMT
+QxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYz
+NTY4OTZdfQ==
 -->
