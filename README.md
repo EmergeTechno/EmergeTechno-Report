@@ -2178,12 +2178,12 @@ Frontend:
 - 
 | US ID | US TITLE | TASK ID | TASK DESCRIPTION | TASK ESTIMATION | ASSIGNED TO | STATUS |
 |--------|------------|-------------|--------------------------|------------------------|-------------------|-----------|
-| US019 | Seleccionar un plan | ST0015 | Diseñar e implementar la vista y funcionalidad de selección de planes | 12 horas | ASSIGNED TO | STATUS |
-| US020 | Mejorar su plan | ST0016 | iseñar e implementar la vista y funcionalidad de mejora de plan | D | ASSIGNED TO | STATUS |
-| TS006 | Gestión de dispositivos vinculados | ST0017 | Implementar funcionalidades de gestión de dispositivos | TASK ESTIMATION | ASSIGNED TO | STATUS |
-| TS008 | Notificaciones y alertas| ST0018 | Diseñar e implementar las vistas y funcionalidades de las notificaciones | TASK ESTIMATION | ASSIGNED TO | STATUS |
-| TS005 | Integraciones de Dispositivos IoT | ST0019 | Diseñar e implementar funcionalidades de dispositivos IoT con el Backend | TASK ESTIMATION | ASSIGNED TO | STATUS |
-| TS007 | Visualización de Datos en la Interfaz de Usuario | ST0020 | Diseñar la visualización de datos en tiempo real | TASK ESTIMATION | ASSIGNED TO | STATUS |
+| US019 | Seleccionar un plan | ST0015 | Diseñar e implementar la vista y funcionalidad de selección de planes | 12 horas | Diego | STATUS |
+| US020 | Mejorar su plan | ST0016 | iseñar e implementar la vista y funcionalidad de mejora de plan | 8 horas | Bruno | STATUS |
+| TS006 | Gestión de dispositivos vinculados | ST0017 | Implementar funcionalidades de gestión de dispositivos | 8 horas | Enrique | STATUS |
+| TS008 | Notificaciones y alertas| ST0018 | Diseñar e implementar las vistas y funcionalidades de las notificaciones | 8 horas | Rafael | STATUS |
+| TS005 | Integraciones de Dispositivos IoT | ST0019 | Diseñar e implementar funcionalidades de dispositivos IoT con el Backend | 8 horas | Diego | STATUS |
+| TS007 | Visualización de Datos en la Interfaz de Usuario | ST0020 | Diseñar la visualización de datos en tiempo real | 8 horas | Enrique | STATUS |
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
@@ -2450,7 +2450,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDA4NDk1MCw2MjcwNjA3OTEsNjc2OT
+eyJoaXN0b3J5IjpbLTI3MzkxNDMyMiw2MjcwNjA3OTEsNjc2OT
 A5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkxODMs
 MjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMTQxMD
 ExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4
