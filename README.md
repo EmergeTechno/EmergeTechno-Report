@@ -2358,12 +2358,12 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 
 ## 6.4 Video About-the-Product
 
-A continuacion, se hara presente el video sobre el producto desarrollado.
+A continuación, se hará presente el video sobre el producto desarrollado.
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EebxFS2P1uVDgUqK3ORqUA4B55KHG3-1fHViJQLPPHS41A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=F8BwI0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EebxFS2P1uVDgUqK3ORqUA4B55KHG3-1fHViJQLPPHS41A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=F8BwI0)
 
 ## Conclusiones
 
-- La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programacion.
+- La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programación.
 - Las entrevistas de validación son esenciales para que el equipo de desarrollo pueda identificar errores que solo son perceptibles para personas externas al proceso de desarrollo, como los posibles usuarios.
 - Mejorar la comunicación es una de las ventajas de utilizar herramientas colaborativas, ya que facilitan la interacción efectiva y fluida entre los integrantes del equipo, lo que simplifica la discusión de ideas, la resolución de problemas y la toma de decisiones.
 - Es bueno dividir la colaboración del código en ramas para evitar futuros conflictos en el desarrollo del proyecto.
@@ -2374,11 +2374,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjk0ODk1NywxODI0MjgwMjEwLC03OD
-YyMzkzNTEsLTE1NzE5MDc0MzYsLTYyMzU0Mjc0OCwtMTA1MDkx
-MTAyMSw0MDYzODk0OTQsLTI3MzkxNDMyMiw2MjcwNjA3OTEsNj
-c2OTA5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkx
-ODMsMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMT
-QxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYz
-NTY4OTZdfQ==
+eyJoaXN0b3J5IjpbOTUzNjg3ODkzLDE4MjQyODAyMTAsLTc4Nj
+IzOTM1MSwtMTU3MTkwNzQzNiwtNjIzNTQyNzQ4LC0xMDUwOTEx
+MDIxLDQwNjM4OTQ5NCwtMjczOTE0MzIyLDYyNzA2MDc5MSw2Nz
+Y5MDkzODEsNDE0MDM4NjkzLDE5NzA3MTA0OTksMTc1MjUwOTE4
+MywyMTI2MzgyODcyLDE0NDUyMTU3NywxODU0Mzk0MDk0LC0xND
+EwMTE3NDEyLC04NzgxNzA1MzgsLTEyODAzOTUxNjAsMTM1NjM1
+Njg5Nl19
 -->
