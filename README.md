@@ -2184,8 +2184,8 @@ Frontend:
 |https://github.com/EmergeTechno/Cropmaster-backend|feature/device-management|59d43d3c160efc0227a58ca9223e24ec0e42e4c6|feat(device): change distribution to DDD||23/11/2023|
 |https://github.com/EmergeTechno/Cropmaster-frontend|develop|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
 |https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
-|https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
-|https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|07ce886684758b7f0650329df26443c24a8e8c29|Merge pull request #10 from EmergeTechno/feature/connection||23/11/2023|
+|https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|1cc5abee00c316b8b45ef31d3bffdcca26334970|feat(IOT): adding real time data connection||23/11/2023|
+|https://github.com/EmergeTechno/Cropmaster-frontend|feature/IOT|d018e702605ec83df807b11b274f235e5fc2c3f8|feat(IOT): modified endpoints||23/11/2023|
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -2441,11 +2441,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTQ4MjU4Myw2MjcwNjA3OTEsNjc2OT
-A5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkxODMs
-MjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5NCwtMTQxMD
-ExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLDEzNTYzNTY4
-OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAwODc1MDAsLT
-EyOTM0OTU3ODQsMTAwMDgyMDIxMiwxOTA3NzU4OTc2LC0xNTEx
-ODA1NDAwXX0=
+eyJoaXN0b3J5IjpbLTE0NzY5MjI3NTYsNjI3MDYwNzkxLDY3Nj
+kwOTM4MSw0MTQwMzg2OTMsMTk3MDcxMDQ5OSwxNzUyNTA5MTgz
+LDIxMjYzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQsLTE0MT
+AxMTc0MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMzU2MzU2
+ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3NTAwLC
+0xMjkzNDk1Nzg0LDEwMDA4MjAyMTIsMTkwNzc1ODk3NiwtMTUx
+MTgwNTQwMF19
 -->
