@@ -512,7 +512,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 - Duracion:2:21
 - Tecnologías: Windows, Android. 
 - Álvaro tiene familia en Arequipa, su principal actividad es administrar un hotel pero su familia tiene cultivos y tierras de palta pero no sabe como producir de forma rentable, por eso necesita administrar sus cultivos de forma rápida y precisa. Probo la aplicación y le gusto ya que facilita el objetivo de poder controlar sus cultivos por primera vez. Pero no le gusta el color y tampoco el diseño del sistema web.
-- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017388_upc_edu_pe/EVsD1LlRbgZAkM8D64ggtrwBVzRKyYDOqHM9_AjzZqdPww?e=JBlIll&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201311688_upc_edu_pe/EW5toxKYictNig_rqz3IUdcB2rsXskYBNZtayA1epuaufQ?e=B77Twb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
   
 
 ***Segmento 2: Specialist***
@@ -2375,7 +2375,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mjc5NTQ1MCwxODI0MjgwMjEwLC03OD
+eyJoaXN0b3J5IjpbMTcwMzk0MDM1OCwxODI0MjgwMjEwLC03OD
 YyMzkzNTEsLTE1NzE5MDc0MzYsLTYyMzU0Mjc0OCwtMTA1MDkx
 MTAyMSw0MDYzODk0OTQsLTI3MzkxNDMyMiw2MjcwNjA3OTEsNj
 c2OTA5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NTI1MDkx
