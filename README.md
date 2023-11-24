@@ -2206,19 +2206,19 @@ Frontend:
 Para la entrega del presente sprint se logró desarrollar lo acordado, implementación y despliegue de los servicios del FrontEnd y BackEnd. 
 
 Inicio de sesión:
-![cuarta.png (917×702) (ibb.co)]([https://i.ibb.co/3zQGdV0/cuarta.png](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/login.PNG?raw=true))
+![cuarta.png (917×702) (ibb.co)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/login.PNG?raw=true)
 
 Elegir Plan:
-![quinta.png (775×505) (ibb.co)]([https://i.ibb.co/5GXXR3N/quinta.png](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/register.PNG?raw=true))
+![quinta.png (775×505) (ibb.co)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/register.PNG?raw=true)
 
 Primera vista de crops:
-![sexto.png (1392×867) (ibb.co)]([https://i.ibb.co/txQ867V/sexto.png](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/farmer%201.PNG?raw=true))
+![sexto.png (1392×867) (ibb.co)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/farmer%201.PNG?raw=true)
 
 Vista de monitoreo IOT:
-![7.png (1228×852) (ibb.co)]([https://i.ibb.co/5hPbh0f/7.png](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/farmer%202.PNG?raw=true))
+![7.png (1228×852) (ibb.co)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/farmer%202.PNG?raw=true)
 
 Vista de proyectos:
-![8.png (1706×850) (ibb.co)]([https://i.ibb.co/nDy1Xgc/8.png](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/especialista%201.PNG?raw=true))
+![8.png (1706×850) (ibb.co)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/especialista%201.PNG?raw=true)
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 BackEnd
