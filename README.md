@@ -2189,11 +2189,8 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 **Account Controller**
 
 |Controlador|Variable que usa|Retorno|
-
 |-----------|----------------|-------|
-
 |Account|Un formulario de registro|Mensaje si la cuenta fue creada|
-
 |Account|Formulario de logeo|Token para la autenticación|
 
   
@@ -2201,17 +2198,11 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 **Crop Controller**
 
 |Controlador|Variable que usa|Retorno|
-
 |-----------|----------------|-------|
-
 |Crop|Formulario de creación de un crop|Mensaje si fue creado exitosamente|
-
 |Crop|Id de un cultivador|Lista de crops de acuerdo al id dado|
-
 |CropReport|Formulario de creación de crop report|Mensaje de confirmación|
-
 |CropReport|Id del crop|Retornar una lista de crop reports que pertenecen a un crop|
-
 |CropReport|Id del crop report|Retornar un crop report de acuerdo al Id dado|
 
   
@@ -2219,17 +2210,11 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 **Project Controller**
 
 |Endpoint|Variable que usa|Retorno|Tipo de solicitud|
-
 |-----------|----------------|-------|-|
-
 |Project|Cuerpo necesario para la creación de un Crop|Mensaje de confirmación de creación exitosa|POST|
-
 |projects/{projectId}|Id del proyecto deseado|Un Dto de un proyecto|GET|
-
 |projects/{specialistId}/specialist|Id del especialista|Lista de Dto's del proyecto según el Id dado|GET|
-
 |project/{farmerId}/farmer|Id del farmer|Una lista de prouectos de acuerdo al Id dado|GET|
-
 |project/{projectId/start}/Id del proyecto|Inicia un proyecto|PUT|
 
   
@@ -2238,17 +2223,11 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 **Device Controller**
 
 |Endpoint|Variable que usa|Retorno|Tipo de solicitud|
-
 |-----------|----------------|-------|--------------|
-
 |devices|Cuerpo para la creación de un dispositivo IoT|Confirmación de la creación|POST|
-
 |devices/{deviceId}/{cropId}/assign|Id de dispositivo y Id de crop|POST|
-
 |devices/{deviceId}|Id de dispositivo|Retorna DTo de un dispositivo IoT|GET|
-
 |devices/{deviceId}/temperaturehumidity|Id del dispositivo|Retorna temperatura y humedad que registra un dispositivo IoT|GET|
-
 |devices/{deviceId}/temperature|Cuerpo para envío de información|Mensaje de operación exitosa|PUT|
 
   
@@ -2264,11 +2243,8 @@ Se logró implementar la mayoría de endpoints acordados, a continuación se mue
 
 ![](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/swagger3.PNG?raw=true)
 
-  
-
-**Documentacion del BackEnd:**[ttps://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.html](https://nifty-jet-404014.rj.r.appspot.com/swagger-ui/index.htmln)
-
-**Enlace al repositorio del BackEnd:** [https://github.com/DevIOT-AgriPure/AgriPure-BackEnd](https://github.com/DevIOT-AgriPure/AgriPure-BackEnd)
+ 
+**Enlace al repositorio del BackEnd:**  [https://github.com/EmergeTechno/Cropmaster-backend](https://github.com/EmergeTechno/Cropmaster-backend)
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 Para el presente Sprint, se logró desplegar la segunda version de nuestra Landing Page y de nuestro FrontEnd. 
 
@@ -2442,7 +2418,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUwODI2MCwxOTcwNzEwNDk5LDE3NT
+eyJoaXN0b3J5IjpbLTMwMTA4MTAzNywxOTcwNzEwNDk5LDE3NT
 I1MDkxODMsMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5
 NCwtMTQxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLD
 EzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAw
