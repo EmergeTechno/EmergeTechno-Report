@@ -2146,7 +2146,7 @@ Para el presente Sprint, se logró desplegar la segunda version de nuestra Landi
 	![7.PNG (423×478) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/7.PNG?raw=true)
 
 
-#### 6.2.2.8. Team Collaboration Insights During Sprint
+#### 6.2.2.8. 
 
 Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sprint, a continuación se muestra la colaboración utilizando la herramienta de GitHub Insights: 
 Backend: 
@@ -2344,114 +2344,7 @@ Se logró alcanzar la mayoría de objetivos planteados al inicio del presente Sp
 
 
 
-### 6.3.1 Diseño de entrevistas
 
- - **Sector agricultores**
-	- ¿En general, que te ha parecido la aplicación?
-	- ¿Crees que cumple el propósito para el que fue creada?
-	- ¿Crees que la elección de colores es la correcta?
-	- ¿Qué función crees que debemos mejorar?
-	- ¿Crees que te resultaría más fácil llevar un control sobre tus cultivos?
-	- ¿Qué nuevas funciones agregarías? 
-
-- **Sector especialistas**
-	- ¿En general, que te ha parecido la aplicación?
-	- ¿Crees que cumple el propósito para el que fue creada?
-	- ¿Crees que la elección de colores es la correcta?
-	- ¿Qué función crees que debemos mejorar?
-	- ¿Crees que te resultaría más fácil encontrar y asignar un proyecto a un cultivo?
-	- ¿Qué nuevas funciones agregarías? 
-
-### 6.3.2 Registro de entrevistas
-
-Entrevista 1:Erick Joaquin
-
-![12.png (639×300) (ibb.co)](https://i.ibb.co/tJQYTX9/12.png)
-- Edad: 26
-- Timing: 14:40
-- Resumen: Nuestro entrevistado comenta le gustó las funcionalidades de la aplicación. Erick nos comenta que es posible mejorar el chat y la vista del perfil
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201720027_upc_edu_pe/Ed5QSpzXmgZIlzk076PfNHIB76kDacn0W2KeHvp8dR3MHQ?e=1fW0rq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
-
-Entrevista 2: Fernando Garay
-
-![11.png (1227×572) (ibb.co)](https://i.ibb.co/G5Bq5RS/11.png)                                                                                                                                                                   Edad: 27
-
-Timing: 8 min
-
-Resumen: El entrevistada cuenta que la aplicación le pareció muy útil, como especialista se vio muy intuitiva, además que los colores le parecieron correctos, comentando que le gustaría un color verdoso también; nos aclara que le gustaría que se agreguen más vegetales a la categoría y que puedan llegar notificaciones al correo cuando un farmer quiera solicitarlo, cuando haga alguna tarea de su proyecto o cuando le envia un mensaje.
-Link : https://upcedupe-my.sharepoint.com/:v:/g/personal/u201720027_upc_edu_pe/Ea26IRvf69pHjL46lUIgO2UBs42fWnce0TvFrw3KqGUZUA?e=vOPnWI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
-
-### 6.3.3 Evaluación según heurísticas
-
-**Carrera:** Ingenieria de Software
-**Curso:** Arquitecturas De Software Emergentes
-**Sección:** WS82
-**Profesor:** Royer Edelwer Rojas Malasquez
-
-
-**Site o App a evaluar**
-CropMaster
-
-**Tareas a evaluar:**
-- Vista de cultivos
-- Vista de especialistas
-- Chat
-- Creación proyecto
-
-**Escala de severidad**
-
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
-
-|Nivel|Descripción|
-|-----|-----------|
-|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
-|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
-|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
-|4| Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento|
-
-**Tabla de resumen**
-
-|#|Problema|Escala de severidad|Heurística/Principio Violado|
-|-|--------|-------------------|----------------------------|
-|1|Colores muy oscuros|2|Contraste y Legibilidad|
-|2|Notificaciones al gmail|3|Entrega de Información y Comunicación|
-|3|Diseño perfiles|2|Facilidad de Uso y Experiencia del Usuario|
-|4|Poca variedad de vegetales|3|Diversidad y Elección|
-
-**Descripción de problemas:**
-
-## Problema #1
-
-### Severidad:  2
-
-###Problema:
-Colores muy oscuros, no tiene nada que ver con cultivos o gente que se relaciona con estas actividades
-### Recomendación:
-Hacer un cambio en la paleta de colores, de modo que se sientas colores más vivos e intensos
-## Problema #2
-
-### Severidad:  3
-
-### Problema:
-Notificaciones al gmail, cuando el usuario solicita un especialista, no le llega la notificacion al gmail.
-### Recomendación:
-Asegurarse de implementar adecuadamente la función de notificaciones por gmail y permite que los usuarios configuren sus preferencias de notificación.
-## Problema #3
-
-### Severidad:  2
-
-### Problema:
-Diseño perfiles, no tiene mucha información los perfiles y no son muy vistosos
-### Recomendación:
-Simplificar el diseño de perfiles, manteniendo la información esencial visible y organizada de manera intuitiva para facilitar la navegación y la gestión de perfiles.
-## Problema #4
-
-### Severidad:  3
-
-### Problema:
-Poca variedad de vegetales, no hay mucha cantidad de vegetales a escoger
-### Recomendación:
-Amplíar la gama de opciones de vegetales disponibles para ofrecer una selección más diversa y adaptada a las preferencias de los usuarios, mejorando así su experiencia de elección y satisfacción.
 ## 6.4 Video About-the-Product
 
 A continuacion, se hara presente el video sobre el producto desarrollado.
