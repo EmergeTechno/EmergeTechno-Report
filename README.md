@@ -2156,7 +2156,7 @@ Frontend:
 ### 6.2.3. Sprint 2
   Para este sprint tomamos en cuenta las User Stories que tengan relaciòn con el desarrollo e implementaciòn de los servicios Front-End y Back-end. 
 
-#### 6.2.2.1 Sprint Planning 2
+#### 6.2.3.1 Sprint Planning 2
 
 - Sprint #: 2
 - Spring Planning Background
@@ -2172,15 +2172,59 @@ Frontend:
     | Sprint 2  Velocity               |     33|
     | Sum of story  points             |      33|
     
-#### 6.2.2.2 Sprint Backlog 2
+#### 6.2.3.2 Sprint Backlog 2
         
 - Sprint #: 2
 - 
-#### 6.2.2.3. Development Evidence for Sprint Review
+#### 6.2.3.3. Development Evidence for Sprint Review
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 #### 6.2.3.5. Execution Evidence for Sprint Review
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
+Para el presente Sprint, se logró desplegar la segunda version de nuestra Landing Page y de nuestro FrontEnd. 
+
+**Landing Page:**
+  Para el despliegue de nuestra landing page se utiliza "GitHub Pages" ya que es ideal para sitios westáticos. Es muy fácil de realizar el despliegue. Para llevarlo a cabo, seguiremos los siguientes paso
+  - **Accedemos al repositorio de nuestra landing page:**![10.png (639×289) (ibb.co)](https://i.ibb.co/r3hpNPx/10.png)
+  - **Nos va a configuración, a la sección de page** [Landing page deploy conf]![segundo.png (1446×740) (ibb.co)](https://i.ibb.co/NCxYj8d/segundo.png)
+
+  - **Seleccionamos la rama de donde desplegaremos landing** ![Landing page delpoy branch](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/ladingdeploybranch.PNG?raw=truee)
+  - **Esperamos unos instantes y la landing page esta desplegada** 
+
+	![tercero.png (640×349) (ibb.co)](https://i.ibb.co/JvCR0wv/tercero.png)
+
+
+ -  **Web application**
+
+	Para el despliegue de nuestro front-end service se utilizarà "Netlify", ya que es ideal para sitios web dinàmicos.
+	- Iniciamos sesión en netlify:
+		![Sesion netlify](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/logInNetlify.PNG?raw=true)
+	- Generamos un archivo dist ingresando el siguiente comando en la carpeta de nuestro proyecto:
+		![npm](https://github.com/DevIOT-AgriPure/Project-Report/blob/feature/capitulo-6/images/software-deploy-configuration/npmrunbuild.PNG?raw=true)
+	- Subimos el archivo dist y esperamos que termine de subir el proyecto:
+		![deploySETWA.PNG (1887×822) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/deploySETWA.PNG?raw=true)
+
+ - **BackEnd Services**
+
+	Para el despliegue de nuestro Backend utilizaremos la plataforma de Google Cloud, a continuacin se detallanlospasoa a seguir:
+
+	Creamos nuestro proyecto de Base de Datos en nuestra cuenta de Google Cloud:
+	![2.PNG (946×733) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/2.PNG?raw=true)
+
+	Creamos una instancia MySql:
+	![4.PNG (1900×826) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/4.PNG?raw=true)
+
+	Esperamos a que se cree la instancia:
+	![3.PNG (1899×570) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/3.PNG?raw=true)
+
+	Creamos nuestra base de datos:
+	![5.PNG (911×628) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/5.PNG?raw=true)
+
+	Hacemos una conexión desde nuestro MySql para ver si la base de datos fue creada:
+	![6.PNG (426×515) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/6.PNG?raw=true)
+
+	Ejecutamos nuestra API para ver si se conecta y genera las tablas:
+	![7.PNG (423×478) (github.com)](https://github.com/EmergeTechno/EmergeTechno-Report/blob/main/images/7.PNG?raw=true)
 #### 6.2.3.8. Team Collaboration Insights During Sprint## 6.3 Validation Interviews
 
 ### 6.3.1 Diseño de entrevistas
@@ -2309,7 +2353,7 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzM5NjY2NCwxOTcwNzEwNDk5LDE3NT
+eyJoaXN0b3J5IjpbMjAyNjA3ODM4NCwxOTcwNzEwNDk5LDE3NT
 I1MDkxODMsMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5
 NCwtMTQxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLD
 EzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAw
