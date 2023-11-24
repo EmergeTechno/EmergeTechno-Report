@@ -39,7 +39,7 @@ Ciclo: 2023-2
 | 3.0| 01/11/2023|Diego Talledo Bruno Palomino| Se completo el sprint y documentación|
 | 3.1| 03/11/2023|Rafael semanez Enrique Postigo| Se completo entrevistas y validaciones|
 | 4.0| 21/11/2023|Diego Talledo Bruno Palomino| Se crearon los títulos de las secciones a desarrollar y avances del sprint|
-| 4.1| 23/11/2023|Rafael semanez Enrique Postigo| Se agregaron las secciones restantes|
+| 4.1| 23/11/2023|Rafael semanez Enrique Postigo| Se agregaron las secciones restantes y avances del sprint|
 
 ## Project Report Collaboration Insights
 
@@ -2470,11 +2470,11 @@ A continuacion, se hara presente el video sobre el producto desarrollado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQzMzcxMjcsLTYyMzU0Mjc0OCwtMT
-A1MDkxMTAyMSw0MDYzODk0OTQsLTI3MzkxNDMyMiw2MjcwNjA3
-OTEsNjc2OTA5MzgxLDQxNDAzODY5MywxOTcwNzEwNDk5LDE3NT
-I1MDkxODMsMjEyNjM4Mjg3MiwxNDQ1MjE1NzcsMTg1NDM5NDA5
-NCwtMTQxMDExNzQxMiwtODc4MTcwNTM4LC0xMjgwMzk1MTYwLD
-EzNTYzNTY4OTYsMzIzNjcyNjYwLC0xMDUyOTM5NTI4LC0xNjAw
-ODc1MDBdfQ==
+eyJoaXN0b3J5IjpbMTUwNzAyNzE2LC02MjM1NDI3NDgsLTEwNT
+A5MTEwMjEsNDA2Mzg5NDk0LC0yNzM5MTQzMjIsNjI3MDYwNzkx
+LDY3NjkwOTM4MSw0MTQwMzg2OTMsMTk3MDcxMDQ5OSwxNzUyNT
+A5MTgzLDIxMjYzODI4NzIsMTQ0NTIxNTc3LDE4NTQzOTQwOTQs
+LTE0MTAxMTc0MTIsLTg3ODE3MDUzOCwtMTI4MDM5NTE2MCwxMz
+U2MzU2ODk2LDMyMzY3MjY2MCwtMTA1MjkzOTUyOCwtMTYwMDg3
+NTAwXX0=
 -->
